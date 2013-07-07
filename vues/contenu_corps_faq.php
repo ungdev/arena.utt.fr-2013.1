@@ -1,0 +1,1 @@
+Ici une belle FAQ pour les newbies :) 

@@ -1,0 +1,1 @@
+Ici nos partenaires avec liens et logos :) 
