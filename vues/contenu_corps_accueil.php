@@ -1,3 +1,11 @@
+﻿
+<h2>Rejoignez nous sur les réseaux sociaux ! </h2>
+<a href="https://www.facebook.com/UA2K12?fref=ts"><img src="img/Facebook Round.png" alt="facebook"></a>
+<a href="https://twitter.com/UTTNetGroup"><img src="img/Twitter Round.png" alt="twitter"></a>
+<a href="http://www.youtube.com/channel/UCm8nToPe0gc0zlUa-gAxvEA"><img src="img/Youtube Round.png" alt="youtube"></a>
+
+</br></br>
+
 <div id="compte_a_rebours"><noscript>Fin de l'évènement le 1er janvier 2013.</noscript>
 
 <script type="text/javascript">
@@ -86,4 +94,7 @@ function compte_a_rebours()
 }
 compte_a_rebours();
 </script>
+
+
+
 </div>
