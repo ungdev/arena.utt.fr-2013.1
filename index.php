@@ -8,8 +8,10 @@
 
 <body>
 
+	<div id="wrap">
 	<?php  require './vues/contenu_menu.php' ?>
     <?php  require './vues/contenu_corps_accueil.php' ?>
+	</div>	
 
     <?php  require './vues/contenu_foot.php' ?>
 

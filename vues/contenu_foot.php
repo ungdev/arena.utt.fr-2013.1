@@ -1,12 +1,10 @@
 
 
-<div id="contenu_foot"> <!-- Début CONTENU FOOT -->
-
-    <footer id="pied"> <!-- Début FOOTER -->
-            </br><p>Copyright &copy; 2013 UTT Net Group</p>
-    </footer><!-- Fin FOOTER -->
-
-</div> <!-- Fin CONTENU FOOT -->
+ <div id="footer">
+		<div class="container">
+			<p class="text-muted credit">Copyright &copy; 2013 UTT Net Group</p>
+		</div>
+ </div>
 
 
 
