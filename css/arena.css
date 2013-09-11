@@ -1,16 +1,113 @@
-.logo_partenaire {
-float:right;
-vertical-align:text-top;
-width : 140px;
+/* @media screen and (min-width: 830px) */
+@media screen and (min-width: 450px)
+{
+	body 
+	{
+		background: #020301 url("../images/body.bg.png") top center no-repeat fixed;
+		color: #333;
+	} 
+	html { margin-top: 0 !important; }
 
+	.contenu
+	{
+		background: none !important;
+		color: white;
+		margin-top: -50px;
+		padding-right: 50px;
+		padding-left: 50px;
+		min-height: 500px;
+		clear: both;
+	}
+
+	#centered 
+	{
+		width: 1250px;
+		margin: 0 auto;
+		position: relative;
+	}
+
+	#logoleft
+	{
+		background: url('../images/header.logoleft.png') no-repeat;
+		width: 234px;
+		height: 208px;
+		margin: 0 auto;
+		float: left;
+	}
+
+	#logobar 
+	{
+		background: url('../images/header.logobar.png') top no-repeat;
+		width: 984px;
+		margin: auto;
+		margin-top: 47px;
+		height: 88px;
+		float: left;
+	}
+
+	.navbar
+	{
+		height: 210px;
+		position: relative !important;
+	}
+	
+	.navbar img { display: none; }
+
+
+
+
+	/* .navbar .navbar-header { position: absolute;  }
+	.navbar-toogle { position: relative !important } */
+	.navbar li { background: #001927; }
+	.navbar .container { margin-top: 137px !important; }
+	.navbar { background: url('../images/header.bg.png') bottom repeat-x !important; }
+	.container, #footer { background: none !important; }
+	
+	
+	
+	@media screen and (max-width: 830px)
+	{
+		#logoleft { display: none; }
+	}
+	
+	
 }
 
-.nom_partenaire{
-font-size:150%;
 
+
+
+
+
+
+/* @media screen and (max-width: 830px) */
+@media screen and (max-width: 450px)
+{
+	body { background: #DDDDDD none; }
+	.navbar { background: #001927 url("../images/header_bg.png") repeat-x; }
+	/* .navbar li { background-image: linear-gradient(#020202,â€‹ #101112 40%,â€‹ #191B1D) !important; } */
+	.navbar .navbar-collapse 
+	{ 	
+		background-color: #272B2E;
+		background-image: linear-gradient(#020202,â€‹ #101112 40%,â€‹ #191B1D);
+	}
+	
+	
+	.navbar img { max-height:25px; display: block-inline; }
+	.contenu
+	{
+		color: #333333;
+		position: relative;
+		top: 50px;
+	}
+
+
+	@media screen and (min-width: 768px)
+	{
+		.navbar .navbar-collapse
+		{
+			background: none;
+		}
+	}
 }
 
-.type_question{
-font-size:150%;
-
-}
+body { text-align: justify; }
