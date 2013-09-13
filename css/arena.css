@@ -1,11 +1,11 @@
 /* @media screen and (min-width: 830px) */
 @media screen and (min-width: 450px)
 {
-	body 
+	body
 	{
 		background: #020301 url("../images/body.bg.png") top center no-repeat fixed;
 		color: #333;
-	} 
+	}
 	html { margin-top: 0 !important; }
 
 	.contenu
@@ -19,7 +19,7 @@
 		clear: both;
 	}
 
-	#centered 
+	#centered
 	{
 		width: 1250px;
 		margin: 0 auto;
@@ -35,10 +35,10 @@
 		float: left;
 	}
 
-	#logobar 
+	#logobar
 	{
 		background: url('../images/header.logobar.png') top no-repeat;
-		width: 984px;
+		min-width: 984px;
 		margin: auto;
 		margin-top: 47px;
 		height: 88px;
@@ -50,7 +50,7 @@
 		height: 210px;
 		position: relative !important;
 	}
-	
+
 	.navbar img { display: none; }
 
 
@@ -62,15 +62,15 @@
 	.navbar .container { margin-top: 137px !important; }
 	.navbar { background: url('../images/header.bg.png') bottom repeat-x !important; }
 	.container, #footer { background: none !important; }
-	
-	
-	
+
+
+
 	@media screen and (max-width: 830px)
 	{
 		#logoleft { display: none; }
 	}
-	
-	
+
+
 }
 
 
@@ -85,13 +85,13 @@
 	body { background: #DDDDDD none; }
 	.navbar { background: #001927 url("../images/header_bg.png") repeat-x; }
 	/* .navbar li { background-image: linear-gradient(#020202,â€‹ #101112 40%,â€‹ #191B1D) !important; } */
-	.navbar .navbar-collapse 
-	{ 	
+	.navbar .navbar-collapse
+	{
 		background-color: #272B2E;
 		background-image: linear-gradient(#020202,â€‹ #101112 40%,â€‹ #191B1D);
 	}
-	
-	
+
+
 	.navbar img { max-height:25px; display: block-inline; }
 	.contenu
 	{
