@@ -1,10 +1,15 @@
 <div class="container contenu">
 
-    <h2>Rejoignez nous sur les réseaux sociaux ! </h2>
-    <a href="https://www.facebook.com/UA2K12?fref=ts"><img src="images/social/facebook.round.png" alt="facebook" /></a>
-    <a href="https://twitter.com/UTTNetGroup"><img src="images/social/twitter.round.png" alt="twitter" /></a>
-    <a href="http://www.youtube.com/channel/UCm8nToPe0gc0zlUa-gAxvEA"><img src="images/social/youtube.round.png" alt="youtube" /></a>
-
+	<h2>Bienvenue sur le site de l'UTT Arena, édition 2013 !</h2>
+	
+    <h3>Pour rester informés, rejoignez nous sur les réseaux sociaux ! </h3>
+    <a href="https://www.facebook.com/UA2K12?fref=ts"><img height='50' src="images/social/facebook.round.png" alt="facebook" /></a>
+    <a href="https://twitter.com/UTTNetGroup"><img height='50' src="images/social/twitter.round.png" alt="twitter" /></a>
+    <a href="http://www.youtube.com/channel/UCm8nToPe0gc0zlUa-gAxvEA"><img height='50' src="images/social/youtube.round.png" alt="youtube" /></a>
+    <br/><br/>
+	Vous pouvez aussi vous inscrire par mail : 
+	
+	
     <br/><br/>
 
     <div id="compte_a_rebours">

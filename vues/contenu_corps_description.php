@@ -60,7 +60,28 @@
 	<div class="row">
 		<div class="span11 well">
 		<a name="description"><h2>Déroulement de la LAN</h2></a>
-		Zoulie description !
+		L'UTT Arena change de formule ! 
+		
+		Nous vous proposons de vous amuser lors d'animations présentes tout le week-end. 
+		<h3>Les tournois libres</h3>
+		Grâce à notre site intranet, l'équipe vous proposera des jeux et des petits tournois toute la journée : défis sur notre serveur Minecraft, tournois sur console, challenge speedrun sur Portal et bien d'autres. Vous pourrez ainsi remporter des lots. Et si vous voulez faire des matchs avec vos voisins, l'intranet vous permettra de trouver vos adversaires et d'organiser vos rencontres. N'oubliez pas d'aller regarder la liste des jeux !
+		
+		<h3>Les tournois spotlights</h3>
+		Vous êtes fan de League of Legends ou de Starcraft II ? Nous vous organisons le samedi après-midi et le samedi soir deux sessions de tournois Spotlight. Durant 3h, venez combattre en solo ou avec votre équipe et remporter des lots !
+		
+		<h3>Les animations de nos partenaires</h3>
+		Chaque année, nous avons le plaisir de recevoir Macommune.org et SaveGames. </br>
+		Macommune.org est une communauté qui vous fait découvrir des jeux libres. Prenez place avec vos amis devant l'un des 16 PCs en libre accès de leur stand, et amusez vous sur TeeWorlds, Tron et d'autres. </br>
+		SaveGames est un magasin de jeux vidéos situé au centre-ville de Troyes. Ils nous proposent des consoles récentes en libre accès, avec de nombreux jeux. </br>
+		
+		<h3>Des jeux de société et de plateau</h3>
+		Grâce à l'association étudiante Dé Mille et Dé Cent, vous pourrez profiter de jeux de plateaux. Et oui, un petit Munchkin entre deux tournois, c'est possible !
+		
+		<h3>Nos invités</h3>
+		Sur la scène, vous allez retrouver plein d'animations, et surtout des matchs en streaming. Pour les commenter, nous accueillons des invités que vous connaissez peut être... Mais chut, pour le moment c'est une surprise !
+		
+		<h3>Et encore plein d'autres choses...</h3>
+		Nous avons encore des tas de projets dans les cartons, alors n'hésitez pas à vous tenir informés sur les reseaux sociaux et la newsletter.
 		</div>
 	</div>
 </div>

@@ -25,20 +25,15 @@ Mail : contact@uttarena.org
 
 <h2>Date et horaires :</h2>
 
-<em>Ouverture :</em> Vendredi 18 Mai 16h.</br>
+<em>Ouverture :</em> Vendredi 13 Décembre à 16h.</br>
 
-<em>Clôture des inscriptions des équipes par le capitaine de chaque équipe :</em> Vendredi 12h.</br>
-
-<em>Fin des tournois :</em> Dimanche 20 Mai 18h.</br>
+<em>Fin des animations :</em> Dimanche 15 Décembre à 18h.</br>
 
 <h2>Tarifs</h2>
 
-<em>Préventes :</em></br>
+<em>Préventes :</em>5€</br>
 
-<em>Etudiant de l'UTT :</em> 10€ </br>
-<em>Extérieur :</em> 15€</br></br>
-
-Majoration de 5€ sur place, soit 15€ et 20€ respectivement.
+Majoration de 5€ sur place.
 
 <h2>Ce que vous devez apporter :</h2>
 <div class="alert alert-info">

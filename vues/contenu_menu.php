@@ -15,7 +15,7 @@
         </div>
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li><a href="news.php">News</a></li>
+                
                 <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Event 2013 <b class="caret"></b></a>
                     <ul class="dropdown-menu">

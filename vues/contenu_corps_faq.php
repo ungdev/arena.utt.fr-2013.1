@@ -23,7 +23,7 @@
     <div id="collapseTwo" class="accordion-body collapse">
       <div class="accordion-inner">
 		<ul>
-			<li><p class="text-info">A quelle heure commence la LAN ?</p>L'UTT Arena ouvre ses portes le vendredi à 17h. Les tournois, eux, commenceront seulement le lendemain aux alentours de 11h. Un planning des évènements, avec des horaires plus précis, vous sera fourni dans la semaine précédant la LAN. </li>
+			<li><p class="text-info">A quelle heure commence la LAN ?</p>L'UTT Arena ouvre ses portes le vendredi à 17h. Les animations commencent à xxx. Un planning des évènements, avec des horaires plus précis, vous sera fourni dans la semaine précédant la LAN. </li>
 			<li><p class="text-info">Où puis-je dormir ?</p>Nous pouvons vous fournir une salle de repos pour des pauses, néanmoins nous ne pouvons vous fournir un véritable logement pour la nuit. Nous vous conseillons de trouver une solution, que ce soit de dormir dans un hôtel, de dormir dans vos voitures ou tout simplement de sommeiller devant votre écran.</li>
 			<li><p class="text-info">Comment se sustenter au cours de l'événement ?</p>La commission bouffe (dite aussi commission mangeaille) installera un stand près de l'accueil, avec une équipe chaleureuse et serviable à votre disposition (plus de 20h par jour) pour vous servir en boissons, barres, sandwiches et nourritures diverses. </li>
 			<li><p class="text-info">Quel matériel est fourni/loué ?</p>A part cas exceptionnel, rien n'est fourni. Néanmoins nous louons des écrans et vendons des câbles réseaux RJ-45 de 5 mètres. Les prix seront établis dans les semaines à venir.</li>
