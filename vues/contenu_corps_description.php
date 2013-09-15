@@ -58,18 +58,6 @@
 	</p>
 
 	<p>
-		<h2>Un aperçu de nos LAN précédentes</h2>
-		<center>
-				<div class="videoWrapper">
-					<iframe width="569" height="320" src="//www.youtube.com/embed/VOptmb5cxDA" frameborder="0" allowfullscreen></iframe>
-				</div><br />
-				<div class="videoWrapper">
-					<iframe width="569" height="320" src="//www.youtube.com/embed/CzKtbMyXfRU" frameborder="0" allowfullscreen></iframe>
-				</div>
-		</center>
-		Retrouvez toutes nos vidéos sur <a href="http://www.youtube.com/user/UTTNetGroup">notre chaîne Youtube UTTNetGroup.</a> 
-	</p>
-	<p>
 		<a name="description"><h2>Déroulement de la LAN</h2></a>
 		L'UTT Arena change de formule ! 
 		
@@ -93,6 +81,18 @@
 		
 		<h3>Et encore plein d'autres choses...</h3>
 		Nous avons encore des tas de projets dans les cartons, alors n'hésitez pas à vous tenir informés sur les reseaux sociaux et la newsletter.
-		</p>
+	</p>
 
+	<p>
+		<h2>Un aperçu de nos LAN précédentes</h2>
+		<center>
+				<div class="videoWrapper">
+					<iframe width="569" height="320" src="//www.youtube.com/embed/VOptmb5cxDA" frameborder="0" allowfullscreen></iframe>
+				</div><br />
+				<div class="videoWrapper">
+					<iframe width="569" height="320" src="//www.youtube.com/embed/CzKtbMyXfRU" frameborder="0" allowfullscreen></iframe>
+				</div>
+		</center>
+		Retrouvez toutes nos vidéos sur <a href="http://www.youtube.com/user/UTTNetGroup">notre chaîne Youtube UTTNetGroup.</a> 
+	</p>
 </div>
