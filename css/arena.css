@@ -1,11 +1,11 @@
 /* @media screen and (min-width: 830px) */
 @media screen and (min-width: 450px)
 {
-	body
+	body 
 	{
 		background: #020301 url("../images/body.bg.png") top center no-repeat fixed;
 		color: #333;
-	}
+	} 
 	html { margin-top: 0 !important; }
 
 	.contenu
@@ -19,7 +19,7 @@
 		clear: both;
 	}
 
-	#centered
+	#centered 
 	{
 		width: 1250px;
 		margin: 0 auto;
@@ -35,10 +35,10 @@
 		float: left;
 	}
 
-	#logobar
+	#logobar 
 	{
 		background: url('../images/header.logobar.png') top no-repeat;
-		min-width: 984px;
+		width: 984px;
 		margin: auto;
 		margin-top: 47px;
 		height: 88px;
@@ -50,8 +50,11 @@
 		height: 210px;
 		position: relative !important;
 	}
-
+	
 	.navbar img { display: none; }
+
+
+
 
 	/* .navbar .navbar-header { position: absolute;  }
 	.navbar-toogle { position: relative !important } */
@@ -59,32 +62,44 @@
 	.navbar .container { margin-top: 137px !important; }
 	.navbar { background: url('../images/header.bg.png') bottom repeat-x !important; }
 	.container, #footer { background: none !important; }
-
+	
+	
+	
 	@media screen and (max-width: 830px)
 	{
 		#logoleft { display: none; }
 	}
+	
+	
 }
+
+
+
+
+
+
 
 /* @media screen and (max-width: 830px) */
 @media screen and (max-width: 450px)
 {
 	body { background: #DDDDDD none; }
 	.navbar { background: #001927 url("../images/header_bg.png") repeat-x; }
-	/* .navbar li { background-image: linear-gradient(#020202,â€‹ #101112 40%,â€‹ #191B1D) !important; } */
-	.navbar .navbar-collapse
-	{
+	/* .navbar li { background-image: linear-gradient(#020202,​ #101112 40%,​ #191B1D) !important; } */
+	.navbar .navbar-collapse 
+	{ 	
 		background-color: #272B2E;
-		background-image: linear-gradient(#020202,â€‹ #101112 40%,â€‹ #191B1D);
+		background-image: linear-gradient(#020202,​ #101112 40%,​ #191B1D);
 	}
-
-	.navbar img { max-height:25px; display: inline-block; }
+	
+	
+	.navbar img { max-height:25px; display: block-inline; }
 	.contenu
 	{
 		color: #333333;
 		position: relative;
 		top: 50px;
 	}
+
 
 	@media screen and (min-width: 768px)
 	{
@@ -96,3 +111,30 @@
 }
 
 body { text-align: justify; }
+
+.carousel-caption, .carousel-caption h4
+{
+	text-shadow:
+	#000000 1px 1px 2px,
+	#000000 -1px 1px 2px,
+	#000000 -1px -1px 2px,
+	#000000 1px -1px 2px !important; 
+}
+
+
+.videoWrapper 
+{
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+
+.videoWrapper iframe 
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
