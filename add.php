@@ -17,5 +17,5 @@ $email = $_POST['email']; // get the email
 	if( add_email_to_database($email) ){ // if we added the user
 		reply(0, "Merci ! On vous tiendra au courant."); // set no error
 	}else{
-		reply(1, "Vous nous avez déjà communiqué votre adresse."); // else, the user was found alreay
+		reply(1, "Votre e-mail est deja dans notre liste VIP ;)"); // else, the user was found alreay
 	};

@@ -13,8 +13,7 @@ $("#email").focus(function(){	// when the input is clicked
 
 									
 $('#subscribe').submit(function(e){	// when clicked
-	$('#submit').animate({'opacity': '0.4'}).attr({'disabled': 'disabled'}); // fade out/deactivet submit button
-	e.preventDefault(); // prevent defult
+	e.preventDefault(); // prevent default
 	$.ajax({ //ajax
 		type: 'post', // post the data
 		dataType: 'json', // data type
@@ -23,9 +22,6 @@ $('#subscribe').submit(function(e){	// when clicked
 		success: function(e){ // on success 
 			if(e.error == true){ // if we set an error
 				$('.message').html(e.message).slideDown(); // display the message
-				$('#submit').animate({'opacity': '1'}, function(){ // fade back in the submit box
-					$(this).removeAttr('disabled'); // remove the disabled attr so its clickable
-				});
 			}else{ // if we set didn't set an error
 				$('#subscribe').slideUp(); // slide up the subscribe box
 				$('.message').html(e.message).slideDown(); // slide down the message
