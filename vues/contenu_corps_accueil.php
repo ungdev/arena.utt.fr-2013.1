@@ -6,7 +6,7 @@
 <script type="text/javascript" src="js/jquery.js"></script>
 <script type="text/javascript" src="js/suscribe.js"></script>
 
-<div class="container contenu">
+<div class="container">
 	<div class="page-header">
 	<h1>Bienvenue sur le site de l'UTT Arena, édition 2013 !</h1>
 	</div>

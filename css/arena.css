@@ -1,12 +1,12 @@
 /* @media screen and (min-width: 830px) */
 @media screen and (min-width: 450px)
 {
-	body 
+	body, html
 	{
 		background: #020301 url("../images/body.bg.png") top center no-repeat fixed;
 		color: #333;
 	} 
-	html { margin-top: 0 !important; }
+	/*html { margin-top: 0 !important; }*/
 
 	.contenu
 	{
@@ -28,7 +28,7 @@
 
 	#logoleft
 	{
-		background: url('../images/header.logoleft.png') no-repeat;
+		background: url('../images/header.logoleft.png') top no-repeat;
 		width: 234px;
 		height: 208px;
 		margin: 0 auto;
@@ -47,22 +47,38 @@
 
 	.navbar
 	{
-		height: 210px;
+		height: 209px;
 		position: relative !important;
 	}
 	
 	.navbar img { display: none; }
 
 
-
+	.dropdown-menu {
+		background-color: #001927 !important;
+		color: #fff;
+	}
+	.dropdown-menu>li>a {
+		color: #adc4d1;
+	
+	}
+	.navbar-default .navbar-nav>li>a:hover,
+	.navbar-default .navbar-nav>li>a:focus,
+	.navbar-default .navbar-nav>.open>a,
+	.navbar-default .navbar-nav>.open>a:hover,
+	.navbar-default .navbar-nav>.open>a:focus {
+		background-color: #003F58;
+	}
+	
+	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+		background-color: #003F58;
+	}
 
 	/* .navbar .navbar-header { position: absolute;  }
 	.navbar-toogle { position: relative !important } */
 	.navbar li { background: #001927; }
 	.navbar .container { margin-top: 137px !important; }
 	.navbar { background: url('../images/header.bg.png') bottom repeat-x !important; }
-	.container, #footer { background: none !important; }
-	
 	
 	
 	@media screen and (max-width: 830px)
@@ -72,12 +88,6 @@
 	
 	
 }
-
-
-
-
-
-
 
 /* @media screen and (max-width: 830px) */
 @media screen and (max-width: 450px)
