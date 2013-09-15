@@ -1,4 +1,4 @@
-﻿<div class="container contenu">
+﻿<div class="container">
 
 	<div class="page-header">
 			<h1>L'UTT Arena</h1>

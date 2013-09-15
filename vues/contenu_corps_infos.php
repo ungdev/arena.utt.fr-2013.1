@@ -1,4 +1,4 @@
-		<div class="container contenu">
+		<div class="container">
 			<div class="page-header">
 				<h1>Informations pratiques</h1>
 			</div>

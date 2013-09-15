@@ -1,4 +1,4 @@
-		<div class="container contenu">
+		<div class="container">
 			<div class="page-header">
 				<h1>Les jeux de l'UA, édition 2013</h1>
 			</div>

@@ -1,4 +1,5 @@
 <!-- Fixed navbar -->
+<div id="topbg">
 <div class="navbar navbar-default navbar-fixed-top">
     <div id="centered">
         <div id="logoleft"></div>
@@ -31,4 +32,5 @@
         </div><!--/.nav-collapse -->
 
     </div>
+</div>
 </div>
