@@ -2,15 +2,18 @@
 @media screen and (min-width: 450px) {
 
 	body, html {
-		background: #FFF;
+		background: #0B161B;
+		
 	}
 	
-	#topbg {	background: #000 url("../images/body.bg.png") top center no-repeat fixed;}
+	#topbg {	background: #020301 url("../images/body.bgss.png") top center no-repeat fixed;}
 
 	body>.container {
-		border: 1px solid #e6e6e6; 
+		background: #fff url('../images/article.header.bg.png') top repeat-x;
+		border: 1px solid #1B2F3B; 
 		margin-top: 0px;
 		padding: 20px;
+		padding-top: 45px;
 		min-height: 500px;
 		clear: both;
 	}
