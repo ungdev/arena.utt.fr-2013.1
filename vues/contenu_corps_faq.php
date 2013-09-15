@@ -1,4 +1,7 @@
-﻿
+﻿		<div class="container contenu">
+			<div class="page-header">
+				<h1>Questions fréquentes</h1>
+			</div>
 
 <div class="accordion" id="accordion2">
   <div class="accordion-group">
@@ -80,5 +83,6 @@
 		</ul>
       </div>
     </div>
+  </div>
   </div>
 </div>
