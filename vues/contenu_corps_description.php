@@ -11,25 +11,25 @@
 			  </ol>
 			  <!-- Carousel items -->
 			  <div class="carousel-inner" >
-				<div class="active item"><a href="description.php#description"><img src="img/joueurs.jpg" height="638" width="960">
+				<div class="active item"><a href="description.php#description"><img src="images/pics/joueurs.jpg" height="638" width="960">
 					<div class="carousel-caption">
 						<h4>UTT Arena 2013</h4>
 						<p>L'UTT Arena change de formule, nous vous expliquons tout du nouveau fonctionnement !</p> 
 					</div></a>
 				</div>
-				<div class="item"><a href="jeux.php"><img src="img/night.jpg" height="638" width="960">
+				<div class="item"><a href="jeux.php"><img src="images/pics/night.jpg" height="638" width="960">
 				<div class="carousel-caption">
 						<h4>Liste des jeux</h4>
 						<p>Votre jeu préféré sera t'il à l'UTT Arena ? Venez le découvrir et télécharger les jeux !</p>
 					</div></a>
 				</div>
-				<div class="item"><a href="infos.php"><img src="img/matelas.jpg" height="638" width="960">
+				<div class="item"><a href="infos.php"><img src="images/pics/matelas.jpg" height="638" width="960">
 				<div class="carousel-caption">
 						<h4>Informations pratiques</h4>
 						<p>Comment venir ? Où dormir ? Combien coûte l'entrée ?</p>
 					</div></a>
 				</div>
-				<div class="item"><a href="staff.php"><img src="img/crepes.jpg" height="638" width="960">
+				<div class="item"><a href="staff.php"><img src="images/pics/crepes.jpg" height="638" width="960">
 				<div class="carousel-caption">
 						<h4>Le staff</h4>
 						<p>Le saviez-vous ? L'UTT Arena est organisée bénévolement par des étudiants de l'UTT et de l'IUT.</p>

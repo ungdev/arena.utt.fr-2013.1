@@ -53,9 +53,6 @@
 
 	.navbar img { display: none; }
 
-
-
-
 	/* .navbar .navbar-header { position: absolute;  }
 	.navbar-toogle { position: relative !important } */
 	.navbar li { background: #001927; }
@@ -63,21 +60,11 @@
 	.navbar { background: url('../images/header.bg.png') bottom repeat-x !important; }
 	.container, #footer { background: none !important; }
 
-
-
 	@media screen and (max-width: 830px)
 	{
 		#logoleft { display: none; }
 	}
-
-
 }
-
-
-
-
-
-
 
 /* @media screen and (max-width: 830px) */
 @media screen and (max-width: 450px)
@@ -91,15 +78,13 @@
 		background-image: linear-gradient(#020202,â€‹ #101112 40%,â€‹ #191B1D);
 	}
 
-
-	.navbar img { max-height:25px; display: block-inline; }
+	.navbar img { max-height:25px; display: inline-block; }
 	.contenu
 	{
 		color: #333333;
 		position: relative;
 		top: 50px;
 	}
-
 
 	@media screen and (min-width: 768px)
 	{

@@ -3,10 +3,8 @@
  $message = $_SESSION['message']; // check if we have a message to display
  $_SESSION['message'] = "";  // clear the message for next time
 ?>
-<head>
-	<script type="text/javascript" src="js/jquery.js"></script>
-	<script type="text/javascript" src="js/scripts.js"></script>
-</head>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/suscribe.js"></script>
 
 <div class="container contenu">
 	<div class="page-header">
