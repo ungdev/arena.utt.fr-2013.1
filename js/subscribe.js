@@ -2,16 +2,7 @@ $(function() {
 
 $('#submit').removeAttr('disabled'); // when we load the page make sure this button is OK
 $('.message').css({"display": "none"});	// hide the message class
-						
-var emailsVal = $('#email').val(); // get the current value of #email
 
-$("#email").focus(function(){	// when the input is clicked
-	if($(this).val() == emailsVal){ // if the value is the defult value
-		$(this).val(''); // clear the box
-	}
-});
-
-									
 $('#subscribe').submit(function(e){	// when clicked
 	e.preventDefault(); // prevent default
 	$.ajax({ //ajax

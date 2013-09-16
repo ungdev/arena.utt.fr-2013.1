@@ -3,9 +3,10 @@
  $message = $_SESSION['message']; // check if we have a message to display
  $_SESSION['message'] = "";  // clear the message for next time
 ?>
-<script type="text/javascript" src="js/jquery.js"></script>
-<script type="text/javascript" src="js/suscribe.js"></script>
-
+<head>
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/subscribe.js"></script>
+</head>
 <div class="container">
 	<br/>
 	<div class="jumbotron">
@@ -126,11 +127,10 @@
 					<label class="control-label" for="email">Nous pouvons vous avertir dès l'ouverture des inscriptions :</label>
 					<div class="input-group">
 						<span class="input-group-addon">Email</span>
-						<input type="text" class="form-control">
+						<input type="text" class="form-control" id="email">
 						<span class="input-group-btn">
-							<button class="btn btn-default" type="button">OK</button>
+							<button class="btn btn-default" type="submit">OK</button>
 						</span>
-				
 					</div>
 				</form>
 			</div>
