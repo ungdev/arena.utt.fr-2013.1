@@ -11,7 +11,7 @@
 	<br/>
 	<div class="jumbotron">
 		<h1>Nous sommes de retour !</h1>
-		<p>Cet hiver, l'UTT Arena fait son comeback ! Nouvelle formule, nouvelles activités, plus de fun, plus de liberté, et comme toujours des lots à gagner...</p>
+		<p>Cet hiver, l'UTT Arena fait son comeback ! Nouvelle formule, nouvelles activités, plus de fun, et comme toujours des lots à gagner...</p>
 		<p><a class="btn btn-primary btn-lg">Découvrez l'événement</a></p>
 	</div>
 	
@@ -23,7 +23,7 @@
 			
 			<p style="text-align: center">
 				<a href="https://www.facebook.com/UA2K12?fref=ts"><img src="images/social/facebook.round.png" alt="facebook" /></a>
-				<a href="https://twitter.com/UTTNetGroup"><img src="images/social/twitter.round.png" alt="twitter" /></a>
+				<a href="https://twitter.com/UTTArena"><img src="images/social/twitter.round.png" alt="twitter" /></a>
 				<a href="http://www.youtube.com/channel/UCm8nToPe0gc0zlUa-gAxvEA"><img src="images/social/youtube.round.png" alt="youtube" /></a>
 			</p>
 		</div>
