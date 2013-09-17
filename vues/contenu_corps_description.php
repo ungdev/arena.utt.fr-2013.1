@@ -61,26 +61,29 @@
 		<a name="description"><h2>Déroulement de la LAN</h2></a>
 		L'UTT Arena change de formule ! 
 		
-		Nous vous proposons de vous amuser lors d'animations présentes tout le week-end. 
+		Nous vous proposons de vous amuser lors d'animations présentes tout le week-end. Découvrez le détail ci-dessous.
 		<h3>Les tournois libres</h3>
-		Grâce à notre site intranet, l'équipe vous proposera des jeux et des petits tournois toute la journée : défis sur notre serveur Minecraft, tournois sur console, challenge speedrun sur Portal et bien d'autres. Vous pourrez ainsi remporter des lots. Et si vous voulez faire des matchs avec vos voisins, l'intranet vous permettra de trouver vos adversaires et d'organiser vos rencontres. N'oubliez pas d'aller regarder la liste des jeux !
+		Grâce à notre site intranet, vous serez informés en live. L'équipe vous proposera des jeux et des petits tournois toute la journée : défis sur notre serveur Minecraft, tournois sur console, challenge speedrun sur Portal et bien d'autres. 
+		Vous pourrez ainsi remporter des lots ! 
+		<br/>
+		Et si vous voulez faire des matchs avec vos voisins ou un inconnu à l'autre bout de la salle, l'intranet vous permettra de trouver vos adversaires et d'organiser vos rencontres. N'oubliez pas d'aller regarder la liste des jeux !
 		
 		<h3>Les tournois spotlights</h3>
-		Vous êtes fan de League of Legends ou de Starcraft II ? Nous vous organisons le samedi après-midi et le samedi soir deux sessions de tournois Spotlight. Durant 3h, venez combattre en solo ou avec votre équipe et remporter des lots !
+		Vous êtes fan de League of Legends ou de Starcraft II ? Nous vous organisons le samedi après-midi et le samedi soir deux sessions de tournois Spotlight. Durant deux sessions de 3h, venez combattre en solo ou avec votre équipe et remportez des lots !
 		
 		<h3>Les animations de nos partenaires</h3>
 		Chaque année, nous avons le plaisir de recevoir Macommune.org et SaveGames. </br>
-		Macommune.org est une communauté qui vous fait découvrir des jeux libres. Prenez place avec vos amis devant l'un des 16 PCs en libre accès de leur stand, et amusez vous sur TeeWorlds, Tron et d'autres. </br>
-		SaveGames est un magasin de jeux vidéos situé au centre-ville de Troyes. Ils nous proposent des consoles récentes en libre accès, avec de nombreux jeux. </br>
+		Macommune.org est une communauté qui vous fait découvrir des <a href="http://fr.wikipedia.org/wiki/Libre_de_droits">jeux libres de droits</a>. Prenez place avec vos amis devant l'un des 16 PCs en libre accès dans leur stand, et amusez vous sur TeeWorlds, UrbanTerror, ArmageTron et bien d'autres pépites. </br>
+		SaveGames est un magasin de jeux vidéos situé au centre-ville de Troyes. Ils nous proposent des consoles récentes en libre accès, avec de nombreux jeux récents. </br>
 		
 		<h3>Des jeux de société et de plateau</h3>
-		Grâce à l'association étudiante Dé Mille et Dé Cent, vous pourrez profiter de jeux de plateaux. Et oui, un petit Munchkin entre deux tournois, c'est possible !
+		Grâce à l'association étudiante Dé Mille et Dé Cent, vous pourrez profiter de jeux de plateaux et de jeux de sociétés à puissant potentiel fun. Et oui, un petit Munchkin ou un Poker entre deux tournois, c'est possible !
 		
 		<h3>Nos invités</h3>
 		Sur la scène, vous allez retrouver plein d'animations, et surtout des matchs en streaming. Pour les commenter, nous accueillons des invités que vous connaissez peut être... Mais chut, pour le moment c'est une surprise !
 		
 		<h3>Et encore plein d'autres choses...</h3>
-		Nous avons encore des tas de projets dans les cartons, alors n'hésitez pas à vous tenir informés sur les reseaux sociaux et la newsletter.
+		Nous avons encore des tas de projets dans les cartons et des surprises à découvrir pendant l'événement, alors n'hésitez pas à vous tenir informés sur les réseaux sociaux et la newsletter.
 	</p>
 
 	<p>
