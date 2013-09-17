@@ -36,13 +36,13 @@
 			<a href="http://store.steampowered.com/app/730/">A télécharger ici. </a>
 			</br>
 
-			<img src="http://game-guide.fr/wp-content/uploads/2013/02/ShootMania_Logo2.png">
+			<img src="images/games/shootmania.jpg">
 			SHOOTMANIA [PAYANT]
 			ShootMania Storm révolutionne le FPS multijouer en y ajoutant une dimension communautaire et une rejouabilité sans limite. Conçu par le studio Nadeo, célèbre pour son jeu de course communautaire TrackMania, ShootMania Storm offre des parties rapides et des batailles épiques ou seul votre talent vous permettra de vous distinguer. Seul ou en équipe, sautez dans l’arène de votre choix : maps, modes ou classements, vous êtes libre de jouer selon vos envies et de contribuer à la communauté ShootMania comme vous l’entendez. Gagnez le respect de vos pairs en améliorant votre classement, en gagnant des compétitions esport, ou encore en créant vous-même les expériences de jeu les plus incroyables. Au sein du réseau ManiaPlanet, il y a une communauté de joueurs FPS qui vous attend!
 			<a href="http://fr-maniaplanet.gamesplanet.com/eshop/maniaplanet/shootmania-storm-3202.html?affiliate=siteshoot&utm_source=storm-beta&utm_medium=site&utm_content=crosshair&utm_campaign=shootmania-storm-beta">A télécharger ici. </a>
 			</br>
 			 
-			<img src="http://media.begeek.fr/2012/11/minecraft-logo.jpg"> 
+			<img src="http://media.begeek.fr/2012/11/minecraft-logo.jpg" width='400px'> 
 			MINECRAFT [PAYANT]
 			Minecraft est un jeu vidéo bac à sable multiplateforme fortement inspiré d'Infiniminer, conçu en Java à l'origine par Notch et maintenant géré une petite équipe de développeurs au sein de Mojang AB. Le jeu se concentre sur le joueur qui peut explorer, interagir avec le monde, modifier une carte générée dynamiquement ... En plus de blocs, Minecraft dispose de végétaux, de créatures mystérieuses, et d'objets. Les principales activités dans Minecraft sont l'extraction de minerais, la lutte contre les monstres hostiles, et la conception de blocs et de nouveaux outils en réunissant diverses ressources trouvées. Ce jeu permet également de créer des structures gigantesques, des créations parfois artistiques et autres œuvres de pixel art en solo ou avec d'autres joueurs, notamment grâce à son mode multijoueur. Grâce à la redstone et aux circuits électriques, il est possible de faire des systèmes automatisés et autres mécanismes très complexes. Pour les fans d'exploration, Minecraft comporte aussi un monde souterrain très hostile similaire à l'enfer, et même une dimension finale qui abrite un boss de fin.
 			<a href="https://minecraft.net/store">A télécharger ici. </a>
@@ -55,13 +55,13 @@
 			</br>
 
 
-			<img src="http://quelquesmaladiesneurologiques-.e-monsite.com/medias/files/logo-tmnf.jpg">
+			<img src="images/games/trackmania.jpg">
 			TRACKMANIA [GRATUIT]
 			Contrairement aux autres jeux de courses, dans TrackMania sur PC, seuls les meilleurs temps comptent, dans des circuits farfelus que vous aussi, vous pouvez créer. Vous ne pouvez pas envoyer vos concurrents dans le décor, seul notre niveau de conduite et notre expérience fait la différence. Loopings, virages serrés, rampes d'accélération... De nombreux éléments vous permettent de construire une infinité de circuits que vous pouvez ensuite échanger avec vos amis.
 			<a href="http://trackmaniaforever.com/">A télécharger ici. </a>
 			</br>
 
-			<img src="http://media.desura.com/images/downloads/1/40/39932/logook.jpg">
+			<img src="images/games/quake.jpg">
 			QUAKE 3 [OLDIES]
 			Quake III sur PC est un jeu de tir à la première personne orienté multijoueur. Un arsenal varié et complet est à votre disposition pour organiser une joyeuse boucherie seul ou par équipe. Les modes classiques du genre sont tous là (Capture The Flag, Possession, Deathmatch...).
 			</br>
@@ -72,7 +72,7 @@
 			Unreal Tournament 99 est un FPS sur PC dans lequel vous devez tenter de survivre en tuant le plus d'ennemis possible. Le solo se déroule à la manière d'un jeu de télé-réalité où vous devez lutter pour votre survie dans des combats survitaminés. Le multijoueur propose une véritable boucherie avec de nombreux modes de jeu comme match à mort seul ou en équipe, capture du drapeau, double domination et bombe de balle.
 			</br>
 
-			<img src="http://avezvousteste.fr/wp-content/uploads/2012/01/Battlefield-logo.jpg">
+			<img src="images/games/battlefield.jpg">
 			BATTLEFIELD 3 [PAYANT]
 			Battlefield 3 est un FPS sur PC. A travers une campagne solo et une série de 6 missions coopératives, le jeu vous plonge dans un conflit moderne qui embrase les 4 coins du monde. Battlefield 3 propose en outre un mode multijoueur complet capable d'accueillir 64 joueurs sur 9 maps qui s'adaptent au mode de jeu choisi. Avec ses 4 classes customisables, ses armes modifiables, ses nombreux véhicules et son système d'escouade, il s'oriente principalement vers le jeu d'équipe.
 			<a href="https://www.origin.com/fr-fr/store/buy/battlefield-3/pc-download/base-game/standard-edition">A télécharger ici. </a>
@@ -85,13 +85,13 @@
 			<a href="http://store.steampowered.com/app/440/?snr=1_7_7_151_150_1">A télécharger ici. </a>
 			</br>
 
-			<img src="http://www.g4g.it/g4g2/wp-content/uploads/2010/10/WarLight_01.jpg">
+			<img src="http://www.g4g.it/g4g2/wp-content/uploads/2010/10/WarLight_01.jpg" width='400px'>
 			WARLIGHT [GRATUIT]
 			Warlight est un jeu de stratégie customisable. Il est multi-joueurs et se joue en ligne. Le but est de conquérir toute la map. Si vous avez aimé Risk, vous devriez essayer Warlight !
 			<a href="http://warlight.net/">A télécharger ici. </a>
 			</br>
 
-			<img src="http://misc.team-aaa.com/perso_Drijoka/origin_world-of-tanks-1.jpg">
+			<img src="images/games/worldoftanks.jpg">
 			WORLD OF TANK [GRATUIT] 
 			World of Tanks est un jeu vidéo développé par Wargaming.net. Il est publié pour Windows en 2010 en freemium. Il s’agit d’une simulation de char de combat massivement multijoueur. Il a notamment remporté le record du « plus grand nombre de joueurs simultanément online sur un seul serveur » avec un total de 155 000 joueurs sur le serveur russe.
 			<a href="http://worldoftanks.eu/">A télécharger ici. </a>
