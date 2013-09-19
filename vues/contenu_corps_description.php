@@ -1,5 +1,4 @@
 ﻿<div class="container">
-
 	<div class="page-header">
 			<h1>L'UTT Arena</h1>
 	</div>
@@ -58,7 +57,7 @@
 	</p>
 
 	<p>
-		<a name="description"><h2>Déroulement de la LAN</h2></a>
+		<h2>Déroulement de la LAN</h2>
 		L'UTT Arena change de formule ! 
 		
 		Nous vous proposons de vous amuser lors d'animations présentes tout le week-end. Découvrez le détail ci-dessous.

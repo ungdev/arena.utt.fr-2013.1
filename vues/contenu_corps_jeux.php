@@ -3,7 +3,8 @@
 				<h1>Les jeux de l'UA, édition 2013</h1>
 			</div>
 			<p>Suivez le guide ! Les jeux indiqués en xxx sont gratuits. </p>
-
+			
+			<p>
 			<img src="http://upload.wikimedia.org/wikipedia/fr/thumb/7/77/League_of_Legends_logo.png/280px-League_of_Legends_logo.png">
 			LEAGUE OF LEGENDS [GRATUIT] 
 			League of Legends est un jeu compétitif en ligne bourré d'action, qui mélange l'intensité trépidante des jeux de stratégie en temps réel avec des éléments de jeu de rôle. Deux équipes de puissants champions, chacun avec un design et des compétences uniques, se heurtent de front sur de nombreux champs de bataille et dans des modes de jeu variés. Avec une liste de champions en expansion permanente, des mises à jour fréquentes et des événements compétitifs florissants, League of Legends offre des parties sans cesse renouvelées aux joueurs de tous niveaux.
