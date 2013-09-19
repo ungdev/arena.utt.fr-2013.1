@@ -18,7 +18,7 @@
 				</div>
 				<div class="col-sm-6 col-md-4">
 					<div class="thumbnail">
-					  <img src="images\games\hots.png" width='300px' alt="Logo Starcraft">
+					  <img src="images/games/hots.png" width='300px' alt="Logo Starcraft">
 					  <div class="caption">
 						<h3>STARCRAFT 2</h3>
 						<p>StarCraft II, suite très attendue du premier du nom, est le légendaire jeu de stratégie en temps réel créé par Blizzard Entertainment. StarCraft II est à la fois un jeu solo prenant et un jeu multijoueur rapide. Il s’appuie pour cela sur Battle.net, le service de jeu en ligne très complet de Blizzard Entertainment. Les affrontements en 1c1, 2c2 ou plus font apparaître le talent des joueurs dans des batailles à couper le soufle.
