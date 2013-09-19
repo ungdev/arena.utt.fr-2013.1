@@ -18,7 +18,7 @@
 				</div>
 				<div class="col-sm-6 col-md-4">
 					<div class="thumbnail">
-					  <img src="images\games\hots.png" width='300px' alt="Logo LoL">
+					  <img src="images\games\hots.png" width='300px' alt="Logo Starcraft">
 					  <div class="caption">
 						<h3>STARCRAFT 2</h3>
 						<p>StarCraft II, suite très attendue du premier du nom, est le légendaire jeu de stratégie en temps réel créé par Blizzard Entertainment. StarCraft II est à la fois un jeu solo prenant et un jeu multijoueur rapide. Il s’appuie pour cela sur Battle.net, le service de jeu en ligne très complet de Blizzard Entertainment. Les affrontements en 1c1, 2c2 ou plus font apparaître le talent des joueurs dans des batailles à couper le soufle.
@@ -29,7 +29,7 @@
 				</div>
 				<div class="col-sm-6 col-md-4">
 					<div class="thumbnail">
-					  <img src="images/games/ShootMania.png" width='300px' alt="Logo LoL">
+					  <img src="images/games/ShootMania.png" width='300px' alt="Logo ShootMania">
 					  <div class="caption">
 						<h3>SHOOTMANIA</h3>
 						<p>ShootMania Storm révolutionne le FPS multijoueur en y ajoutant une dimension communautaire et une rejouabilité sans limite. Conçu par le studio Nadeo, célèbre pour son jeu de course communautaire TrackMania, ShootMania Storm offre des parties rapides et des batailles épiques ou seul votre talent vous permettra de vous distinguer. Seul ou en équipe, sautez dans l’arène de votre choix : maps, modes ou classements, vous êtes libre de jouer selon vos envies et de contribuer à la communauté ShootMania comme vous l’entendez.
