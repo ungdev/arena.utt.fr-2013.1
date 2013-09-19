@@ -7,7 +7,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					<div class="thumbnail">
-					  <img src="images\games\league_of_legends.png" alt="Logo LoL">
+					  <img src="images/games/league_of_legends.png" alt="Logo LoL">
 					  <div class="caption">
 						<h3>LEAGUE OF LEGENDS</h3>
 						<p>League of Legends est un jeu compétitif en ligne bourré d'action, qui mélange l'intensité trépidante des jeux de stratégie en temps réel avec des éléments de jeu de rôle. Deux équipes de puissants champions, chacun avec un design et des compétences uniques, se heurtent de front sur de nombreux champs de bataille et dans des modes de jeu variés. Avec une liste de champions en expansion permanente, des mises à jour fréquentes et des événements compétitifs florissants, League of Legends offre des parties sans cesse renouvelées aux joueurs de tous niveaux.
@@ -18,7 +18,7 @@
 				</div>
 				<div class="col-sm-6 col-md-4">
 					<div class="thumbnail">
-					  <img src="images\games\hots.png" width='300px' alt="Logo LoL">
+					  <img src="images/games/hots.png" width='300px' alt="Logo SC2">
 					  <div class="caption">
 						<h3>STARCRAFT 2</h3>
 						<p>StarCraft II, suite très attendue du premier du nom, est le légendaire jeu de stratégie en temps réel créé par Blizzard Entertainment. StarCraft II est à la fois un jeu solo prenant et un jeu multijoueur rapide. Il s’appuie pour cela sur Battle.net, le service de jeu en ligne très complet de Blizzard Entertainment. Les affrontements en 1c1, 2c2 ou plus font apparaître le talent des joueurs dans des batailles à couper le soufle.
@@ -29,7 +29,7 @@
 				</div>
 				<div class="col-sm-6 col-md-4">
 					<div class="thumbnail">
-					  <img src="images/games/ShootMania.png" width='300px' alt="Logo LoL">
+					  <img src="images/games/ShootMania.png" width='300px' alt="Logo Shootmania">
 					  <div class="caption">
 						<h3>SHOOTMANIA</h3>
 						<p>ShootMania Storm révolutionne le FPS multijoueur en y ajoutant une dimension communautaire et une rejouabilité sans limite. Conçu par le studio Nadeo, célèbre pour son jeu de course communautaire TrackMania, ShootMania Storm offre des parties rapides et des batailles épiques ou seul votre talent vous permettra de vous distinguer. Seul ou en équipe, sautez dans l’arène de votre choix : maps, modes ou classements, vous êtes libre de jouer selon vos envies et de contribuer à la communauté ShootMania comme vous l’entendez.
