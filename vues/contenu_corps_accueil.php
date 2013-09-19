@@ -1,7 +1,11 @@
 <?php
  session_start(); // start the session
- $message = $_SESSION['message']; // check if we have a message to display
- $_SESSION['message'] = "";  // clear the message for next time
+ if (isset($_SESSION['message'])){
+	 $message = $_SESSION['message']; // check if we have a message to display
+	 $_SESSION['message'] = "";  // clear the message for next time
+} else {
+	$message = "";
+}
 ?>
 <head>
 	<script type="text/javascript" src="js/jquery.js"></script>
