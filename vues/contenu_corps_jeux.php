@@ -50,7 +50,7 @@
 					<div class="row">
 						<div class="col-md-4">
 							<center>
-								<img src="images/games/minecraft-logo.jpg" width='300px' alt="Logo Minecraft">
+								<img class="img-responsive" src="images/games/Minecraft-logo.png" width='300px' alt="Logo Minecraft">
 							</center>
 						</div>
 						<div class="col-md-8">
@@ -71,7 +71,7 @@
 					<div class="row">
 						<div class="col-md-4">
 							<center>
-								<img src="images/games/battlefield3.png" width='300px' alt="Logo Battlefield 3">
+								<img class="img-responsive" src="images/games/battlefield3.png" width='300px' alt="Logo Battlefield 3">
 							</center>
 						</div>
 						<div class="col-md-8">
@@ -91,12 +91,12 @@
 					<div class="row">
 						<div class="col-md-4">
 							<center>
-								<img src="images/games/trackmania.jpg" width='300px' alt="Logo Trackmania">
+								<img class="img-responsive" src="images/games/trackmania.jpg" width='300px' alt="Logo Trackmania">
 							</center>
 						</div>
 						<div class="col-md-8">
 							<div class="caption">
-								<h3>TRACKMANIA NATIONS</h3>
+								<h3>TRACKMANIA</h3>
 								<p>Contrairement aux autres jeux de courses, dans TrackMania sur PC, seuls les meilleurs temps comptent, dans des circuits farfelus que vous aussi, vous pouvez créer. Vous ne pouvez pas envoyer vos concurrents dans le décor, seul notre niveau de conduite et notre expérience fait la différence. Loopings, virages serrés, rampes d'accélération... De nombreux éléments vous permettent de construire une infinité de circuits que vous pouvez ensuite échanger avec vos amis.
 								</p>
 								<p><a href="http://trackmaniaforever.com/" class="btn btn-primary pull-right">Site</a></p>
@@ -111,7 +111,7 @@
 					<div class="row">
 						<div class="col-md-4">
 							<center>
-								<img src="images/games/dota-2-logo.jpg" width='300px' alt="Logo Dota 2">
+								<img class="img-responsive" src="images/games/dota-2-logo.jpg" width='300px' alt="Logo Dota 2">
 							</center>
 						</div>
 						<div class="col-md-8">
@@ -131,7 +131,7 @@
 					<div class="row">
 						<div class="col-md-4">
 							<center>
-								<img src="images/games/team_fortress_2_logo.png" width='300px' alt="Logo TF2">
+								<img class="img-responsive" src="images/games/team_fortress_2_logo.png" width='300px' alt="Logo TF2">
 							</center>
 						</div>
 						<div class="col-md-8">
@@ -151,7 +151,7 @@
 					<div class="row">
 						<div class="col-md-4">
 							<center>
-								<img src="images/games/l4d2.jpg" width='300px' alt="Logo L4D2">
+								<img class="img-responsive" src="images/games/l4d2.png" width='300px' alt="Logo L4D2">
 							</center>
 						</div>
 						<div class="col-md-8">
@@ -173,7 +173,7 @@
 					<div class="row">
 						<div class="col-md-4">
 							<center>
-								<img src="images/games/logo_csgo.jpg" width='300px' alt="Logo CSGO">
+								<img class="img-responsive" src="images/games/logo_csgo.jpg" width='300px' alt="Logo CSGO">
 							</center>
 						</div>
 						<div class="col-md-8">
@@ -197,7 +197,7 @@
 					<div class="row">
 						<div class="col-md-4">
 							<center>
-								<img src="images/games/teeworld.jpg" width='300px' alt="Logo teeworlds">
+								<img class="img-responsive" src="images/games/teeworlds.jpg" width='300px' alt="Logo teeworlds">
 							</center>
 						</div>
 						<div class="col-md-8">
@@ -217,7 +217,7 @@
 					<div class="row">
 						<div class="col-md-4">
 							<center>
-								<img src="http://cdn3.steampowered.com/v/gfx/apps/201790/header_292x136.jpg?t=1373994462" width='300px' alt="Logo ORCS MUST DIE">
+								<img class="img-responsive" src="images/games/OrcsMustDie2-Logo.png" width='300px' alt="Logo ORCS MUST DIE">
 							</center>
 						</div>
 						<div class="col-md-8">
@@ -238,7 +238,7 @@
 					<div class="row">
 						<div class="col-md-4">
 							<center>
-								<img src="http://cdn3.steampowered.com/v/gfx/apps/65800/header_292x136.jpg?t=1376075374" width='300px' alt="Logo DUNGEON DEFENDER">
+								<img class="img-responsive" src="images/games/dungeon_defenders.png" width='300px' alt="Logo DUNGEON DEFENDER">
 							</center>
 						</div>
 						<div class="col-md-8">
@@ -259,7 +259,7 @@
 					<div class="row">
 						<div class="col-md-4">
 							<center>
-								<img src="http://cdn3.steampowered.com/v/gfx/apps/96400/header_292x136.jpg?t=1333731441" width='300px' alt="Logo SHOOT MANY ROBOTS">
+								<img class="img-responsive" src="images/games/Official_SMR_Logo.png" width='300px' alt="Logo SHOOT MANY ROBOTS">
 							</center>
 						</div>
 						<div class="col-md-8">
@@ -280,7 +280,7 @@
 					<div class="row">
 						<div class="col-md-4">
 							<center>
-								<img src="http://www.g4g.it/g4g2/wp-content/uploads/2010/10/WarLight_01.jpg" width='300px' alt="Logo WARLIGHT">
+								<img class="img-responsive" src="http://www.g4g.it/g4g2/wp-content/uploads/2010/10/WarLight_01.jpg" width='300px' alt="Logo WARLIGHT">
 							</center>
 						</div>
 						<div class="col-md-8">
@@ -300,7 +300,7 @@
 					<div class="row">
 						<div class="col-md-4">
 							<center>
-								<img src="images/games/killing_floor.jpg" width='300px' alt="Logo killing floor">
+								<img class="img-responsive" src="images/games/killing_floor.png" width='300px' alt="Logo killing floor">
 							</center>
 						</div>
 						<div class="col-md-8">
@@ -320,7 +320,7 @@
 					<div class="row">
 						<div class="col-md-4">
 							<center>
-								<img src="images/games/Portal_logo.jpg" width='300px' alt="Logo Portal">
+								<img class="img-responsive" src="images/games/Portal_logo.png" width='300px' alt="Logo Portal">
 							</center>
 						</div>
 						<div class="col-md-8">
@@ -345,7 +345,7 @@
 					<div class="row">
 						<div class="col-md-4">
 							<center>
-								<img src="images/games/quake.jpg" width='300px' alt="Logo Quake">
+								<img class="img-responsive" src="images/games/quake.jpg" width='300px' alt="Logo Quake">
 							</center>
 						</div>
 						<div class="col-md-8">
@@ -364,7 +364,7 @@
 					<div class="row">
 						<div class="col-md-4">
 							<center>
-								<img src="images/games/unreal_tournament_logo.jpg" width='300px' alt="Logo UT99">
+								<img class="img-responsive" src="images/games/unreal_tournament_logo.jpg" width='300px' alt="Logo UT99">
 							</center>
 						</div>
 						<div class="col-md-8">
@@ -383,12 +383,12 @@
 					<div class="row">
 						<div class="col-md-4">
 							<center>
-								<img src="images/games/aoe2.png" width='300px' alt="Logo AOE2">
+								<img class="img-responsive" src="images/games/aoe2.png" width='300px' alt="Logo AOE2">
 							</center>
 						</div>
 						<div class="col-md-8">
 							<div class="caption">
-								<h3>AGE OF EMPIRES </h3>
+								<h3>AGE OF EMPIRES II</h3>
 								<p>Age of Empires II : The Age of Kings (souvent abrégé en AoK) est un jeu vidéo de stratégie en temps réel développé par Ensemble Studios et publié sur PC et MAC par Microsoft en 1999. Le jeu est le deuxième épisode de la série après Age of Empires sorti en 1997 et utilise le même moteur de jeu - le Genie Engine (en) - basé sur des sprites en 2D isométrique. Le joueur y incarne un leadeur d’une civilisation du Moyen Âge qu’il doit faire évoluer en traversant quatre âges : L’âge sombre, l’âge féodal, l’âge des châteaux et l’âge impérial lui permettant d’acquérir de nouvelles technologies et de nouvelles unités. 
 								</p>
 							</div>
