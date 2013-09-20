@@ -153,10 +153,38 @@
     height: 0;
 }
 
-.videoWrapper iframe {
+.videoWrapper iframe, .iframe-responsive-wrapper iframe  {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
+}
+
+
+.iframe-responsive-wrapper        {
+    position: relative;
+}
+
+.iframe-responsive-wrapper .iframe-ratio {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+
+@media screen and (min-width: 590px) 
+{
+	#mycountdown>div
+	{
+		position: relative; 
+		left: -50px;
+	}
+	#compte_a_rebours {display: none;}
+}
+
+@media screen and (max-width: 590px) 
+{
+	#mycountdown { display: none; }
+	#compte_a_rebours {display: block;}
 }
