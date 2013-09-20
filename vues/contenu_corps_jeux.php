@@ -47,7 +47,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					
-						<img class="img-responsive" src="images/games/Minecraft-logo.png" width='300px' alt="Logo Minecraft">
+						<img class="img-responsive" src="images/games/Minecraft-logo.png" alt="Logo Minecraft">
 					
 				</div>
 				<div class="col-md-8">
@@ -68,7 +68,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					
-						<img class="img-responsive" src="images/games/battlefield3.png" width='300px' alt="Logo Battlefield 3">
+						<img class="img-responsive" src="images/games/battlefield3.png" alt="Logo Battlefield 3">
 					
 				</div>
 				<div class="col-md-8">
@@ -88,7 +88,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					
-						<img class="img-responsive" src="images/games/trackmania.png" width='300px' alt="Logo Trackmania">
+						<img class="img-responsive" src="images/games/trackmania.png" alt="Logo Trackmania">
 					
 				</div>
 				<div class="col-md-8">
@@ -108,7 +108,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					
-						<img class="img-responsive" src="images/games/dota-2-logo.jpg" width='300px' alt="Logo Dota 2">
+						<img class="img-responsive" src="images/games/dota-2-logo.jpg" alt="Logo Dota 2">
 					
 				</div>
 				<div class="col-md-8">
@@ -128,7 +128,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					
-						<img class="img-responsive" src="images/games/team_fortress_2_logo.png" width='300px' alt="Logo TF2">
+						<img class="img-responsive" src="images/games/team_fortress_2_logo.png" alt="Logo TF2">
 					
 				</div>
 				<div class="col-md-8">
@@ -148,7 +148,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					
-						<img class="img-responsive" src="images/games/l4d2.png" width='300px' alt="Logo L4D2">
+						<img class="img-responsive" src="images/games/l4d2.png" alt="Logo L4D2">
 					
 				</div>
 				<div class="col-md-8">
@@ -170,7 +170,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					
-						<img class="img-responsive" src="images/games/logo_csgo.jpg" width='300px' alt="Logo CSGO">
+						<img class="img-responsive" src="images/games/logo_csgo.jpg" alt="Logo CSGO">
 					
 				</div>
 				<div class="col-md-8">
@@ -194,7 +194,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					
-						<img class="img-responsive" src="images/games/teeworlds.jpg" width='300px' alt="Logo teeworlds">
+						<img class="img-responsive" src="images/games/teeworlds.jpg" alt="Logo teeworlds">
 					
 				</div>
 				<div class="col-md-8">
@@ -214,7 +214,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					
-						<img class="img-responsive" src="images/games/OrcsMustDie2-Logo.png" width='300px' alt="Logo ORCS MUST DIE">
+						<img class="img-responsive" src="images/games/OrcsMustDie2-Logo.png" alt="Logo ORCS MUST DIE">
 					
 				</div>
 				<div class="col-md-8">
@@ -235,7 +235,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					
-						<img class="img-responsive" src="images/games/dungeon_defenders.png" width='300px' alt="Logo DUNGEON DEFENDER">
+						<img class="img-responsive" src="images/games/dungeon_defenders.png" alt="Logo DUNGEON DEFENDER">
 					
 				</div>
 				<div class="col-md-8">
@@ -256,7 +256,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					
-						<img class="img-responsive" src="images/games/Official_SMR_Logo.png" width='300px' alt="Logo SHOOT MANY ROBOTS">
+						<img class="img-responsive" src="images/games/Official_SMR_Logo.png" alt="Logo SHOOT MANY ROBOTS">
 					
 				</div>
 				<div class="col-md-8">
@@ -277,7 +277,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					
-						<img class="img-responsive" src="http://www.g4g.it/g4g2/wp-content/uploads/2010/10/WarLight_01.jpg" width='300px' alt="Logo WARLIGHT">
+						<img class="img-responsive" src="http://www.g4g.it/g4g2/wp-content/uploads/2010/10/WarLight_01.jpg" alt="Logo WARLIGHT">
 					
 				</div>
 				<div class="col-md-8">
@@ -297,7 +297,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					
-						<img class="img-responsive" src="images/games/killing_floor.png" width='300px' alt="Logo killing floor">
+						<img class="img-responsive" src="images/games/killing_floor.png" alt="Logo killing floor">
 					
 				</div>
 				<div class="col-md-8">
@@ -317,7 +317,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					
-						<img class="img-responsive" src="images/games/Portal_logo.png" width='300px' alt="Logo Portal">
+						<img class="img-responsive" src="images/games/Portal_logo.png" alt="Logo Portal">
 					
 				</div>
 				<div class="col-md-8">
@@ -342,7 +342,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					
-						<img class="img-responsive" src="images/games/quake.jpg" width='300px' alt="Logo Quake">
+						<img class="img-responsive" src="images/games/quake.jpg" alt="Logo Quake">
 					
 				</div>
 				<div class="col-md-8">
@@ -361,7 +361,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					
-						<img class="img-responsive" src="images/games/unreal_tournament_logo.jpg" width='300px' alt="Logo UT99">
+						<img class="img-responsive" src="images/games/unreal_tournament_logo.jpg" alt="Logo UT99">
 					
 				</div>
 				<div class="col-md-8">
@@ -379,9 +379,7 @@
 		<div class="panel-body">
 			<div class="row">
 				<div class="col-md-4">
-					
-						<img class="img-responsive" src="images/games/aoe2.png" width='300px' alt="Logo AOE2">
-					
+						<img class="img-responsive" src="images/games/aoe2.png" alt="Logo AOE2">
 				</div>
 				<div class="col-md-8">
 					<div class="caption">

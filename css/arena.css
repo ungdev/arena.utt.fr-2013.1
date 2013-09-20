@@ -12,7 +12,8 @@
 	}
 	
 	.panel-body>.row>.col-md-4>img {
-		padding-top: 28px;
+		max-height: 200px;
+		padding-top: 0px;
 		margin: 0 auto;
 	}
 	
