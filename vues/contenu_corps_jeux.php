@@ -29,7 +29,7 @@
 				</div>
 				<div class="col-sm-6 col-md-4">
 					<div class="thumbnail">
-					  <img src="images/games/ShootMania.png" width='300px' alt="Logo ShootMania">
+					  <img src="images/games/ShootMania.png" width='200px' alt="Logo ShootMania">
 					  <div class="caption">
 						<h3>SHOOTMANIA</h3>
 						<p>ShootMania Storm révolutionne le FPS multijoueur en y ajoutant une dimension communautaire et une rejouabilité sans limite. Conçu par le studio Nadeo, célèbre pour son jeu de course communautaire TrackMania, ShootMania Storm offre des parties rapides et des batailles épiques ou seul votre talent vous permettra de vous distinguer. Seul ou en équipe, sautez dans l’arène de votre choix : maps, modes ou classements, vous êtes libre de jouer selon vos envies et de contribuer à la communauté ShootMania comme vous l’entendez.
@@ -44,7 +44,6 @@
 			<div class="page-header">
 				<h1>Suggested<br /><small>Jeux en tournois permanents</small></h1>
 			</div>
-			<br />
 			
 			<div class="panel panel-default">
 				<div class="panel-body">
@@ -58,7 +57,7 @@
 							<div class="caption">
 								<h3>MINECRAFT</h3>
 								<p>Dans Minecraft, le joueur peut explorer et interagir avec un monde généré dynamiquement, à l'infini... Commencez par l'extraction de minerais, la lutte contre les monstres hostiles, ou la conception de blocs et de nouveaux outils. Avec votre imagination, vous pouvez ensuite construire des structures gigantesques, des œuvres de pixel art ou assembler des circuits électriques, des systèmes automatisés et autres mécanismes très complexes. Pour les fans d'exploration, Minecraft comporte aussi un monde souterrain très hostile similaire à l'enfer, et même une dimension finale abritant un boss de fin.
-								<br />Minecraft donnera le meilleur de lui-même pendant l'UA à travers des mods comme le fameux "Hunger Games".
+								<h3><small>Type d'animation</small></h3>Plusieurs activités coopératives et versus prévues, et des mods comme le fameux "Hunger Games".
 								</p>
 								<p><a href="https://minecraft.net/store" class="btn btn-default pull-right">Site</a></p>
 							</div>
@@ -66,7 +65,6 @@
 					</div>
 				</div>
 			</div>
-			<br />
 			
 			<div class="panel panel-default">
 				<div class="panel-body">
@@ -87,7 +85,6 @@
 					</div>
 				</div>
 			</div>
-			<br />
 			
 			<div class="panel panel-default">
 				<div class="panel-body">
@@ -99,7 +96,7 @@
 						</div>
 						<div class="col-md-8">
 							<div class="caption">
-								<h3>TRACKMANIA</h3>
+								<h3>TRACKMANIA NATIONS</h3>
 								<p>Contrairement aux autres jeux de courses, dans TrackMania sur PC, seuls les meilleurs temps comptent, dans des circuits farfelus que vous aussi, vous pouvez créer. Vous ne pouvez pas envoyer vos concurrents dans le décor, seul notre niveau de conduite et notre expérience fait la différence. Loopings, virages serrés, rampes d'accélération... De nombreux éléments vous permettent de construire une infinité de circuits que vous pouvez ensuite échanger avec vos amis.
 								</p>
 								<p><a href="http://trackmaniaforever.com/" class="btn btn-primary pull-right">Site</a></p>
@@ -108,7 +105,6 @@
 					</div>
 				</div>
 			</div>
-			<br />
 			
 			<div class="panel panel-default">
 				<div class="panel-body">
@@ -129,7 +125,6 @@
 					</div>
 				</div>
 			</div>
-			<br />
 			
 			<div class="panel panel-default">
 				<div class="panel-body">
@@ -142,15 +137,14 @@
 						<div class="col-md-8">
 							<div class="caption">
 								<h3>TEAM FORTRESS 2</h3>
-								<p>Team Fortress 2 est un jeu de tir à la première personne sur PC. Le jeu propose de se bastonner en réseau dans un univers très cartoon et coloré, mais qui n'en oublie pas pour autant d'inclure de nombreuses armes et arènes de jeu. Plusieurs personnages sont disponibles, avec leurs propres spécificités, armes et capacités, sur six cartes différentes.
-								</p>
+								<p>Team Fortress 2 est un jeu de tir à la première personne sur PC. Bastonnez-vous en réseau dans un univers à ambiance cartoon. De nombreuses armes et items de customisation sont déblocables et les arènes de jeu sont nombreuses, où vous pourrez décapiter, exploser, poignarder et BONK! vos amis. Plusieurs personnages sont disponibles, avec leurs propres armes et capacités spéciales.
+								<h3><small>Type d'animation</small></h3>CTF, Death Match, Payload ...</p>
 								<p><a href="http://store.steampowered.com/app/440/?snr=1_7_7_151_150_1" class="btn btn-primary pull-right">Site</a></p>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-			<br />
 			
 			<div class="panel panel-default">
 				<div class="panel-body">
@@ -165,7 +159,7 @@
 								<h3>LEFT 4 DEAD 2</h3>
 								<p>Situé dans un univers post-apocalyptique peuplé de zombies, Left 4 Dead 2 (L4D2) est la suite très attendue du titre élu meilleur jeu de coopération 2008. 
 								Ce jeu de tir d'action et de coopération à la première personne vous entraîne, vous et vos amis, dans les cimetières et les marécages du Sud des États-Unis, de Savannah à la Nouvelle-Orléans, à travers 5 campagnes. 
-								Vous serez un des survivants et vous aurez un vaste choix d'armes classiques et améliorables. En plus des armes à feu, vous aurez également accès à des armes blanches (tranchantes et contondantes) pour produire un maximum de dégâts en corps à corps : tronçonneuses, haches et la fameuse poêle à frire. 
+								Vous etes un des survivants et avez un vaste choix d'armes classiques et améliorables. En plus des armes à feu, vous avez également accès à des armes blanches (tranchantes et contondantes) pour produire un maximum de dégâts en corps à corps : tronçonneuses, haches et la fameuse poêle à frire. 
 								</p>
 								<p><a href="http://store.steampowered.com/app/550/?snr=1_7_15__13" class="btn btn-default pull-right">Site</a></p>
 							</div>
@@ -173,7 +167,6 @@
 					</div>
 				</div>
 			</div>
-			<br />
 			
 			<div class="panel panel-default">
 				<div class="panel-body">
@@ -185,7 +178,7 @@
 						</div>
 						<div class="col-md-8">
 							<div class="caption">
-								<h3>COUNTER STRIKE: GLOBAL OFFENSIVE</h3>
+								<h3>COUNTER STRIKE : GLOBAL OFFENSIVE</h3>
 								<p>Counter-Strike : Global Offensive est un FPS multijoueurs en ligne sur PC. Les anti-terroristes et les terroristes s'affrontent dans différents modes de jeu avec une trentaine d'armes différentes, sans compter les grenades. Un mode entraînement permet aux joueurs de s'habituer aux commandes.
 								</p>
 								<p><a href="http://store.steampowered.com/app/730/" class="btn btn-default pull-right">Site</a></p>
@@ -194,12 +187,10 @@
 					</div>
 				</div>
 			</div>
-			<br />
 			
 			<div class="page-header">
 				<h1>Mini-jeux<br /><small>Jeux à découvrir à travers nos animations et speedruns</small></h1>
 			</div>
-			<br />
 			
 			<div class="panel panel-default">
 				<div class="panel-body">
@@ -212,14 +203,14 @@
 						<div class="col-md-8">
 							<div class="caption">
 								<h3>TEEWORLDS</h3>
-								<p>Teeworlds est un jeu de tir à la troisième personne en 2D. Incarnez un petit Tee et munissez vous d'un véritable arsenal pour affronter vos adversaires dans de nombreuses arènes. En Death Match, CTF ou dans les nombreux modes disponibles, la montée au sommet du classement s'annonce rude.</p>
+								<p>Teeworlds est un jeu de tir à la troisième personne en 2D. Incarnez un petit Tee et munissez vous d'un véritable arsenal pour affronter vos adversaires dans de nombreuses arènes. 
+								<h3><small>Type d'animation</small></h3>En Death Match, CTF ou dans les nombreux modes disponibles, la montée au sommet du classement s'annonce rude.</p>
 								<p><a href="https://www.teeworlds.com/" class="btn btn-primary pull-right">Site</a></p>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-			<br />
 			
 			<div class="panel panel-default">
 				<div class="panel-body">
@@ -241,7 +232,6 @@
 					</div>
 				</div>
 			</div>
-			<br />
 			
 			<div class="panel panel-default">
 				<div class="panel-body">
@@ -263,7 +253,6 @@
 					</div>
 				</div>
 			</div>
-			<br />
 			
 			<div class="panel panel-default">
 				<div class="panel-body">
@@ -285,7 +274,6 @@
 					</div>
 				</div>
 			</div>
-			<br />
 			
 			<div class="panel panel-default">
 				<div class="panel-body">
@@ -306,7 +294,6 @@
 					</div>
 				</div>
 			</div>
-			<br />
 			
 			<div class="panel panel-default">
 				<div class="panel-body">
@@ -320,14 +307,13 @@
 							<div class="caption">
 								<h3>KILLING FLOOR</h3>
 								<p>Killing Floor est un jeu de tir subjectif d'horreur, de survie et de coopération qui se déroule en Angleterre à la campagne après qu'une expérience militaire de clonage se soit mal déroulée. Vous êtes parachuté au cœur du problème et devez le résoudre en nettoyant la zone. 
-								</p>
+								<h3><small>Type d'animation</small></h3>Survival en équipe.</p>
 								<p><a href="http://store.steampowered.com/app/1250/" class="btn btn-default pull-right">Site</a></p>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-			<br />
 			
 			<div class="panel panel-default">
 				<div class="panel-body">
@@ -341,7 +327,7 @@
 							<div class="caption">
 								<h3>PORTAL</h3>
 								<p>Portal est un jeu vidéo de réflexion et d'action en vue subjective développé par Valve Corporation.Le jeu consiste en une succession de parcours que le joueur doit franchir en téléportant son personnage ou des objets à l'aide d'une arme capable de créer un portail spatial entre deux surfaces planes. Le personnage est mis au défi par une intelligence artificielle qui lui promet régulièrement de recevoir un gâteau à l'issue des tests.
-								<br />Des speedruns seront organisés pendant l'UTT Arena. Qui sera le meilleur sujet de test ?
+								<h3><small>Type d'animation</small></h3>Des speedruns sont organisés pendant l'UTT Arena. Qui sera le meilleur sujet de test ?
 								</p>
 								<p><a href="http://store.steampowered.com/app/400/" class="btn btn-default pull-right">Site</a></p>
 							</div>
@@ -349,12 +335,10 @@
 					</div>
 				</div>
 			</div>
-			<br />
 
 			<div class="page-header">
 				<h1>Oldies but goodies<br /><small>Des classiques indémodables</small></h1>
 			</div>
-			<br />
 			
 			<div class="panel panel-default">
 				<div class="panel-body">
@@ -374,7 +358,6 @@
 					</div>
 				</div>
 			</div>
-			<br />
 			
 			<div class="panel panel-default">
 				<div class="panel-body">
@@ -394,7 +377,6 @@
 					</div>
 				</div>
 			</div>
-			<br />
 			
 			<div class="panel panel-default">
 				<div class="panel-body">
@@ -406,7 +388,7 @@
 						</div>
 						<div class="col-md-8">
 							<div class="caption">
-								<h3>AGE OF EMPIRES 2</h3>
+								<h3>AGE OF EMPIRES </h3>
 								<p>Age of Empires II : The Age of Kings (souvent abrégé en AoK) est un jeu vidéo de stratégie en temps réel développé par Ensemble Studios et publié sur PC et MAC par Microsoft en 1999. Le jeu est le deuxième épisode de la série après Age of Empires sorti en 1997 et utilise le même moteur de jeu - le Genie Engine (en) - basé sur des sprites en 2D isométrique. Le joueur y incarne un leadeur d’une civilisation du Moyen Âge qu’il doit faire évoluer en traversant quatre âges : L’âge sombre, l’âge féodal, l’âge des châteaux et l’âge impérial lui permettant d’acquérir de nouvelles technologies et de nouvelles unités. 
 								</p>
 							</div>
@@ -414,7 +396,6 @@
 					</div>
 				</div>
 			</div>
-			<br />
 
 			</p>
 		</div>
