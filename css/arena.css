@@ -6,6 +6,20 @@
         text-align: justify;
     }
 
+	.row>.col-md-4>.thumbnail>img {
+		max-height: 150px;
+		padding-top: 20px;
+	}
+	
+	.panel-body>.row>.col-md-4>img {
+		padding-top: 28px;
+		margin: 0 auto;
+	}
+	
+	.panel-body>.row>.col-md-4 {
+		text-align: center;
+	}
+	
     #topbg {
         background: #020301 url("../images/body.bgss.png") top center no-repeat fixed;
     }
