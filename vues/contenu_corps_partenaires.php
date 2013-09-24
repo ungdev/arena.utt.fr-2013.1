@@ -2,7 +2,7 @@
     <div class="page-header">
         <h1>Nos partenaires</h1>
     </div>
-
+	
     <div class="row">
         <div class="col-md-4">
     <h2>Micromania</h2>
@@ -79,4 +79,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
     </p>
         </div>
         </div>
+		
+		
+	<div class="alert alert-info">La liste de nos sponsors se remplira en fonction de nos futurs accords de partenariats.</div>
+
 </div>
