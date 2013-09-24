@@ -2,29 +2,29 @@
 @media screen and (min-width: 450px) {
 
     body, html {
-        background: #0B161B;
+        background: #0B161B url('../images/body.bgss.png') top no-repeat;
+/*        background: #020301 url('../images/body.bgss.png') top no-repeat;*/
         text-align: justify;
     }
 
     a.list-group-item:hover, a.list-group-item:focus {
-        background: #2A9FD6;
+        background: #003F58;
     }
 
     .row>.col-md-4>.thumbnail>img {
         max-height: 150px;
-        border: 3px solid #1F1F1F;
+        border: 1px solid #111;
         background: #272B30;
         padding: 10px;
         margin: 10px auto;
-        border-radius: 2px;
+        border-radius: 3px;
     }
 
     .panel-body>.row>.col-md-4>img {
-/*        max-height: 200px;*/
         min-width: 345px;
         margin: 0 auto;
-        border: 3px solid #1F1F1F;
-        border-radius: 2px;
+        border: 1px solid #111;
+        border-radius: 3px;
         background: #272B30;
         padding: 10px;
     }
@@ -52,9 +52,10 @@
         clear: both;
     }
 
-    .thumbnail, .jumbotron {
+    .thumbnail, .jumbotron, .panel {
         border: none;
-        background: #222;
+/*        background: #222;*/
+        background: #0B161B;
     }
 
     #centered {
