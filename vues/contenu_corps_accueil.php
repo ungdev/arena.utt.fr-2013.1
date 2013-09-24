@@ -18,20 +18,20 @@
 		<p>Cet hiver, l'UTT Arena fait son comeback ! Nouvelle formule, nouvelles activités, plus de fun, et comme toujours des lots à gagner...</p>
 		<p><a class="btn btn-primary btn-lg">Découvrez l'événement</a></p>
 	</div>
-	
+
 	<div class="row">
 		<div class="col-lg-6">
 			<p class="lead" style="text-align: center">
 				Rejoignez nous sur les réseaux sociaux !
 			</p>
-			
+
 			<p style="text-align: center">
 				<a href="https://www.facebook.com/UA2K12?fref=ts"><img src="images/social/facebook.round.png" alt="facebook" /></a>
 				<a href="https://twitter.com/UTTArena"><img src="images/social/twitter.round.png" alt="twitter" /></a>
 				<a href="http://www.youtube.com/channel/UCm8nToPe0gc0zlUa-gAxvEA"><img src="images/social/youtube.round.png" alt="youtube" /></a>
 			</p>
 		</div>
-		
+
 		<div class="col-lg-6">
 			<p>
 				<?php
@@ -39,12 +39,12 @@
 					// Si besoin de modifier la date ne pas oublier de le faire également dans countdown.js
 					$fincompteur = (strtotime('October 1, 2013') + (12*60*60));
 					$today = time();
-					
+
 					// Si on est avant le lancement
 					if (($today - $fincompteur) <= 0)
 					{
 						{ ?>
-						
+
 				<div id="mycountdown">
 					<p>
 						Les inscriptions seront lancées dans :
@@ -53,9 +53,9 @@
 					<div id="countdown-blog" style=''></div>
 					<script type="text/javascript" src="js/countdown.js"></script>
 				</div>
-				
-				
-				
+
+
+
 				<div id="compte_a_rebours">
 
 <noscript>Fin de l'évènement le 1er janvier 2013.</noscript>
@@ -149,10 +149,10 @@ compte_a_rebours();
 
 
     </div>
-				
-				
-				
-				
+
+
+
+
 						<?php }
 					}
 					else
@@ -161,8 +161,8 @@ compte_a_rebours();
 					}
 				?>
 			</p>
-	
-		
+
+
 			<div class="form-group">
 				<form action="./add.php" method="POST" id="subscribe">
 					<label class="control-label" for="email">Nous pouvons vous avertir dès l'ouverture des inscriptions :</label>
@@ -175,7 +175,7 @@ compte_a_rebours();
 					</div>
 				</form>
 			</div>
-	
+
 			<p class="message"></p>
 			<?php if(strlen($message) > 0){ ?><h2 class="stat"><?php echo '<br />'. $message ?></h2><?php } ?>
 		</div>

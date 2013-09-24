@@ -6,27 +6,44 @@
         text-align: justify;
     }
 
-	.row>.col-md-4>.thumbnail>img {
-		max-height: 150px;
-		padding-top: 20px;
-	}
-	
-	.panel-body>.row>.col-md-4>img {
-		max-height: 200px;
-		padding-top: 0px;
-		margin: 0 auto;
-	}
-	
-	.panel-body>.row>.col-md-4 {
-		text-align: center;
-	}
-	
+    a.list-group-item:hover, a.list-group-item:focus {
+        background: #2A9FD6;
+    }
+
+    .row>.col-md-4>.thumbnail>img {
+        max-height: 150px;
+        border: 3px solid #1F1F1F;
+        background: #272B30;
+        padding: 10px;
+        margin: 10px auto;
+        border-radius: 2px;
+    }
+
+    .panel-body>.row>.col-md-4>img {
+/*        max-height: 200px;*/
+        min-width: 345px;
+        margin: 0 auto;
+        border: 3px solid #1F1F1F;
+        border-radius: 2px;
+        background: #272B30;
+        padding: 10px;
+    }
+
+    .panel-body>.row>.col-md-4 {
+        text-align: center;
+        position: relative;
+    }
+
+    .thumbnail {
+        margin-bottom: 10px;
+    }
+
     #topbg {
         background: #020301 url("../images/body.bgss.png") top center no-repeat fixed;
     }
 
     body>.container {
-        background: #fff url('../images/article.header.bg.png') top repeat-x;
+        background: #272B30; /*url('../images/article.header.bg.png') top repeat-x*/
         border: 1px solid #1B2F3B;
         margin-top: 0px;
         padding: 20px;
@@ -35,7 +52,14 @@
         clear: both;
     }
 
-    #centered { width: 1250px; margin: 0 auto; position: relative; }
+    .thumbnail, .jumbotron {
+        border: none;
+        background: #222;
+    }
+
+    #centered {
+        width: 1250px; margin: 0 auto; position: relative;
+    }
 
     #logoleft {
         background: url('../images/header.logoleft.png') top no-repeat;
@@ -153,7 +177,7 @@
     height: 0;
 }
 
-.videoWrapper iframe, .iframe-responsive-wrapper iframe  {
+.videoWrapper iframe, .iframe-responsive-wrapper iframe {
     position: absolute;
     top: 0;
     left: 0;
@@ -162,7 +186,7 @@
 }
 
 
-.iframe-responsive-wrapper        {
+.iframe-responsive-wrapper {
     position: relative;
 }
 
@@ -173,18 +197,24 @@
 }
 
 
-@media screen and (min-width: 590px) 
+@media screen and (min-width: 590px)
 {
-	#mycountdown>div
-	{
-		position: relative; 
-		left: -50px;
-	}
-	#compte_a_rebours {display: none;}
+    #mycountdown>div {
+        position: relative;
+        left: -50px;
+    }
+    #compte_a_rebours {
+        display: none;
+    }
 }
 
-@media screen and (max-width: 590px) 
+@media screen and (max-width: 590px)
 {
-	#mycountdown { display: none; }
-	#compte_a_rebours {display: block;}
+    #mycountdown {
+        display: none;
+    }
+
+    #compte_a_rebours {
+        display: block;
+    }
 }
