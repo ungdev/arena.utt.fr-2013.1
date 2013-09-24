@@ -1,6 +1,6 @@
 <div id="footer">
     <div class="container">
-        <p class="text-muted credit">Copyright &copy; 2013 UTT Net Group</p>
+        <p class="text-muted credit">Copyright &copy; 2013 UTT Net Group - Contact : <a href="mailto:ung@utt.fr">ung@utt.fr</a></p>
     </div>
 </div>
 
