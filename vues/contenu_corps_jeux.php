@@ -111,7 +111,7 @@
 		<div class="panel-body">
 			<div class="row">
 				<div class="col-md-4">
-					<img class="img-responsive" src="images/games/dota-2-logo.jpg" alt="Logo Dota 2">
+					<img class="img-responsive" src="images/games/dota-2.png" alt="Logo Dota 2">
 				</div>
 				<div class="col-md-8">
 					<div class="caption">
@@ -167,7 +167,7 @@
 		<div class="panel-body">
 			<div class="row">
 				<div class="col-md-4">
-					<img class="img-responsive" src="images/games/logo_csgo.jpg" alt="Logo CSGO">
+					<img class="img-responsive" src="images/games/logo_csgo.png" alt="Logo CSGO">
 				</div>
 				<div class="col-md-8">
 					<div class="caption">
@@ -194,7 +194,7 @@
 		<div class="panel-body">
 			<div class="row">
 				<div class="col-md-4">
-					<img class="img-responsive" src="images/games/teeworlds.jpg" alt="Logo teeworlds">
+					<img class="img-responsive" src="images/games/teeworlds.png" alt="Logo teeworlds">
 				</div>
 				<div class="col-md-8">
 					<div class="caption">
@@ -349,7 +349,7 @@
 		<div class="panel-body">
 			<div class="row">
 				<div class="col-md-4">
-					<img class="img-responsive" src="images/games/unreal_tournament_logo.jpg" alt="Logo UT99">
+					<img class="img-responsive" src="images/games/ut99.png" alt="Logo UT99">	
 				</div>
 				<div class="col-md-8">
 					<div class="caption">
