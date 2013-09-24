@@ -1,4 +1,4 @@
-<div class="container">
+ï»¿<div class="container">
 <div class="page-header">
 	<h1>Staff<br /><small>Les organisateurs de l'UTT Arena</small></h1>
 </div>
@@ -12,19 +12,19 @@
 			<div class="col-md-4">
 				<center>
 					<img src="images/staff/julien.png" class="img-responsive" width="150px">
-					<h4>Président<br /><small>Julien NOZAIS</small></h4>
+					<h4>PrÃ©sident<br /><small>Julien NOZAIS</small></h4>
 				</center>
 			</div>
 			<div class="col-md-4">
 				<center>
 					<img src="images/staff/chabanon.png" class="img-responsive" width="150px">
-					<h4>Vice-Président<br /><small>Paul CHABANON</small></h4>
+					<h4>Vice-PrÃ©sident<br /><small>Paul CHABANON</small></h4>
 				</center>
 			</div>
 			<div class="col-md-4">
 				<center>
 					<img src="images/staff/youenn.png" class="img-responsive" width="150px">
-					<h4>Vice-Président<br /><small>Youenn PIOLET</small></h4>
+					<h4>Vice-PrÃ©sident<br /><small>Youenn PIOLET</small></h4>
 				</center>
 			</div>
 		</div>
@@ -50,7 +50,7 @@
 	<div class="col-md-4">
 		<div class="panel panel-default">
 		<div class="panel-heading">
-			<h3 class="panel-title">Matériel et logistique</h3>
+			<h3 class="panel-title">MatÃ©riel et logistique</h3>
 		</div>
 		<div class="panel-body">
 			<center>
@@ -64,12 +64,12 @@
 	<div class="col-md-4">
 		<div class="panel panel-default">
 		<div class="panel-heading">
-			<h3 class="panel-title">Diffusion vidéo</h3>
+			<h3 class="panel-title">Diffusion vidÃ©o</h3>
 		</div>
 		<div class="panel-body">
 			<center>
 			<img src="images/staff/soulier.png" class="img-responsive" width="150px">
-			<h4>Responsable Régie<br /><small>Lucas SOULIER</small></h4>
+			<h4>Responsable RÃ©gie<br /><small>Lucas SOULIER</small></h4>
 			</center>
 		</div>
 		</div>
