@@ -1,33 +1,79 @@
-/* @media screen and (min-width: 830px) */
+/* ALL VERSIONS */
+body, html {
+    background: #0B161B url('../images/body.bgss.png') top no-repeat;
+    text-align: justify;
+}
+
+.panel-default>.panel-heading {
+    background: #091419;
+}
+
+a.list-group-item, a.list-group-item:focus {
+    background: #0B161B;
+}
+
+a.list-group-item:hover {
+    background: #003F58;
+}
+
+.thumbnail, .jumbotron, .panel {
+    border: none;
+    background: #0B161B;
+}
+
+.page-header {
+    background: #29383F;
+    margin: 30px -28px 30px -28px;
+    padding: 10px 20px;
+    border-top: 1px solid #333;
+    border-bottom: 1px solid #222;
+}
+
+.carousel-caption, .carousel-caption h4 {
+    text-shadow:
+    #000000 1px 1px 2px,
+    #000000 -1px 1px 2px,
+    #000000 -1px -1px 2px,
+    #000000 1px -1px 2px !important;
+}
+
+.videoWrapper  {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+}
+
+.videoWrapper iframe, .iframe-responsive-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.iframe-responsive-wrapper {
+    position: relative;
+}
+
+.iframe-responsive-wrapper .iframe-ratio {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+/* DESKTOP VERSION */
 @media screen and (min-width: 450px) {
-
-    body, html {
-        background: #0B161B url('../images/body.bgss.png') top no-repeat;
-/*        background: #0B161B url('../images/body.bgss.png') top no-repeat;*/
-        text-align: justify;
-
-    }
-
     .page-header {
-        background: #29383F;
         margin: 30px -28px 30px -28px;
         padding: 10px 20px;
         border-top: 1px solid #333;
         border-bottom: 1px solid #222;
     }
 
-    .panel-default>.panel-heading {
-/*        background: #2C4B58 url("../images/body.bg.png") top;*/
-        background: #091419;
-    }
-
-    a.list-group-item:hover, a.list-group-item:focus {
-        background: #003F58;
-    }
-
     .row>.col-md-4>.thumbnail>img {
-        max-height: 150px;
-        border: 5px solid #999;
+        height: 145px;
+        border: 1px solid #999;
 /*        background: #272B30;*/
         padding: 10px;
         margin: 10px auto;
@@ -37,7 +83,7 @@
     .panel-body>.row>.col-md-4>img {
         min-width: 345px;
         margin: 0 auto;
-        border: 5px solid #999;
+        border: 1px solid #999;
         border-radius: 0px;
 /*        background: #272B30;*/
         padding: 10px;
@@ -57,18 +103,12 @@
     }
 
     body>.container {
-        background: #272B30; /*url('../images/article.header.bg.png') top repeat-x*/
+        background: #272B30;
         border: 0px solid #1B2F3B;
         margin-top: 0px;
         padding: 20px;
         min-height: 500px;
         clear: both;
-    }
-
-    .thumbnail, .jumbotron, .panel {
-        border: none;
-/*        background: #222;*/
-        background: #0B161B;
     }
 
     #centered {
@@ -143,13 +183,9 @@
     }
 }
 
-/* @media screen and (max-width: 830px) */
+/* MOBILE VERSION */
 @media screen and (max-width: 450px)
 {
-    body {
-        background: #DDDDDD none;
-    }
-
     .navbar {
         background: #001927 url("../images/header_bg.png") repeat-x;
     }
@@ -163,10 +199,10 @@
         max-height:25px; display: block-inline;
     }
 
-    .contenu {
-        color: #333333;
+    body>.container {
+        background: #272B30;
         position: relative;
-        top: 50px;
+        top: 20px;
     }
 
     @media screen and (min-width: 768px) {
@@ -175,48 +211,13 @@
         }
     }
 }
-
-.carousel-caption, .carousel-caption h4 {
-    text-shadow:
-    #000000 1px 1px 2px,
-    #000000 -1px 1px 2px,
-    #000000 -1px -1px 2px,
-    #000000 1px -1px 2px !important;
-}
-
-.videoWrapper  {
-    position: relative;
-    padding-bottom: 56.25%; /* 16:9 */
-    padding-top: 25px;
-    height: 0;
-}
-
-.videoWrapper iframe, .iframe-responsive-wrapper iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
-
-
-.iframe-responsive-wrapper {
-    position: relative;
-}
-
-.iframe-responsive-wrapper .iframe-ratio {
-    display: block;
-    width: 100%;
-    height: auto;
-}
-
-
 @media screen and (min-width: 590px)
 {
     #mycountdown>div {
         position: relative;
         left: -50px;
     }
+
     #compte_a_rebours {
         display: none;
     }
