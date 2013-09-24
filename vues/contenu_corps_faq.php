@@ -3,7 +3,7 @@
         <h1>
             <span class="glyphicon glyphicon-question-sign"></span>
             Questions fréquentes<br/>
-            <small>Si vous avez des réponses, nous avons les questions.</small>
+            <small>Si vous avez des réponses, nous avons souvent les questions.</small>
         </h1>
     </div>
 
@@ -36,7 +36,7 @@
 
         <a href="#" class="list-group-item collapse-group" data-toggle="collapse" data-target="#viewtournaments">
             <h3 class="list-group-item-heading">
-                <span class="glyphicon glyphicon-tower"></span> Les tournois spotlight
+                <span class="glyphicon glyphicon-facetime-video"></span> Les tournois spotlight
             </h3>
             <div class="list-group-item-text collapse" id="viewtournaments">
                 <h4>Qu'est ce qu'un tournois spotlight ?<br /><small>Les spotlight sont des tournois avec dotation auxquels vous devez vous inscrire en avance. Ils se déroulent sur plusieurs heures le samedi après midi et en soirée, et le dimanche matin pour les finales.</small></h4>
