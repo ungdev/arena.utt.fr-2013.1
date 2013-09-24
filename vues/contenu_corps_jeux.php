@@ -1,6 +1,11 @@
 <div class="container">
 	<div class="page-header">
-		<h1>Spotlight<br /><small>Jeux en tournois officiels</small></h1>
+        <h1>
+            <span class="glyphicon glyphicon-facetime-video"></span>
+            Spotlight<br/>
+            <small>Jeux en tournois officiels</small>
+        </h1>
+
 	</div>
 	<p>Suivez le guide ! Les jeux indiqués en <span class="label label-primary">bleu</span> sont gratuits. </p>
 	<p>
@@ -40,7 +45,12 @@
 		</div>
 	</div>
 	<div class="page-header">
-		<h1>Suggested<br /><small>Jeux en tournois permanents</small></h1>
+        <h1>
+            <span class="glyphicon glyphicon-heart"></span>
+            Suggested<br/>
+            <small>Jeux en tournois permanents</small>
+        </h1>
+
 	</div>
 	<div class="panel panel-default">
 		<div class="panel-body">
@@ -60,7 +70,7 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<div class="panel panel-default">
 		<div class="panel-body">
 			<div class="row">
@@ -78,7 +88,7 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<div class="panel panel-default">
 		<div class="panel-body">
 			<div class="row">
@@ -96,7 +106,7 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<div class="panel panel-default">
 		<div class="panel-body">
 			<div class="row">
@@ -114,7 +124,7 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<div class="panel panel-default">
 		<div class="panel-body">
 			<div class="row">
@@ -132,7 +142,7 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<div class="panel panel-default">
 		<div class="panel-body">
 			<div class="row">
@@ -142,9 +152,9 @@
 				<div class="col-md-8">
 					<div class="caption">
 						<h3>LEFT 4 DEAD 2</h3>
-						<p>Situé dans un univers post-apocalyptique peuplé de zombies, Left 4 Dead 2 (L4D2) est la suite très attendue du titre élu meilleur jeu de coopération 2008. 
-						Ce jeu de tir d'action et de coopération à la première personne vous entraîne, vous et vos amis, dans les cimetières et les marécages du Sud des États-Unis, de Savannah à la Nouvelle-Orléans, à travers 5 campagnes. 
-						Vous etes un des survivants et avez un vaste choix d'armes classiques et améliorables. En plus des armes à feu, vous avez également accès à des armes blanches (tranchantes et contondantes) pour produire un maximum de dégâts en corps à corps : tronçonneuses, haches et la fameuse poêle à frire. 
+						<p>Situé dans un univers post-apocalyptique peuplé de zombies, Left 4 Dead 2 (L4D2) est la suite très attendue du titre élu meilleur jeu de coopération 2008.
+						Ce jeu de tir d'action et de coopération à la première personne vous entraîne, vous et vos amis, dans les cimetières et les marécages du Sud des États-Unis, de Savannah à la Nouvelle-Orléans, à travers 5 campagnes.
+						Vous etes un des survivants et avez un vaste choix d'armes classiques et améliorables. En plus des armes à feu, vous avez également accès à des armes blanches (tranchantes et contondantes) pour produire un maximum de dégâts en corps à corps : tronçonneuses, haches et la fameuse poêle à frire.
 						</p>
 						<p><a href="http://store.steampowered.com/app/550/?snr=1_7_15__13" class="btn btn-default pull-right">Site</a></p>
 					</div>
@@ -152,7 +162,7 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<div class="panel panel-default">
 		<div class="panel-body">
 			<div class="row">
@@ -170,11 +180,16 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<div class="page-header">
-		<h1>Mini-jeux<br /><small>Jeux à découvrir à travers nos animations et speedruns</small></h1>
+        <h1>
+            <span class="glyphicon glyphicon-flash"></span>
+            Mini-Jeux<br/>
+            <small>Jeux à découvrir à travers nos animations, speedruns et présentations</small>
+        </h1>
+
 	</div>
-	
+
 	<div class="panel panel-default">
 		<div class="panel-body">
 			<div class="row">
@@ -184,7 +199,7 @@
 				<div class="col-md-8">
 					<div class="caption">
 						<h3>TEEWORLDS</h3>
-						<p>Teeworlds est un jeu de tir à la troisième personne en 2D. Incarnez un petit Tee et munissez vous d'un véritable arsenal pour affronter vos adversaires dans de nombreuses arènes. 
+						<p>Teeworlds est un jeu de tir à la troisième personne en 2D. Incarnez un petit Tee et munissez vous d'un véritable arsenal pour affronter vos adversaires dans de nombreuses arènes.
 						<h3><small>Type d'animation</small></h3>En Death Match, CTF ou dans les nombreux modes disponibles, la montée au sommet du classement s'annonce rude.</p>
 						<p><a href="https://www.teeworlds.com/" class="btn btn-primary pull-right">Site</a></p>
 					</div>
@@ -192,7 +207,7 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<div class="panel panel-default">
 		<div class="panel-body">
 			<div class="row">
@@ -203,7 +218,7 @@
 					<div class="caption">
 						<h3>ORCS MUST DIE 2</h3>
 						<p>Vous les avez envoyés valdinguer, vous les avez brûlés et découpés par milliers… mais les orques sont de retour et l’heure du massacre a de nouveau sonné ! Embrigadez un ami et tuez des orques à tour de bras dans cette suite du fameux jeu de Robot Entertainment, élu « Meilleur jeu de stratégie 2011 » par AIAS.
-						Jouez en coop avec un ami et menez le combat dans un mode campagne inédit, ou battez-vous pour sauver votre peau dans le tout nouveau, mais non moins difficile, mode Sans fin ! 
+						Jouez en coop avec un ami et menez le combat dans un mode campagne inédit, ou battez-vous pour sauver votre peau dans le tout nouveau, mais non moins difficile, mode Sans fin !
 						</p>
 						<p><a href="http://store.steampowered.com/app/201790/?snr=1_7_15__13" class="btn btn-default pull-right">Site</a></p>
 					</div>
@@ -211,7 +226,7 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<div class="panel panel-default">
 		<div class="panel-body">
 			<div class="row">
@@ -221,7 +236,7 @@
 				<div class="col-md-8">
 					<div class="caption">
 						<h3>DUNGEON DEFENDERS</h3>
-						<p>Dungeon Defenders est un jeu de rôle et d’action de tourelles défensives dans lequel vous devez défendre le royaume d’Etheria ! Créez un héros et combattez les vagues d’ennemis en organisant la défense et en participant directement au combat. 
+						<p>Dungeon Defenders est un jeu de rôle et d’action de tourelles défensives dans lequel vous devez défendre le royaume d’Etheria ! Créez un héros et combattez les vagues d’ennemis en organisant la défense et en participant directement au combat.
 						Personnalisez votre héros en modifiant son équipement, en récoltant du butin, des compagnons et plus encore. Faites participer votre héros à de nombreux challenges et missions pour obtenir plus d’expérience et de richesses. Rejoignez vos amis en mode 4 joueurs en ligne en local (écran partagé) pour planifier vos stratégies ou participer à une compétition en joueur contre joueur en deathmatch.
 						</p>
 						<p><a href="http://store.steampowered.com/app/65800/?snr=1_7_15__13" class="btn btn-default pull-right">Site</a></p>
@@ -230,7 +245,7 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<div class="panel panel-default">
 		<div class="panel-body">
 			<div class="row">
@@ -249,7 +264,7 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<div class="panel panel-default">
 		<div class="panel-body">
 			<div class="row">
@@ -267,17 +282,17 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<div class="panel panel-default">
 		<div class="panel-body">
 			<div class="row">
 				<div class="col-md-4">
-					<img class="img-responsive" src="images/games/killing_floor.png" alt="Logo killing floor">	
+					<img class="img-responsive" src="images/games/killing_floor.png" alt="Logo killing floor">
 				</div>
 				<div class="col-md-8">
 					<div class="caption">
 						<h3>KILLING FLOOR</h3>
-						<p>Killing Floor est un jeu de tir subjectif d'horreur, de survie et de coopération qui se déroule en Angleterre à la campagne après qu'une expérience militaire de clonage se soit mal déroulée. Vous êtes parachuté au cœur du problème et devez le résoudre en nettoyant la zone. 
+						<p>Killing Floor est un jeu de tir subjectif d'horreur, de survie et de coopération qui se déroule en Angleterre à la campagne après qu'une expérience militaire de clonage se soit mal déroulée. Vous êtes parachuté au cœur du problème et devez le résoudre en nettoyant la zone.
 						<h3><small>Type d'animation</small></h3>Survival en équipe.</p>
 						<p><a href="http://store.steampowered.com/app/1250/" class="btn btn-default pull-right">Site</a></p>
 					</div>
@@ -285,12 +300,12 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<div class="panel panel-default">
 		<div class="panel-body">
 			<div class="row">
 				<div class="col-md-4">
-					<img class="img-responsive" src="images/games/Portal_logo.png" alt="Logo Portal">	
+					<img class="img-responsive" src="images/games/Portal_logo.png" alt="Logo Portal">
 				</div>
 				<div class="col-md-8">
 					<div class="caption">
@@ -306,9 +321,13 @@
 	</div>
 
 	<div class="page-header">
-		<h1>Oldies but goodies<br /><small>Des classiques indémodables</small></h1>
+        <h1>
+            <span class="glyphicon glyphicon-tower"></span>
+            Oldies but goodies<br/>
+            <small>Des classiques indémodables</small>
+        </h1>
 	</div>
-	
+
 	<div class="panel panel-default">
 		<div class="panel-body">
 			<div class="row">
@@ -325,7 +344,7 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<div class="panel panel-default">
 		<div class="panel-body">
 			<div class="row">
@@ -342,7 +361,7 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<div class="panel panel-default">
 		<div class="panel-body">
 			<div class="row">
@@ -352,7 +371,7 @@
 				<div class="col-md-8">
 					<div class="caption">
 						<h3>AGE OF EMPIRES II</h3>
-						<p>Age of Empires II : The Age of Kings (souvent abrégé en AoK) est un jeu vidéo de stratégie en temps réel développé par Ensemble Studios et publié sur PC et MAC par Microsoft en 1999. Le jeu est le deuxième épisode de la série après Age of Empires sorti en 1997 et utilise le même moteur de jeu - le Genie Engine (en) - basé sur des sprites en 2D isométrique. Le joueur y incarne un leadeur d’une civilisation du Moyen Âge qu’il doit faire évoluer en traversant quatre âges : L’âge sombre, l’âge féodal, l’âge des châteaux et l’âge impérial lui permettant d’acquérir de nouvelles technologies et de nouvelles unités. 
+						<p>Age of Empires II : The Age of Kings (souvent abrégé en AoK) est un jeu vidéo de stratégie en temps réel développé par Ensemble Studios et publié sur PC et MAC par Microsoft en 1999. Le jeu est le deuxième épisode de la série après Age of Empires sorti en 1997 et utilise le même moteur de jeu - le Genie Engine (en) - basé sur des sprites en 2D isométrique. Le joueur y incarne un leadeur d’une civilisation du Moyen Âge qu’il doit faire évoluer en traversant quatre âges : L’âge sombre, l’âge féodal, l’âge des châteaux et l’âge impérial lui permettant d’acquérir de nouvelles technologies et de nouvelles unités.
 						</p>
 					</div>
 				</div>

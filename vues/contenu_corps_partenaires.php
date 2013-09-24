@@ -1,8 +1,12 @@
 <div class="container">
     <div class="page-header">
-        <h1>Nos partenaires</h1>
+        <h1>
+            <span class="glyphicon glyphicon-star"></span>
+            Présentation<br/>
+            <small>Découvrez notre événement</small>
+        </h1>
     </div>
-	
+
     <div class="row">
         <div class="col-md-4">
 			<h2>BDE</h2>
@@ -14,7 +18,7 @@
 			</p>
 		</div>
 	</div>
-		
+
 	<div class="panel panel-default">
 		<div class="panel-body">La liste de nos sponsors peut changer en fonction de nos futurs accords de partenariats.</div>
 	</div>

@@ -1,8 +1,12 @@
 ﻿<div class="container">
 	<div class="page-header">
-		<h1>Staff<br /><small>Les organisateurs de l'UTT Arena</small></h1>
+        <h1>
+            <span class="glyphicon glyphicon-user"></span>
+            Staff<br/>
+            <small>L'équipe organisatrice de l'événement</small>
+        </h1>
 	</div>
-	
+
 	<div class="panel panel-default">
 	  <div class="panel-heading">
 		<h3 class="panel-title">Direction</h3>
@@ -45,7 +49,7 @@
 			</div>
 			</div>
 		</div>
-		
+
 		<div class="col-md-4">
 			<div class="panel panel-default">
 			<div class="panel-heading">
@@ -59,7 +63,7 @@
 			</div>
 			</div>
 		</div>
-		
+
 		<div class="col-md-4">
 			<div class="panel panel-default">
 			<div class="panel-heading">
@@ -73,7 +77,7 @@
 			</div>
 			</div>
 		</div>
-		
+
 	</div>
 
 </div>
