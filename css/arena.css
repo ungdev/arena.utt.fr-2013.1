@@ -3,8 +3,22 @@
 
     body, html {
         background: #0B161B url('../images/body.bgss.png') top no-repeat;
-/*        background: #020301 url('../images/body.bgss.png') top no-repeat;*/
+/*        background: #0B161B url('../images/body.bgss.png') top no-repeat;*/
         text-align: justify;
+
+    }
+
+    .page-header {
+        background: #29383F;
+        margin: 30px -28px 30px -28px;
+        padding: 10px 20px;
+        border-top: 1px solid #333;
+        border-bottom: 1px solid #222;
+    }
+
+    .panel-default>.panel-heading {
+/*        background: #2C4B58 url("../images/body.bg.png") top;*/
+        background: #091419;
     }
 
     a.list-group-item:hover, a.list-group-item:focus {
@@ -13,19 +27,19 @@
 
     .row>.col-md-4>.thumbnail>img {
         max-height: 150px;
-        border: 1px solid #111;
-        background: #272B30;
+        border: 5px solid #999;
+/*        background: #272B30;*/
         padding: 10px;
         margin: 10px auto;
-        border-radius: 3px;
+        border-radius: 0px;
     }
 
     .panel-body>.row>.col-md-4>img {
         min-width: 345px;
         margin: 0 auto;
-        border: 1px solid #111;
-        border-radius: 3px;
-        background: #272B30;
+        border: 5px solid #999;
+        border-radius: 0px;
+/*        background: #272B30;*/
         padding: 10px;
     }
 
@@ -44,10 +58,9 @@
 
     body>.container {
         background: #272B30; /*url('../images/article.header.bg.png') top repeat-x*/
-        border: 1px solid #1B2F3B;
+        border: 0px solid #1B2F3B;
         margin-top: 0px;
         padding: 20px;
-        padding-top: 45px;
         min-height: 500px;
         clear: both;
     }
