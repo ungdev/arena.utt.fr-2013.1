@@ -10,90 +10,127 @@
     <p>
         Depuis 1998, l'UTT Net Group est l'association de l'UTT portant sur les nouvelles technologies de l'information. Nous avons développé une expérience de LAN-Party de plus de 10 ans, avec jusqu'à deux LAN de plus de 150 joueurs par an. Chaque année nous recevons avec joie des participants venant de toute la France et d'ailleurs ! (Belgique, Suisse)
     </p>
+	
+	<div class="panel panel-default">
+		<div class="panel-header" style="padding-top: 10px;">
+			<ul class="nav nav-tabs">
+				<li class="active"><a href="#acces" data-toggle="tab"><span class="glyphicon glyphicon-plane"></span> Accès</a></li>
+				<li class=""><a href="#horaires" data-toggle="tab"><span class="glyphicon glyphicon-calendar"></span> Horaires</a></li>
+				<li class=""><a href="#tarif" data-toggle="tab"><span class="glyphicon glyphicon-shopping-cart"></span> Tarif</a></li>
+				<li class=""><a href="#contact" data-toggle="tab"><span class="glyphicon glyphicon-comment"></span> Contact</a></li>
+			</ul>
+		</div>
 
-    <h2>Lieu :</h2>
-    <p>
-        <center>
-            <div class="videoWrapper">
-                <iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.fr/maps?f=q&amp;source=embed&amp;hl=fr&amp;geocode=&amp;q=halle+sportive+universit%C3%A9+de+technologie+de+troyes&amp;aq=&amp;sll=46.75984,1.738281&amp;sspn=10.479345,25.378418&amp;ie=UTF8&amp;hq=halle+sportive&amp;hnear=Universit%C3%A9+de+Technologie+de+Troyes,+10010+Troyes&amp;ll=48.359028,4.019263&amp;spn=1.310023,1.256081&amp;t=m&amp;layer=c&amp;cbll=48.271485,4.064269&amp;panoid=6pAxG650JWIcJG767FbBBA&amp;cbp=12,77.83,,0,-1.93&amp;output=svembed"></iframe><br /><small><a href="https://maps.google.fr/maps?f=q&amp;source=embed&amp;hl=fr&amp;geocode=&amp;q=halle+sportive+universit%C3%A9+de+technologie+de+troyes&amp;aq=&amp;sll=46.75984,1.738281&amp;sspn=10.479345,25.378418&amp;ie=UTF8&amp;hq=halle+sportive&amp;hnear=Universit%C3%A9+de+Technologie+de+Troyes,+10010+Troyes&amp;ll=48.359028,4.019263&amp;spn=1.310023,1.256081&amp;t=m&amp;layer=c&amp;cbll=48.271485,4.064269&amp;panoid=6pAxG650JWIcJG767FbBBA&amp;cbp=12,77.83,,0,-1.93" style="color:#0000FF;text-align:left">Agrandir le plan</a></small>
-            </div>
-        </center>
-        </br>Halle Sportive de l'Université de technologie de Troyes 12 rue Marie Curie 10000 Troyes
-    </p>
-
-    <h2>Accès :</h2>
-    <p>
-        <ul>
-            <li><em>Par la route</em> : </li>
-                <ul>
-                    <li>Depuis Paris : autoroute A5, sortie numéro 20 Sainte Savine, direction Troyes sur la N60, puis rocade de contournement. </li>
-                    <li><em>Depuis Reims</em> : autoroute A26 puis autoroute A5, sortie numéro 21 Saint Thibault, direction Troyes sur la N71, puis rocade de contournement.</li>
-                    <li><em>Depuis Dijon</em> : autoroute A5, sortie numéro 21 Saint Thibault, direction Troyes sur la N71, puis rocade de contournement.</li>
-                </ul>
-            <li><em>Par le train (depuis Paris)</em> : Gare de l'Est vers Troyes (1h20 à 1h40). Nous pouvons venir vous chercher à la gare, il suffit de nous appeler une demi-heure avant votre arrivée.</li>
-        </ul>
-        <br />
-    </p>
-
-    <h2>Contact :</h2>
-    <p>
-        03 25 71 85 50 </br>
-        Mail : contact@uttarena.org
-        <br />
-    </p>
-
-    <h2>Horaires :</h2>
-    <p>
-        Ouverture : Vendredi 18 Mai 16h.</br>
-        Clôture des inscriptions des équipes par le capitaine de chaque équipe : Vendredi 12h.</br>
-        Fin des tournois : Dimanche 20 Mai 18h.
-        </br><br />
-    </p>
-
-    <h2>Tarif en prévente</h2>
-    <p>
-        Etudiant de l'UTT :10€ </br>
-        Extérieur : 15€</br></br>
-        Majoration de 3 € sur place, soit 13 € et 18 € respectivement.
-        <br /><br />
-    </p>
-
-    <h2>Ce que vous devez apporter :</h2>
-    <p>
-        <ul>
-            <li>Un ordinateur complet comprenant unité centrale, écran, clavier, souris et carte réseau, ou un ordinateur portable avec souris (sauf pour les balaises qui jouent au pad).</li>
-            <li>Multiprise si nécessaire, <b>il n'y aura qu'une seule prise de courant par joueur</b>.</li>
-            <li>Un câble réseau droit (RJ45 mâle/mâle) de 5 mètres minimum pour se brancher sur le switch de table. Des câbles seront disponibles sur place au prix unitaire de 7€.</li>
-            <li>Un système d'exploitation fonctionnel, sain et protégé par un antivirus, en configuration réseau vierge et automatique.</li>
-            <li>Un casque audio pour le son, <b>les enceintes étant interdites</b>.</li>
-            <li>Une pièce d'identité (carte d'identité, passeport, permis de conduire, ...). Elle sera nécessaire si vous n'avez pas votre billet imprimé le jour de l'évenement.</li>
-        </ul>
-        Il y aura possibilité de louer un écran CRT 17" (5€ pour la durée de la LAN) sur place. Cependant, le nombre d'écrans est limité.<br /><br />
-        <div class="alert alert-info">
-            <center><h4>Notez que...</h4> Nous ne garantissons pas de pouvoir vous aider si vous jouez sous Mac ! </center>
-        </div>
-        <br />
-    </p>
-
-    <h2>Restauration</h2>
-    <p>
-        Un stand de restauration proposera boissons et mets délicats : </br>
-        <ul>
-			<li>Sandwichs/Hot Dogs</li>
-            <li>Pizzas</li>
-            <li>Crêpes salées/sucrées</li>
-            <li>Croque-monsieurs</li>
-            <li>Sodas</li>
-            <li>Boissons sans alcool</li>
-            <li>Boissons chaudes</li>
-            <li>Barres Chocolatées</li>
-        </ul>
-        Nous demandons aux joueurs de faire attention aux horaires d'ouverture du stand de restauration. En effet, il est très probable qu'il soit fermé au milieu de la nuit !
-    </p>
-
-    <h2>Hygiène et repos :</h2>
-    <p>
-        Des douches seront à votre disposition. Une salle de repos sera disponible, néanmoins nous vous conseillons de prévoir un hébergement pour la nuit.
-        <br /><br /><br /><br />
-    </p>
+		<div class="panel-body">
+			<div id="myTabContent" class="tab-content">
+				<div class="tab-pane fade active in" id="acces">
+					Halle Sportive de l'Université de technologie de Troyes - 12 rue Marie Curie - 10 000 Troyes
+					<h3>Par la route</h3>
+						<ul>
+							<li>Depuis Paris : autoroute A5, sortie numéro 20 Sainte Savine, direction Troyes sur la N60, puis rocade de contournement. </li>
+							<li><em>Depuis Reims</em> : autoroute A26 puis autoroute A5, sortie numéro 21 Saint Thibault, direction Troyes sur la N71, puis rocade de contournement.</li>
+							<li><em>Depuis Dijon</em> : autoroute A5, sortie numéro 21 Saint Thibault, direction Troyes sur la N71, puis rocade de contournement.</li>
+						</ul>
+					<h3>Par le train (depuis Paris)</h3>
+					Gare de l'Est vers Troyes (1h20 à 1h40). Nous pouvons venir vous chercher à la gare, il suffit de nous appeler une demi-heure avant votre arrivée.</li>
+				</div>
+				
+				<div class="tab-pane fade in" id="contact">
+					Téléphone : 03 25 71 85 50 </br>
+					Mail : ung@utt.fr
+				</div>
+				
+				<div class="tab-pane fade in" id="horaires">
+					<h3>Points importants de la LAN</h3>
+					<p>
+						Ouverture de l'UTT Arena: Vendredi 29 novembre 18 h.<br />
+						Début des animations : Vendredi 29 novembre 20 h.<br />
+						Clôture des inscriptions aux spotlight : Vendredi 22 h.<br/>
+						Début des spotlight : Samedi midi.<br />
+						Fin des spotlight : Samedi soir.<br />
+						Clôture de l'UTT Arena : Dimanche 1 décembre 16 h.
+					</p>
+				</div>
+				
+				<div class="tab-pane fade in" id="tarif">
+					<div class="row">
+						<div class="col-md-4">
+							<h3>Prévente</h3>
+							<p>Etudiant de l'UTT <span class="badge">10 €</span> </br>
+							Extérieur <span class="badge">15 €</span>
+							</p>
+						</div>
+						<div class="col-md-4">
+							<h3>Plein tarif</h3>
+								<p>
+									Etudiant de l'UTT <span class="badge">13 €</span> </br>
+									Extérieur <span class="badge">18 €</span>
+								</p>
+								(Majoration de +3 € sur place)
+							</div>
+						<div class="col-md-4">
+							<h3>Visiteurs</h3>
+							<p>
+								Badge visiteur <span class="badge">2 €</span>
+							</p>
+						</div>
+					</div>
+					<br />
+					<div class="row">
+						<div class="col-md-8">
+							Les joueurs ont un emplacement pour installer leur PC et peuvent participer aux tournois spotlight et à toutes les animations de l'UTT Arena.
+							<br />Les inscriptions aux tournois spotlight sont closes 48 avant l'événement. 
+						</div>
+						<div class="col-md-4">
+							Les visiteurs ne peuvent pas participer aux animations ni apporter un PC dans la LAN. Certains stands seront accessibles aux visiteurs.
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<a class="list-group-item">
+		<h3 class="list-group-item-heading">
+			<span class="glyphicon glyphicon-warning-sign"></span> Ce que vous devez apporter
+		</h3>
+		<div class="list-group-item-text">
+			<h4>Votre matériel informatique habituel<br /><small>Un ordinateur complet comprenant unité centrale, écran, clavier, souris et carte réseau, ou un ordinateur portable avec souris (sauf pour les balaises qui jouent au pad).</small></h4>
+			<h4>Un PC qui démarre<br /><small>Un système d'exploitation fonctionnel, sain et protégé par un antivirus, en configuration réseau vierge et automatique. Une LAN c'est comme la piscine, on n'y va pas si on est malade.</small></h4>
+			<h4>Une multiprise<br /><small>La multiprise est nécessaire si vous avez un fixe, car <b>il n'y aura qu'une seule prise de courant par joueur</b>.</small></h4>
+			<h4>Un câble Ethernet<br /><small>Un câble réseau droit (RJ45 mâle/mâle) de <b>5 mètres minimum</b> pour se brancher sur le switch de table. Des câbles seront disponibles sur place au prix unitaire de 7€.</small></h4>
+			<h4>Votre casque<br /><small>Un casque audio pour le son, <b>les enceintes étant interdites</b>.</small></h4>
+			<h4>Votre carte d'identité/d'étudiant UTT<br /><small>Une pièce d'identité (carte d'identité, passeport, permis de conduire, ...) vous sera demandée à l'accueil. Un témoin ne suffit pas, vous devez avoir une pièce d'identité.</small></h4>
+			<h4>Votre attestation parentale<br /><small>Si vous êtes mineur de plus de 15 ans vous devez présenter une autorisation parentale. Si vous êtes majeur, vous pouvez aussi, mais ça ne sert à rien. Et si vous n'avez pas encore 15 ans, revenez l'année prochaine :)</small></h4>
+		</div>
+	</a>
+	
+	<a class="list-group-item">
+		<h3 class="list-group-item-heading">
+			<span class="glyphicon glyphicon-cutlery"></span> Restauration<br /><small>Un stand de restauration proposera boissons et mets délicats</small>
+		</h3>
+		<div class="list-group-item-text">
+			<h4>Sandwichs/Hot Dogs</h4>
+			<h4>Pizzas</h4>
+			<h4>Crêpes salées/sucrées</h4>
+			<h4>Croque-monsieurs</h4>
+			<h4>Sodas</h4>
+			<h4>Boissons sans alcool</h4>
+			<h4>Boissons chaudes</h4>
+			<h4>Barres Chocolatées</h4>
+			Nous demandons aux joueurs de faire attention aux horaires d'ouverture du stand de restauration. En effet, il est très probable qu'il soit fermé au milieu de la nuit !
+		</div>
+	</a>
+	
+	<a class="list-group-item">
+		<h3 class="list-group-item-heading"><span class="glyphicon glyphicon-home"></span> Hygiène et repos</h3>
+		<div class="list-group-item-text">
+		Des douches seront à votre disposition. Une salle de repos sera disponible, néanmoins nous vous conseillons de prévoir un hébergement pour la nuit.
+		</div>
+	</a>
+	
+	<h2>Comme si vous y étiez</h2>
+	<div class="videoWrapper">
+		<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/?ie=UTF8&amp;ll=48.271404,4.064233&amp;spn=0.008634,0.023378&amp;t=m&amp;z=17&amp;layer=c&amp;cbll=48.271485,4.064269&amp;panoid=6pAxG650JWIcJG767FbBBA&amp;cbp=12,80.19,,0,0.58&amp;source=embed&amp;output=svembed"></iframe><br /><small><a href="https://maps.google.com/?ie=UTF8&amp;ll=48.271404,4.064233&amp;spn=0.008634,0.023378&amp;t=m&amp;z=17&amp;layer=c&amp;cbll=48.271485,4.064269&amp;panoid=6pAxG650JWIcJG767FbBBA&amp;cbp=12,80.19,,0,0.58&amp;source=embed" style="color:#0000FF;text-align:left">Agrandir le plan</a></small>
+	</div>
 </div>
