@@ -3,7 +3,7 @@
         <h1>
             <span class="glyphicon glyphicon-user"></span>
             Staff<br/>
-            <small>L'équipe organisatrice de l'événement</small>
+            <small>Ils sont beaux, mais pas trop</small>
         </h1>
 	</div>
 

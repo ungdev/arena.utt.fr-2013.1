@@ -1,13 +1,55 @@
 @import url("//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700");
 
-ul { list-style-image: none; }
+ul {
+	list-style-image: none;
+}
 			
-			#countdown-blog {color:#000;height:200px; margin-left: 40px;}
-			#countdown-blog div.set{float:left}
-			#countdown-blog h2{text-align:center; font-size:18px; font-family: "Open Sans",​Calibri,​Candara,​Arial,​sans-serif;}
-			#countdown-blog ul{list-style-type:none;height:103px;padding:20px 0px 5px}
-			#countdown-blog li{float:left;background:url(../images/countdown/filmstrip_countdown_9-0_grey.png) 0 0 no-repeat;width:53px;height:103px}
-			#countdown-blog li#s0, li#m0{background:url(../images/countdown/filmstrip_countdown_5-0_grey.png) 0 0 no-repeat}
-			#countdown-blog li#h0{background:url(../images/countdown/filmstrip_countdown_2-0_grey.png) 0 0 no-repeat}
-			#countdown-blog li.comma{background:url(../images/countdown/comma.png) 2px 75px no-repeat;width:12px}
-			#countdown-blog div.separator{float:left; font:80px Arial,sans-serif; height:103px; padding:25px 0 0;}
+#countdown-blog {
+	height:200px;
+	width:490px;
+	/*margin-left: 40px;*/
+	margin: 0 auto;
+}
+
+#countdown-blog div.set{
+	float:left;
+}
+
+#countdown-blog h2{
+	text-align:center;
+	font-size:18px;
+	font-family: "Open Sans", Calibri, Candara, Arial, sans-serif;
+}
+
+#countdown-blog ul{
+	list-style-type:none;
+	height:103px;
+	padding:20px 0px 5px;
+}
+
+#countdown-blog li{
+	float:left;
+	background:url('../images/countdown/filmstrip_countdown_9-0_grey.png') 0 0 no-repeat;
+	width:53px;
+	height:103px;
+}
+
+#countdown-blog li#s0, li#m0 {
+	background: url('../images/countdown/filmstrip_countdown_5-0_grey.png') 0 0 no-repeat;
+}
+
+#countdown-blog li#h0{
+	background: url('../images/countdown/filmstrip_countdown_2-0_grey.png') 0 0 no-repeat;
+}
+
+#countdown-blog li.comma{
+	background:url(../images/countdown/comma.png) 2px 75px no-repeat;
+	width:12px;
+}
+
+#countdown-blog div.separator{
+	float: left;
+	font: 80px Arial,sans-serif;
+	height: 103px;
+	padding: 25px 0 0;
+}

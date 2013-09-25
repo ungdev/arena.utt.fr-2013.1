@@ -211,11 +211,6 @@ a.list-group-item:hover {
 }
 @media screen and (min-width: 590px)
 {
-    #mycountdown>div {
-        position: relative;
-        left: -50px;
-    }
-
     #compte_a_rebours {
         display: none;
     }
