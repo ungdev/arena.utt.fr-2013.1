@@ -7,59 +7,10 @@
         </h1>
 
     </div>
-    <p>
-        <center>
-            <div id="myCarousel" class="carousel slide" style="max-width: 720px;">
-              <ol class="carousel-indicators">
-                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                <li data-target="#myCarousel" data-slide-to="1"></li>
-                <li data-target="#myCarousel" data-slide-to="2"></li>
-                <li data-target="#myCarousel" data-slide-to="3"></li>
-              </ol>
-              <!-- Carousel items -->
-              <div class="carousel-inner" >
-                <div class="active item">
-                    <a href="description.php#description"><img src="images/pics/joueurs.jpg" width="720" height="479">
-                        <div class="carousel-caption">
-                            <h4>UTT Arena 2013</h4>
-                            <p>L'UTT Arena change de formule, nous vous expliquons tout du nouveau fonctionnement !</p>
-                        </div>
-                    </a>
-                </div>
 
-                <div class="item">
-                    <a href="jeux.php"><img src="images/pics/night.jpg" height="479" width="720">
-                        <div class="carousel-caption">
-                            <h4>Liste des jeux</h4>
-                            <p>Votre jeu préféré sera-t-il à l'UTT Arena ? Venez le découvrir et téléchargez les jeux que vous n'avez pas encore !</p>
-                        </div>
-                    </a>
-                </div>
+    <div class="row">
 
-                <div class="item">
-                    <a href="infos.php"><img src="images/pics/matelas.jpg" height="479" width="720">
-                        <div class="carousel-caption">
-                            <h4>Informations pratiques</h4>
-                            <p>Comment venir ? Où dormir ? Combien coûte l'entrée ?</p>
-                        </div>
-                    </a>
-                </div>
-
-                <div class="item">
-                    <a href="staff.php"><img src="images/pics/crepes.jpg" height="479" width="720">
-                        <div class="carousel-caption">
-                            <h4>Le staff</h4>
-                            <p>Le saviez-vous ? L'UTT Arena est organisée bénévolement par des étudiants de l'UTT et de l'IUT.</p>
-                        </div>
-                    </a>
-                </div>
-              </div>
-              <!-- Carousel nav -->
-              <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
-              <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
-            </div>
-        </center>
-    </p>
+            <div class="col-md-8">
 
         <h2 id="nav-tabs">Déroulement de la LAN</h2>
         <p>
@@ -72,7 +23,7 @@
                     <li class="active"><a href="#libre" data-toggle="tab">Tournois libres</a></li>
                     <li class=""><a href="#spotlight" data-toggle="tab">Tournois spotlight</a></li>
                     <li class=""><a href="#animations" data-toggle="tab">Animations</a></li>
-                    <li class=""><a href="#plateau" data-toggle="tab">Jeux de société et jeux de plateau</a></li>
+                    <li class=""><a href="#plateau" data-toggle="tab">Jeux sur table</a></li>
                     <li class=""><a href="#invites" data-toggle="tab">Invités et VIP</a></li>
                 </ul>
 
@@ -115,6 +66,60 @@
             </div>
 
 
+        </div>
+        <div class="col-md-4">
+            <div id="myCarousel" class="carousel slide" style="max-width: 720px;">
+                <ol class="carousel-indicators">
+                  <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                  <li data-target="#myCarousel" data-slide-to="1"></li>
+                  <li data-target="#myCarousel" data-slide-to="2"></li>
+                  <li data-target="#myCarousel" data-slide-to="3"></li>
+                </ol>
+                <!-- Carousel items -->
+                <div class="carousel-inner" >
+                  <div class="active item">
+                      <a href="description.php#description"><img src="images/pics/joueurs.jpg" width="720" height="479">
+                          <div class="carousel-caption">
+                              <h4>UTT Arena 2013</h4>
+                              <p>L'UTT Arena change de formule, nous vous expliquons tout du nouveau fonctionnement !</p>
+                          </div>
+                      </a>
+                  </div>
+
+                  <div class="item">
+                      <a href="jeux.php"><img src="images/pics/night.jpg" height="479" width="720">
+                          <div class="carousel-caption">
+                              <h4>Liste des jeux</h4>
+                              <p>Votre jeu préféré sera-t-il à l'UTT Arena ? Venez le découvrir et téléchargez les jeux que vous n'avez pas encore !</p>
+                          </div>
+                      </a>
+                  </div>
+
+                  <div class="item">
+                      <a href="infos.php"><img src="images/pics/matelas.jpg" height="479" width="720">
+                          <div class="carousel-caption">
+                              <h4>Informations pratiques</h4>
+                              <p>Comment venir ? Où dormir ? Combien coûte l'entrée ?</p>
+                          </div>
+                      </a>
+                  </div>
+
+                  <div class="item">
+                      <a href="staff.php"><img src="images/pics/crepes.jpg" height="479" width="720">
+                          <div class="carousel-caption">
+                              <h4>Le staff</h4>
+                              <p>Le saviez-vous ? L'UTT Arena est organisée bénévolement par des étudiants de l'UTT et de l'IUT.</p>
+                          </div>
+                      </a>
+                  </div>
+                </div>
+                <!-- Carousel nav -->
+                <a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
+                <a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
+              </div>
+            </div>
+
+    </div>
 
         <h3>Et encore plein d'autres choses...</h3>
         Nous avons encore des tas de projets dans les cartons et des surprises à découvrir pendant l'événement, alors n'hésitez pas à vous tenir informés sur les réseaux sociaux et la newsletter.
