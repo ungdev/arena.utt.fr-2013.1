@@ -1,9 +1,9 @@
 <div class="container">
     <div class="page-header">
         <h1>
-            <span class="glyphicon glyphicon-star"></span>
-            Présentation<br/>
-            <small>Découvrez notre événement</small>
+            <span class="glyphicon glyphicon-briefcase"></span>
+            Partenaires et Sponsors<br/>
+            <small>Pas d'sponsors, pas d'event. Pas d'event, pas d'palais. Pas d'palais, ... pas d'palais.</small>
         </h1>
     </div>
 
