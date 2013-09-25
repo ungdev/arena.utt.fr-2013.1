@@ -18,7 +18,8 @@
                 <h4>Puis-je payer sur place ?<br /><small>Oui, mais une majoration sera appliquée, les prix passeront à 10 € pour les UTTiens, et à 15 € pour les extérieurs.</small></h4>
                 <h4>Puis-je me faire rembourser ? <br /><small>Nous traitons ce genre de demande au cas par cas, avec comme solution donner votre place à votre remplaçant ou trouver un moyen de vous dédommager. Pensez à contacter le staff UA par e-mail.</small></h4>
                 <h4>Les visiteurs sont-ils admis ?<br /><small>Les visiteurs doivent payer un droit d'entrée de 2 € à l'accueil, il leur sera remis un badge qu'ils doivent porter de façon visible. Les visiteurs ayant quitté la sale doivent présenter leur badge à l'accueil s'ils veulent rentrer.</small></h4>
-            </div>
+				<h4>Je suis encore mineur, est-ce que je peux venir ?<br /><small>Les mineurs de plus de 15 ans sont autorisés à condition de présenter une autorisation parentale à l'accueil de l'événement, sans quoi ils seront refusés.</small></h4>
+			</div>
         </a>
 
         <a href="#" class="list-group-item collapse-group" data-toggle="collapse" data-target="#viewlan">

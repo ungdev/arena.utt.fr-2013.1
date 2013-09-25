@@ -88,7 +88,11 @@
 
         <h3>Et encore plein d'autres choses...</h3>
         Nous avons encore des tas de projets dans les cartons et des surprises à découvrir pendant l'événement, alors n'hésitez pas à vous tenir informés sur les réseaux sociaux et la newsletter.
-    </p>
+		
+		<h3>Note pour les mineurs</h3>
+		Les mineurs de plus de 15 ans sont autorisés à condition de présenter une <a href="pdf/autorisation_parentale.pdf">autorisation parentale</a> à l'accueil de l'événement, sans quoi ils seront refusés.
+	
+	</p>
 
     <p>
         <h2>Un aperçu de nos LAN précédentes</h2>
