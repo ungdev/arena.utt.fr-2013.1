@@ -9,7 +9,7 @@
 
     <div class="list-group">
 
-        <a href="#" class="list-group-item collapse-group" data-toggle="collapse" data-target="#viewsubscribe">
+        <a href="javascript:void(0);" class="list-group-item collapse-group" data-toggle="collapse" data-target="#viewsubscribe">
             <h3 class="list-group-item-heading">
                 <span class="glyphicon glyphicon-log-in"></span> Inscription à l'UTT Arena
             </h3>
@@ -22,7 +22,7 @@
 			</div>
         </a>
 
-        <a href="#" class="list-group-item collapse-group" data-toggle="collapse" data-target="#viewlan">
+        <a href="javascript:void(0);" class="list-group-item collapse-group" data-toggle="collapse" data-target="#viewlan">
             <h3 class="list-group-item-heading">
                 <span class="glyphicon glyphicon-adjust"></span> Pendant la LAN
             </h3>
@@ -35,7 +35,7 @@
             </div>
         </a>
 
-        <a href="#" class="list-group-item collapse-group" data-toggle="collapse" data-target="#viewtournaments">
+        <a href="javascript:void(0);" class="list-group-item collapse-group" data-toggle="collapse" data-target="#viewtournaments">
             <h3 class="list-group-item-heading">
                 <span class="glyphicon glyphicon-facetime-video"></span> Les tournois spotlight
             </h3>
@@ -49,7 +49,7 @@
 				</div>
         </a>
 
-        <a href="#" class="list-group-item collapse-group" data-toggle="collapse" data-target="#viewteam">
+        <a href="javascript:void(0);" class="list-group-item collapse-group" data-toggle="collapse" data-target="#viewteam">
             <h3 class="list-group-item-heading">
                 <span class="glyphicon glyphicon-fire"></span> Les animations
             </h3>
@@ -64,7 +64,7 @@
             </div>
         </a>
 
-        <a href="#" class="list-group-item collapse-group" data-toggle="collapse" data-target="#viewcontacts">
+        <a href="javascript:void(0);" class="list-group-item collapse-group" data-toggle="collapse" data-target="#viewcontacts">
             <h3 class="list-group-item-heading">
                 <span class="glyphicon glyphicon-envelope"></span> Nous contacter
             </h3>
