@@ -2,8 +2,12 @@
 <div id="topbg">
 <div class="navbar navbar-default navbar-fixed-top">
     <div id="centered">
-        <div id="logoleft"></div>
-        <div id="logobar"></div>
+        <div id="logoleft">
+	        <a href="index.php"></a>
+        </div>
+        <div id="logobar">
+	        <a href="index.php"></a>
+        </div>
     </div>
     <div class="container">
         <div class="navbar-header">

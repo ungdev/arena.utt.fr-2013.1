@@ -163,13 +163,18 @@ h5 small, h6 small, .h1 small, .h2 small,
         width: 1250px; margin: 0 auto; position: relative;
     }
 
-    #logoleft {
-        background: url('../images/header.logoleft.png') top no-repeat;
-        width: 234px;
-        height: 208px;
-        margin: 0 auto;
-        float: left;
-    }
+	#logoleft {
+		background: url('../images/header.logoleft.png') top no-repeat;
+		width: 234px;
+		height: 208px;
+		margin: 0 auto;
+		float: left;
+	}
+	#logoleft a {
+		display: block;
+		width: 234px;
+		height: 208px;
+	}
 
     #logobar  {
         background: url('../images/header.logobar.png') top no-repeat;
@@ -179,6 +184,11 @@ h5 small, h6 small, .h1 small, .h2 small,
         height: 88px;
         float: left;
     }
+	#logobar a {
+		display: block;
+		width: 984px;
+		height: 88px;
+	}
 
     .navbar	{
         height: 209px;
