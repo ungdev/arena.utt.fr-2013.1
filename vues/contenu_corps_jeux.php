@@ -12,7 +12,7 @@
 	<div class="row">
 		<div class="col-md-4">
 			<div class="thumbnail">
-				<img src="images/games/league_of_legends.png" class="img-responsive" alt="Logo LoL">
+				<img src="images/games/league_of_legends.png" class="img-responsive" alt="Logo LoL" title="League of legends">
 				<div class="caption">
 				<h3>LEAGUE OF LEGENDS</h3>
 				<p>League of Legends est un jeu compétitif en ligne bourré d'action, qui mélange l'intensité trépidante des jeux de stratégie en temps réel avec des éléments de jeu de rôle. Deux équipes de puissants champions, chacun avec un design et des compétences uniques, se heurtent de front sur de nombreux champs de bataille et dans des modes de jeu variés. Avec une liste de champions en expansion permanente, des mises à jour fréquentes et des événements compétitifs florissants, League of Legends offre des parties sans cesse renouvelées aux joueurs de tous niveaux.
@@ -23,7 +23,7 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="images/games/hots.png" class="img-responsive" alt="Logo Starcraft">
+				<img src="images/games/hots.png" class="img-responsive" alt="Logo Starcraft" title="Starcraft">
 				<div class="caption">
 				<h3>STARCRAFT 2</h3>
 				<p>StarCraft II, suite très attendue du premier du nom, est le légendaire jeu de stratégie en temps réel créé par Blizzard Entertainment. StarCraft II est à la fois un jeu solo prenant et un jeu multijoueur rapide. Il s’appuie pour cela sur Battle.net, le service de jeu en ligne très complet de Blizzard Entertainment. Les affrontements en 1c1, 2c2 ou plus font apparaître le talent des joueurs dans des batailles à couper le soufle.
@@ -34,7 +34,7 @@
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<div class="thumbnail">
-				<img src="images/games/ShootMania.png" class="img-responsive" alt="Logo ShootMania">
+				<img src="images/games/ShootMania.png" class="img-responsive" alt="Logo ShootMania" title="ShootMania">
 				<div class="caption">
 				<h3>SHOOTMANIA</h3>
 				<p>ShootMania Storm révolutionne le FPS multijoueur en y ajoutant une dimension communautaire et une rejouabilité sans limite. Conçu par le studio Nadeo, célèbre pour son jeu de course communautaire TrackMania, ShootMania Storm offre des parties rapides et des batailles épiques ou seul votre talent vous permettra de vous distinguer. Seul ou en équipe, sautez dans l’arène de votre choix : maps, modes ou classements, vous êtes libre de jouer selon vos envies et de contribuer à la communauté ShootMania comme vous l’entendez.
@@ -56,7 +56,7 @@
 		<div class="panel-body">
 			<div class="row">
 				<div class="col-md-4">
-					<img class="img-responsive" src="images/games/Minecraft-logo.png" alt="Logo Minecraft">
+					<img class="img-responsive" src="images/games/Minecraft-logo.png" alt="Logo Minecraft" title="Minecraft">
 				</div>
 				<div class="col-md-8">
 					<div class="caption">
@@ -75,7 +75,7 @@
 		<div class="panel-body">
 			<div class="row">
 				<div class="col-md-4">
-					<img class="img-responsive" src="images/games/battlefield3.png" alt="Logo Battlefield 3">
+					<img class="img-responsive" src="images/games/battlefield3.png" alt="Logo Battlefield 3" title="Battlefield 3">
 				</div>
 				<div class="col-md-8">
 					<div class="caption">
@@ -93,7 +93,7 @@
 		<div class="panel-body">
 			<div class="row">
 				<div class="col-md-4">
-					<img class="img-responsive" src="images/games/trackmania.png" alt="Logo Trackmania">
+					<img class="img-responsive" src="images/games/trackmania.png" alt="Logo Trackmania" title="Trackmania">
 				</div>
 				<div class="col-md-8">
 					<div class="caption">
@@ -111,7 +111,7 @@
 		<div class="panel-body">
 			<div class="row">
 				<div class="col-md-4">
-					<img class="img-responsive" src="images/games/dota-2.png" alt="Logo Dota 2">
+					<img class="img-responsive" src="images/games/dota-2.png" alt="Logo Dota 2" title="Dota 2">
 				</div>
 				<div class="col-md-8">
 					<div class="caption">
@@ -129,7 +129,7 @@
 		<div class="panel-body">
 			<div class="row">
 				<div class="col-md-4">
-					<img class="img-responsive" src="images/games/team_fortress_2_logo.png" alt="Logo TF2">
+					<img class="img-responsive" src="images/games/team_fortress_2_logo.png" alt="Logo TF2" title="Team Fortress 2">
 				</div>
 				<div class="col-md-8">
 					<div class="caption">
@@ -147,7 +147,7 @@
 		<div class="panel-body">
 			<div class="row">
 				<div class="col-md-4">
-					<img class="img-responsive" src="images/games/l4d2.png" alt="Logo L4D2">
+					<img class="img-responsive" src="images/games/l4d2.png" alt="Logo L4D2" title="Left 4 Dead 2">
 				</div>
 				<div class="col-md-8">
 					<div class="caption">
@@ -167,7 +167,7 @@
 		<div class="panel-body">
 			<div class="row">
 				<div class="col-md-4">
-					<img class="img-responsive" src="images/games/logo_csgo.png" alt="Logo CSGO">
+					<img class="img-responsive" src="images/games/logo_csgo.png" alt="Logo CSGO" title="Counter Strike : Global Offensive">
 				</div>
 				<div class="col-md-8">
 					<div class="caption">
@@ -194,7 +194,7 @@
 		<div class="panel-body">
 			<div class="row">
 				<div class="col-md-4">
-					<img class="img-responsive" src="images/games/teeworlds.png" alt="Logo teeworlds">
+					<img class="img-responsive" src="images/games/teeworlds.png" alt="Logo Teeworlds" title="Teeworlds">
 				</div>
 				<div class="col-md-8">
 					<div class="caption">
@@ -212,7 +212,7 @@
 		<div class="panel-body">
 			<div class="row">
 				<div class="col-md-4">
-					<img class="img-responsive" src="images/games/OrcsMustDie2-Logo.png" alt="Logo ORCS MUST DIE">
+					<img class="img-responsive" src="images/games/OrcsMustDie2-Logo.png" alt="Logo Orcs Must Die" title="Orcs Must Die">
 				</div>
 				<div class="col-md-8">
 					<div class="caption">
@@ -231,7 +231,7 @@
 		<div class="panel-body">
 			<div class="row">
 				<div class="col-md-4">
-					<img class="img-responsive" src="images/games/dungeon_defenders.png" alt="Logo DUNGEON DEFENDER">
+					<img class="img-responsive" src="images/games/dungeon_defenders.png" alt="Logo Dungeon Defender" title="Dungeon Defender">
 				</div>
 				<div class="col-md-8">
 					<div class="caption">
@@ -250,7 +250,7 @@
 		<div class="panel-body">
 			<div class="row">
 				<div class="col-md-4">
-					<img class="img-responsive" src="images/games/Official_SMR_Logo.png" alt="Logo SHOOT MANY ROBOTS">
+					<img class="img-responsive" src="images/games/Official_SMR_Logo.png" alt="Logo Shoot Many Robots" title="Shoot Many Robots">
 				</div>
 				<div class="col-md-8">
 					<div class="caption">
@@ -269,7 +269,7 @@
 		<div class="panel-body">
 			<div class="row">
 				<div class="col-md-4">
-					<img class="img-responsive" src="http://www.g4g.it/g4g2/wp-content/uploads/2010/10/WarLight_01.jpg" alt="Logo WARLIGHT">
+					<img class="img-responsive" src="http://www.g4g.it/g4g2/wp-content/uploads/2010/10/WarLight_01.jpg" alt="Logo Warlight" title="Warlight">
 				</div>
 				<div class="col-md-8">
 					<div class="caption">
@@ -287,7 +287,7 @@
 		<div class="panel-body">
 			<div class="row">
 				<div class="col-md-4">
-					<img class="img-responsive" src="images/games/killing_floor.png" alt="Logo killing floor">
+					<img class="img-responsive" src="images/games/killing_floor.png" alt="Logo Killing Floor" title="Killing Floor">
 				</div>
 				<div class="col-md-8">
 					<div class="caption">
@@ -305,7 +305,7 @@
 		<div class="panel-body">
 			<div class="row">
 				<div class="col-md-4">
-					<img class="img-responsive" src="images/games/Portal_logo.png" alt="Logo Portal">
+					<img class="img-responsive" src="images/games/Portal_logo.png" alt="Logo Portal" title="Portal">
 				</div>
 				<div class="col-md-8">
 					<div class="caption">
@@ -332,7 +332,7 @@
 		<div class="panel-body">
 			<div class="row">
 				<div class="col-md-4">
-					<img class="img-responsive" src="images/games/quake.jpg" alt="Logo Quake">
+					<img class="img-responsive" src="images/games/quake.jpg" alt="Logo Quake" title="Quake">
 				</div>
 				<div class="col-md-8">
 					<div class="caption">
@@ -349,7 +349,7 @@
 		<div class="panel-body">
 			<div class="row">
 				<div class="col-md-4">
-					<img class="img-responsive" src="images/games/ut99.png" alt="Logo UT99">	
+					<img class="img-responsive" src="images/games/ut99.png" alt="Logo UT99" title="Unreal Tournament 99">
 				</div>
 				<div class="col-md-8">
 					<div class="caption">
@@ -366,7 +366,7 @@
 		<div class="panel-body">
 			<div class="row">
 				<div class="col-md-4">
-					<img class="img-responsive" src="images/games/aoe2.png" alt="Logo AOE2">
+					<img class="img-responsive" src="images/games/aoe2.png" alt="Logo AOE2" title="Age of Empires II : The Age of Kings">
 				</div>
 				<div class="col-md-8">
 					<div class="caption">

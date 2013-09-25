@@ -3,7 +3,10 @@
 
 <head>
 	<?php require './vues/contenu_head.php' ?>
-	<title> Liste des jeux </title>
+
+	<meta name="description" content="Liste des jeux disponibles à l'UTT Arena 2013" />
+
+	<title> Liste des jeux - UTT Arena 2013 </title>
 </head>
 
 <body>

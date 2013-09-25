@@ -1,5 +1,4 @@
 <meta charset="UTF-8" />
-<meta name="description" content="UTT Arena 2013" />
 <meta name="keywords" content="UTT, Arena, 2013, UNG, UTT Net Group, Lan, Lan-party, Troyes" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

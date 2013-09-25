@@ -3,7 +3,10 @@
 
 <head>
 	<?php require './vues/contenu_head.php' ?>
-	<title> Partenaire </title>
+
+	<meta name="description" content="Liste des partenaires de l'UTT Arena sans qui l'UA ne pourrait avoir lieu !" />
+
+	<title> Partenaires - UTT Arena 2013 </title>
 </head>
 
 <body>

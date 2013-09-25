@@ -26,9 +26,15 @@
 			</p>
 
 			<p style="text-align: center">
-				<a href="https://www.facebook.com/UA2K12?fref=ts"><img src="images/social/facebook.round.png" alt="facebook" /></a>
-				<a href="https://twitter.com/UTTArena"><img src="images/social/twitter.round.png" alt="twitter" /></a>
-				<a href="http://www.youtube.com/channel/UCm8nToPe0gc0zlUa-gAxvEA"><img src="images/social/youtube.round.png" alt="youtube" /></a>
+				<a href="https://www.facebook.com/UA2K12?fref=ts">
+					<img src="images/social/facebook.round.png" alt="Facebook" title="Suivez-nous sur Facebook !" />
+				</a>
+				<a href="https://twitter.com/UTTArena">
+					<img src="images/social/twitter.round.png" alt="Twitter" title="Suivez-nous sur Twitter !" />
+				</a>
+				<a href="http://www.youtube.com/channel/UCm8nToPe0gc0zlUa-gAxvEA">
+					<img src="images/social/youtube.round.png" alt="YouTube" title="Suivez-nous sur YouTube !" />
+				</a>
 			</p>
 		</div>
 
@@ -44,16 +50,11 @@
 				if (($today - $fincompteur) <= 0)
 				{
 					{ ?>
-
-				
-					<link href="css/countdown.css" rel="stylesheet" media="screen">
 					<div id="countdown-blog" style=''>
 					<p>
 						Les inscriptions seront lancées dans :
 					</p>
 					</div>
-					<script type="text/javascript" src="js/countdown.js"></script>
-				
 					<?php }
 				}
 				else

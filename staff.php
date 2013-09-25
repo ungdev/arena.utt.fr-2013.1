@@ -3,7 +3,10 @@
 
 <head>
 	<?php require './vues/contenu_head.php' ?>
-	<title> Staff </title>
+
+	<meta name="description" content="Liste des organisateurs de l'UTT Arena, pour mettre un visage sur un nom !" />
+
+	<title> Staff - UTT Arena 2013 </title>
 </head>
 
 <body>

@@ -3,7 +3,10 @@
 
 <head>
 	<?php require './vues/contenu_head.php' ?>
-	<title> News </title>
+
+	<meta name="description" content="Dernières actualités de l'UTT Arena 2013, tenez vous informés des news !" />
+
+	<title> News - UTT Arena 2013 </title>
 </head>
 
 <body>

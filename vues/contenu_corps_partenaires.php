@@ -13,7 +13,7 @@
     <div class="row">
         <div class="col-md-4">
 			<div class="thumbnail">
-				<img src="images/partners/bde.jpg" class="img-responsive" alt="Logo BDE">
+				<img src="images/partners/bde.jpg" class="img-responsive" alt="Logo BDE" title="Bureau des étudiants de l'UTT">
 				<div class="caption">
 				<h3>BDE</h3>
 				<p>Le BDE de l'Université de Technologie de Troyes fédère les associations de l'UTT et facilite l'organisation de leurs projets. Les subventions attribuées par le BDE permettent de couvrir nottamment les frais de fonctionnement des associations.

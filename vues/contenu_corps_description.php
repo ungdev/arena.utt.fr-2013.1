@@ -14,7 +14,7 @@
 		Nous vous proposons de vous amuser lors d'animations présentes tout le week-end.
 		Découvrez le détail ci-dessous.
 	</p>
-	
+
     <div class="row">
 
             <div class="col-md-8">
@@ -30,14 +30,14 @@
                     <li class=""><a href="#autres" data-toggle="tab">Autres...</a></li>
                 </ul>
 			</div>
-			
+
             <div class="panel-body">
                 <div id="myTabContent" class="tab-content">
                     <div class="tab-pane fade active in" id="libre">
                         <h3>Les tournois libres</h3>
                         <p>Grâce à notre site intranet, vous serez informés en live. L'équipe vous proposera des jeux et des petits tournois toute la journée : défis sur notre serveur Minecraft, tournois sur console, challenge speedrun sur Portal et bien d'autres.
         Vous pourrez ainsi remporter des lots !</p>
-   
+
         <p>Et si vous voulez faire des matchs avec vos voisins ou un inconnu à l'autre bout de la salle, l'intranet vous permettra de trouver vos adversaires et d'organiser vos rencontres. N'oubliez pas d'aller regarder la liste des jeux !</p>
 
                     </div>
@@ -88,7 +88,9 @@
                 <!-- Carousel items -->
                 <div class="carousel-inner" >
                   <div class="active item">
-                      <a href="description.php#description"><img src="images/pics/joueurs.jpg" width="720" height="479">
+                      <a href="description.php#description">
+	                      <img src="images/pics/joueurs.jpg" width="720" height="479" alt="Joueurs"
+	                           title="L'UTT Arena change de formule, nous vous expliquons tout du nouveau fonctionnement !">
                           <div class="carousel-caption">
                               <h4>UTT Arena 2013</h4>
                               <p>L'UTT Arena change de formule, nous vous expliquons tout du nouveau fonctionnement !</p>
@@ -97,7 +99,9 @@
                   </div>
 
                   <div class="item">
-                      <a href="jeux.php"><img src="images/pics/night.jpg" height="479" width="720">
+                      <a href="jeux.php">
+	                      <img src="images/pics/night.jpg" height="479" width="720" alt="Jeux"
+	                           title="Votre jeu préféré sera-t-il à l'UTT Arena ? Venez le découvrir et téléchargez les jeux que vous n'avez pas encore !">
                           <div class="carousel-caption">
                               <h4>Liste des jeux</h4>
                               <p>Votre jeu préféré sera-t-il à l'UTT Arena ? Venez le découvrir et téléchargez les jeux que vous n'avez pas encore !</p>
@@ -106,7 +110,9 @@
                   </div>
 
                   <div class="item">
-                      <a href="infos.php"><img src="images/pics/matelas.jpg" height="479" width="720">
+                      <a href="infos.php">
+	                      <img src="images/pics/matelas.jpg" height="479" width="720" alt="Informations pratiques"
+	                           title="Comment venir ? Où dormir ? Combien coûte l'entrée ?">
                           <div class="carousel-caption">
                               <h4>Informations pratiques</h4>
                               <p>Comment venir ? Où dormir ? Combien coûte l'entrée ?</p>
@@ -115,7 +121,9 @@
                   </div>
 
                   <div class="item">
-                      <a href="staff.php"><img src="images/pics/crepes.jpg" height="479" width="720">
+                      <a href="staff.php">
+	                      <img src="images/pics/crepes.jpg" height="479" width="720" alt="Crêpes"
+	                           title="Le saviez-vous ? L'UTT Arena est organisée bénévolement par des étudiants de l'UTT et de l'IUT.">
                           <div class="carousel-caption">
                               <h4>Le staff</h4>
                               <p>Le saviez-vous ? L'UTT Arena est organisée bénévolement par des étudiants de l'UTT et de l'IUT.</p>

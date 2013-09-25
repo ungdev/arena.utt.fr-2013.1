@@ -5,6 +5,9 @@ body, html {
 	color: #ccc;
 }
 
+.align-center {
+	text-align: center;
+}
 
 .page-header {
     background: #04384C;
@@ -210,9 +213,9 @@ h5 small, h6 small, .h1 small, .h2 small,
 
 	.navbar-default .navbar-nav>li>a {
 		color: #adc4d1;
-	
+
 	}
-	
+
     .navbar li {
         background: #001927;
     }
