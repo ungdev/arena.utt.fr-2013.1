@@ -16,7 +16,7 @@
 	<div class="jumbotron">
 		<h1>Nous sommes de retour !</h1>
 		<p>Cet hiver, l'UTT Arena fait son comeback ! Nouvelle formule, nouvelles activités, plus de fun, et comme toujours des lots à gagner...</p>
-		<p><a class="btn btn-primary btn-lg">Découvrez l'événement</a></p>
+		<p><a class="btn btn-primary btn-lg" href="description.php">Découvrez l'événement</a></p>
 	</div>
 
 	<div class="row">

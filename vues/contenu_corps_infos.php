@@ -8,7 +8,7 @@
     </div>
     <h2>L'association organisatrice :</h2>
     <p>
-        Depuis 1998, l'UTT Net Group est l'association de l'UTT portant sur les nouvelles technologies de l'information. Nous avons développé une expérience de LAN-Party de plus de 10 ans, avec en moyenne deux LAN de plus de 150 joueurs par an. L'UTT LAN Session rassemble 150 joueurs pour une LAN fun qui a lieu en décembre. L'UTT Arena réunit 300 joueurs dans des tournois homologués en avril ou en mai. Chaque année nous recevons avec joie des participants venant de toute la France et d'ailleurs ! (Belgique, Suisse)
+        Depuis 1998, l'UTT Net Group est l'association de l'UTT portant sur les nouvelles technologies de l'information. Nous avons développé une expérience de LAN-Party de plus de 10 ans, avec jusqu'à deux LAN de plus de 150 joueurs par an. Chaque année nous recevons avec joie des participants venant de toute la France et d'ailleurs ! (Belgique, Suisse)
     </p>
 
     <h2>Lieu :</h2>
@@ -50,11 +50,11 @@
         </br><br />
     </p>
 
-    <h2>Tarifs (prévente)</h2>
+    <h2>Tarif en prévente</h2>
     <p>
         Etudiant de l'UTT :10€ </br>
         Extérieur : 15€</br></br>
-        Majoration de 5€ sur place, soit 15€ et 20€ respectivement.
+        Majoration de 3 € sur place, soit 13 € et 18 € respectivement.
         <br /><br />
     </p>
 
@@ -79,13 +79,13 @@
     <p>
         Un stand de restauration proposera boissons et mets délicats : </br>
         <ul>
+			<li>Sandwichs/Hot Dogs</li>
+            <li>Pizzas</li>
+            <li>Crêpes salées/sucrées</li>
+            <li>Croque-monsieurs</li>
             <li>Sodas</li>
             <li>Boissons sans alcool</li>
             <li>Boissons chaudes</li>
-            <li>Sandwichs</li>
-            <li>Pizzas</li>
-            <li>Crêpes</li>
-            <li>Croque-monsieurs</li>
             <li>Barres Chocolatées</li>
         </ul>
         Nous demandons aux joueurs de faire attention aux horaires d'ouverture du stand de restauration. En effet, il est très probable qu'il soit fermé au milieu de la nuit !
