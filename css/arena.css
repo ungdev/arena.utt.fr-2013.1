@@ -1,6 +1,6 @@
 /* ALL VERSIONS */
 body, html {
-    background: #0B161B url('../images/body.bgss.png') top no-repeat;
+    background: #020301 url('../images/body.bgss.png') top no-repeat;
     text-align: justify;
 }
 
@@ -9,7 +9,7 @@ body, html {
 }
 
 a.list-group-item, a.list-group-item:focus {
-    background: #0B161B;
+    background: #001826;
 }
 
 a.list-group-item:hover {
@@ -19,11 +19,14 @@ a.list-group-item:hover {
 
 .thumbnail, .jumbotron, .panel {
     border: none;
-    background: #0B161B;
+	border-top: 2px solid #122835;
+	border-bottom: 1px solid #04151e;
+	border-radius: 5px;
+    background: #071c28;
 }
 
 .page-header {
-    background: #003F58;
+    background: #04384C;
     margin: 30px -28px 30px -28px;
     padding: 0px 20px;
     border-top: 2px solid #2E5D6F;
@@ -101,8 +104,9 @@ a.list-group-item:hover {
     }
 
     body>.container {
-        background: #272B30;
-        border-top: 2px solid #333;
+        background: #1f303a;
+        border-top: 2px solid #273944;
+        border-bottom: 2px solid #07141c;
         margin-top: 0px;
         padding: 20px;
         min-height: 500px;
