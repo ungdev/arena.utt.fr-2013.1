@@ -90,41 +90,47 @@
 		</div>
 	</div>
 	
-	<a class="list-group-item">
-		<h3 class="list-group-item-heading">
-			<span class="glyphicon glyphicon-warning-sign"></span> Ce que vous devez apporter
-		</h3>
-		<div class="list-group-item-text">
-			<h4>Votre matériel informatique habituel<br /><small>Un ordinateur complet comprenant unité centrale, écran, clavier, souris et carte réseau, ou un ordinateur portable avec souris (sauf pour les balaises qui jouent au pad).</small></h4>
-			<h4>Un PC qui démarre<br /><small>Un système d'exploitation fonctionnel, sain et protégé par un antivirus, en configuration réseau vierge et automatique. Une LAN c'est comme la piscine, on n'y va pas si on est malade.</small></h4>
-			<h4>Une multiprise<br /><small>La multiprise est nécessaire si vous avez un fixe, car <b>il n'y aura qu'une seule prise de courant par joueur</b>.</small></h4>
-			<h4>Un câble Ethernet<br /><small>Un câble réseau droit (RJ45 mâle/mâle) de <b>5 mètres minimum</b> pour se brancher sur le switch de table. Des câbles seront disponibles sur place au prix unitaire de 7€.</small></h4>
-			<h4>Votre casque<br /><small>Un casque audio pour le son, <b>les enceintes étant interdites</b>.</small></h4>
-			<h4>Votre carte d'identité/d'étudiant UTT<br /><small>Une pièce d'identité (carte d'identité, passeport, permis de conduire, ...) vous sera demandée à l'accueil. Un témoin ne suffit pas, vous devez avoir une pièce d'identité.</small></h4>
-			<h4>Votre attestation parentale<br /><small>Si vous êtes mineur de plus de 15 ans vous devez présenter une autorisation parentale. Si vous êtes majeur, vous pouvez aussi, mais ça ne sert à rien. Et si vous n'avez pas encore 15 ans, revenez l'année prochaine :)</small></h4>
-		</div>
-	</a>
+	<div class="list-group">
+		<a href="javascript:void(0);" class="list-group-item collapse-group" data-toggle="collapse" data-target="#viewthings">
+			<h3 class="list-group-item-heading">
+				<span class="glyphicon glyphicon-warning-sign"></span> Ce que vous devez apporter
+			</h3>
+			<div class="list-group-item-text collapse" id="viewthings">
+				<h4>Votre matériel informatique habituel<br /><small>Un ordinateur complet comprenant unité centrale, écran, clavier, souris et carte réseau, ou un ordinateur portable avec souris (sauf pour les balaises qui jouent au pad).</small></h4>
+				<h4>Un PC qui démarre<br /><small>Un système d'exploitation fonctionnel, sain et protégé par un antivirus, en configuration réseau vierge et automatique. Une LAN c'est comme la piscine, on n'y va pas si on est malade.</small></h4>
+				<h4>Une multiprise<br /><small>La multiprise est nécessaire si vous avez un fixe, car <b>il n'y aura qu'une seule prise de courant par joueur</b>.</small></h4>
+				<h4>Un câble Ethernet<br /><small>Un câble réseau droit (RJ45 mâle/mâle) de <b>5 mètres minimum</b> pour se brancher sur le switch de table. Des câbles seront disponibles sur place au prix unitaire de 7€.</small></h4>
+				<h4>Votre casque<br /><small>Un casque audio pour le son, <b>les enceintes étant interdites</b>.</small></h4>
+				<h4>Votre carte d'identité/d'étudiant UTT<br /><small>Une pièce d'identité (carte d'identité, passeport, permis de conduire, ...) vous sera demandée à l'accueil. Un témoin ne suffit pas, vous devez avoir une pièce d'identité.</small></h4>
+				<h4>Votre attestation parentale<br /><small>Si vous êtes mineur de plus de 15 ans vous devez présenter une autorisation parentale. Si vous êtes majeur, vous pouvez aussi, mais ça ne sert à rien. Et si vous n'avez pas encore 15 ans, revenez l'année prochaine :)</small></h4>
+			</div>
+		</a>
 	
-	<div class="panel panel-default">
-		<div class="panel-heading"><h3><span class="glyphicon glyphicon-cutlery"></span> Restauration<br /><small>Un stand de restauration proposera boissons et mets délicats</small></h3></div>
-		<div class="panel-body">
-			<h4>Sandwichs/Hot Dogs</h4>
-			<h4>Pizzas</h4>
-			<h4>Crêpes salées/sucrées</h4>
-			<h4>Croque-monsieurs</h4>
-			<h4>Sodas</h4>
-			<h4>Boissons sans alcool</h4>
-			<h4>Boissons chaudes</h4>
-			<h4>Barres Chocolatées</h4>
-			Nous demandons aux joueurs de faire attention aux horaires d'ouverture du stand de restauration. En effet, il est très probable qu'il soit fermé au milieu de la nuit !
-		</div>
-	</div>
+		<a href="javascript:void(0);" class="list-group-item collapse-group" data-toggle="collapse" data-target="#viewfood">
+			<h3 class="list-group-item-heading">
+				<span class="glyphicon glyphicon-cutlery"></span> Restauration<br /><small>Un stand de restauration proposera boissons et mets délicats</small>
+			</h3>
+			<div class="list-group-item-text collapse" id="viewfood">
+				<h4>Sandwichs/Hot Dogs</h4>
+				<h4>Pizzas</h4>
+				<h4>Crêpes salées/sucrées</h4>
+				<h4>Croque-monsieurs</h4>
+				<h4>Sodas</h4>
+				<h4>Boissons sans alcool</h4>
+				<h4>Boissons chaudes</h4>
+				<h4>Barres Chocolatées</h4>
+				Nous demandons aux joueurs de faire attention aux horaires d'ouverture du stand de restauration. En effet, il est très probable qu'il soit fermé au milieu de la nuit !
+			</div>
+		</a>
 	
-	<div class="panel panel-default">
-		<div class="panel-heading"><h3 class="list-group-item-heading"><span class="glyphicon glyphicon-home"></span> Hygiène et repos</h3></div>
-		<div class="panel-body">
-		Des douches seront à votre disposition. Une salle de repos sera disponible, néanmoins nous vous conseillons de prévoir un hébergement pour la nuit.
-		</div>
+		<a href="javascript:void(0);" class="list-group-item collapse-group" data-toggle="collapse" data-target="#viewshowers">
+			<h3 class="list-group-item-heading">
+				<span class="glyphicon glyphicon-home"></span> Hygiène et repos
+			</h3>
+			<div class="list-group-item-text collapse" id="viewshowers">
+			Des douches seront à votre disposition. Une salle de repos sera disponible, néanmoins nous vous conseillons de prévoir un hébergement pour la nuit.
+			</div>
+		</a>
 	</div>
 	
 	<h2>Comme si vous y étiez</h2>
