@@ -43,7 +43,7 @@
 			<?php
 				// On déclare le compteur, et on ajoute 12*60*60 pour rajouter 12h
 				// Si besoin de modifier la date ne pas oublier de le faire également dans countdown.js
-				$fincompteur = (strtotime('October 1, 2013') + (12*60*60));
+				$fincompteur = (strtotime('October 7, 2013') + (12*60*60));
 				$today = time();
 
 				// Si on est avant le lancement
@@ -62,7 +62,8 @@
 					echo "Les inscriptions ont commencé.";
 				}
 			?>
-
+			
+			<br />
 
 			<div class="form-group">
 				<form action="./add.php" method="POST" id="subscribe">

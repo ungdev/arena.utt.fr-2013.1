@@ -2,7 +2,7 @@
 
 // SET TARGET DATE HERE
 // (si besoin de la modifier, ne pas oublier de le faire également dans contenu_corps_accueil.php)
-var target = 'October 1, 2013 12:00 PM';
+var target = 'October 7, 2013 12:00 PM';
 
 // That's all you need to do.
 
@@ -27,7 +27,7 @@ var nowCountdown = new Date().getTime();
 var endCountdown = Date.parse(target);
 // Fix if date is in past
 if (endCountdown < nowCountdown){
-	target = 'October 1, 2014 12:00 PM';
+	target = 'October 7, 2014 12:00 PM';
 	endCountdown = Date.parse(target);
 }
 var theDiffCountdown = endCountdown-nowCountdown;
