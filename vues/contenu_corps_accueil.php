@@ -32,7 +32,7 @@
 				<a href="https://twitter.com/UTTArena">
 					<img src="images/social/twitter.round.png" alt="Twitter" title="Suivez-nous sur Twitter !" />
 				</a>
-				<a href="http://www.youtube.com/channel/UCm8nToPe0gc0zlUa-gAxvEA">
+				<a href="http://www.youtube.com/user/UTTNetGroup">
 					<img src="images/social/youtube.round.png" alt="YouTube" title="Suivez-nous sur YouTube !" />
 				</a>
 			</p>

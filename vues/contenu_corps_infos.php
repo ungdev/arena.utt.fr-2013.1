@@ -3,7 +3,7 @@
         <h1>
             <span class="glyphicon glyphicon-info-sign"></span>
             Informations pratiques<br/>
-            <small>Appliquons la technique du QQOQCP</small>
+            <small>Appliquons la technique du QQOQCCP</small>
         </h1>
     </div>
     <h2>L'association organisatrice :</h2>
@@ -105,11 +105,9 @@
 		</div>
 	</a>
 	
-	<a class="list-group-item">
-		<h3 class="list-group-item-heading">
-			<span class="glyphicon glyphicon-cutlery"></span> Restauration<br /><small>Un stand de restauration proposera boissons et mets délicats</small>
-		</h3>
-		<div class="list-group-item-text">
+	<div class="panel panel-default">
+		<div class="panel-heading"><h3><span class="glyphicon glyphicon-cutlery"></span> Restauration<br /><small>Un stand de restauration proposera boissons et mets délicats</small></h3></div>
+		<div class="panel-body">
 			<h4>Sandwichs/Hot Dogs</h4>
 			<h4>Pizzas</h4>
 			<h4>Crêpes salées/sucrées</h4>
@@ -120,14 +118,14 @@
 			<h4>Barres Chocolatées</h4>
 			Nous demandons aux joueurs de faire attention aux horaires d'ouverture du stand de restauration. En effet, il est très probable qu'il soit fermé au milieu de la nuit !
 		</div>
-	</a>
+	</div>
 	
-	<a class="list-group-item">
-		<h3 class="list-group-item-heading"><span class="glyphicon glyphicon-home"></span> Hygiène et repos</h3>
-		<div class="list-group-item-text">
+	<div class="panel panel-default">
+		<div class="panel-heading"><h3 class="list-group-item-heading"><span class="glyphicon glyphicon-home"></span> Hygiène et repos</h3></div>
+		<div class="panel-body">
 		Des douches seront à votre disposition. Une salle de repos sera disponible, néanmoins nous vous conseillons de prévoir un hébergement pour la nuit.
 		</div>
-	</a>
+	</div>
 	
 	<h2>Comme si vous y étiez</h2>
 	<div class="videoWrapper">

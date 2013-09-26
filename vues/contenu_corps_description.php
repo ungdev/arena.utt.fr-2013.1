@@ -140,11 +140,12 @@
 
     </div>
 
-
-        <h3>Note pour les mineurs</h3>
-        Les mineurs de plus de 15 ans sont autorisés à condition de présenter une <a href="pdf/autorisation_parentale.pdf">autorisation parentale</a> à l'accueil de l'événement, sans quoi ils seront refusés.
-
-    </p>
+	<div class="panel panel-default">
+		<div class="panel-heading"><h3>Note pour les mineurs</h3></div>
+		<div class="panel-body">
+			Les mineurs de plus de 15 ans sont autorisés à condition de présenter une <a href="pdf/autorisation_parentale.pdf">autorisation parentale</a> à l'accueil de l'événement, sans quoi ils seront refusés.
+		</div>
+	</div>
 
     <p>
         <h2>Un aperçu de nos LAN précédentes</h2>

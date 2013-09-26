@@ -49,16 +49,16 @@
 				</div>
         </a>
 
-        <a href="javascript:void(0);" class="list-group-item collapse-group" data-toggle="collapse" data-target="#viewteam">
+        <a href="javascript:void(0);" class="list-group-item collapse-group" data-toggle="collapse" data-target="#viewanimation">
             <h3 class="list-group-item-heading">
                 <span class="glyphicon glyphicon-fire"></span> Les animations
             </h3>
-            <div class="list-group-item-text collapse" id="viewteam">
+            <div class="list-group-item-text collapse" id="viewanimation">
                 <h4>Que puis-je faire en dehors des tournois spotlight ?<br /><small>Des animations sont organisées du vendredi soir au dimanche après midi quasiment en continu.</small></h4>
                 <h4>Quels types d'animations sont organisées ?<br /><small>Des rencontre amicales avec ou sans lots sur tous les jeux de notre liste (voir la page des jeux), des speedruns, des jeux de société, des consoles, plein de stands avec nos partenaires, vous ne serez certainement pas déçu si vous venez pour ces activités.</small></h4>
                 <h4>Qu'est ce que vous avez en plus par rapport à une autre LAN ?<br /><small>Nous mettons à disposition des joueurs une application web exclusive permettant aux joueurs de créer leurs tournois, visualiser les tournois à venir et en cours, participer à des animations, voir le classement de la LAN et communiquer entre joueurs et avec les admins.</small></h4>
-                <h4>Comment sont gérés les affrontements hors tournois ?<br /><small>A votre arrivée à l'UA il vous sera attribuée une couleur : rouge ou bleu. Nous appelerons de temps en temps des combatants des deux couleurs pour s'affronter sur des jeux hors spotlight. Vos victoires feront gagner des points et de la gloire à votre couleur.</small></h4>
-                <h4>Je dois forcément jouer pour ma couleur ? Et si je viens avec mes amis ?<br /><small>Tout ne sera pas axé autour du rouge/bleu, de plus nous vous encourageons à vous-même organiser tout ce qui vous plait. ARAM sur LOL, King of the Hill sur TF2, nous sommes ouverts à vos propositions et nous pourons fournir des goodies si vos idées nous intéressent.</small></h4>
+                <h4>Comment sont gérés les affrontements hors tournois ?<br /><small>A votre arrivée à l'UA il vous sera attribuée une couleur : rouge ou bleu. Nous appelerons de temps en temps des combattants des deux couleurs pour s'affronter sur des jeux hors spotlight. Vos victoires feront gagner des points et de la gloire à votre couleur.</small></h4>
+                <h4>Je dois forcément jouer pour ma couleur ? Et si je viens avec mes amis ?<br /><small>Tout ne sera pas axé autour du rouge/bleu, de plus nous vous encourageons à vous-même organiser tout ce qui vous plait. ARAM sur LOL, King of the Hill sur TF2, nous sommes ouverts à vos propositions et nous pourrons fournir des goodies si vos idées nous intéressent.</small></h4>
                 <h4>Comment est-ce que je m'inscris aux animations ?<br /><small>Les animations seront visibles sur l'intranet, vous devrez vous connecter avec votre compte utilisateur et vous n'aurez qu'à cliquer pour vous inscrire. Les animations sont accessibles à tous les joueurs ayant payé leur entrée à l'événément.</small></h4>
                 <h4>Est ce que les visiteurs peuvent participer aux animations ?<br /><small>Un visiteur ne peut pas amener son PC, ni participer à une animation. En revanche certains stands (dont des consoles de jeu) sont en accès libre aux visiteurs.</small></h4>
             </div>
