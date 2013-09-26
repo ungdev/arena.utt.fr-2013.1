@@ -93,7 +93,7 @@
 	<div class="list-group">
 		<a href="javascript:void(0);" class="list-group-item collapse-group" data-toggle="collapse" data-target="#viewthings">
 			<h3 class="list-group-item-heading">
-				<span class="glyphicon glyphicon-warning-sign"></span> Ce que vous devez apporter
+				<span class="glyphicon glyphicon-warning-sign"></span> Ce que vous devez apporter<span class="glyphicon glyphicon-chevron-down pull-right"></span><br /><small>On ne vient pas les mains dans les poches...</small>
 			</h3>
 			<div class="list-group-item-text collapse" id="viewthings">
 				<h4>Votre matériel informatique habituel<br /><small>Un ordinateur complet comprenant unité centrale, écran, clavier, souris et carte réseau, ou un ordinateur portable avec souris (sauf pour les balaises qui jouent au pad).</small></h4>
@@ -108,13 +108,13 @@
 	
 		<a href="javascript:void(0);" class="list-group-item collapse-group" data-toggle="collapse" data-target="#viewfood">
 			<h3 class="list-group-item-heading">
-				<span class="glyphicon glyphicon-cutlery"></span> Restauration<br /><small>Un stand de restauration proposera boissons et mets délicats</small>
+				<span class="glyphicon glyphicon-cutlery"></span> Restauration<span class="glyphicon glyphicon-chevron-down pull-right"></span><br /><small>Un stand de restauration proposera boissons et mets délicats...</small>
 			</h3>
 			<div class="list-group-item-text collapse" id="viewfood">
 				<h4>Sandwichs/Hot Dogs</h4>
 				<h4>Pizzas</h4>
 				<h4>Crêpes salées/sucrées</h4>
-				<h4>Croque-monsieurs</h4>
+				<h4>Croque-monsieur</h4>
 				<h4>Sodas</h4>
 				<h4>Boissons sans alcool</h4>
 				<h4>Boissons chaudes</h4>
@@ -125,10 +125,11 @@
 	
 		<a href="javascript:void(0);" class="list-group-item collapse-group" data-toggle="collapse" data-target="#viewshowers">
 			<h3 class="list-group-item-heading">
-				<span class="glyphicon glyphicon-home"></span> Hygiène et repos
+				<span class="glyphicon glyphicon-home"></span> Hygiène et repos<span class="glyphicon glyphicon-chevron-down pull-right"></span><br /><small>Pensez à faire des étirements...</small>
 			</h3>
 			<div class="list-group-item-text collapse" id="viewshowers">
-			Des douches seront à votre disposition. Une salle de repos sera disponible, néanmoins nous vous conseillons de prévoir un hébergement pour la nuit.
+				Des douches seront à votre disposition ainsi qu'une salle de repos.<br />
+				Nous vous conseillons néanmoins de prévoir un hébergement pour la nuit, c'est plus confortable.
 			</div>
 		</a>
 	</div>
