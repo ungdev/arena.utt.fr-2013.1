@@ -14,8 +14,8 @@
                 <span class="glyphicon glyphicon-log-in"></span> Inscription à l'UTT Arena
             </h3>
             <div class="list-group-item-text collapse" id="viewsubscribe">
-                <h4>Comment et quand payer ?<br /><small>Deux solutions s'offrent à vous : payer sur le site en prévente, dès l'ouverture des inscriptions, ou payer sur place, plein tarif (espèces uniquement). Les préventes commencent mi-octobre et se terminent 48 h avant l'UA. </small></h4>
-                <h4>Puis-je payer sur place ?<br /><small>Oui, mais une majoration de 3 € sera appliquée, les prix passeront à 13 € pour les UTTiens, et à 18 € pour les extérieurs.</small></h4>
+                <h4>Comment et quand payer ?<br /><small>Deux solutions s'offrent à vous : payer sur le site en prévente, dès l'ouverture des inscriptions, ou payer sur place, plein tarif (espèces uniquement). Les préventes commencent mi-octobre et se terminent 48 h avant l'UA. Tarif normal : 15 € ; Tarif réduit étudiant de l'UTT : 10 €.</small></h4>
+                <h4>Puis-je payer sur place ?<br /><small>Oui, mais une majoration de 5 € sera appliquée, les prix passeront à 15 € pour les UTTiens, et à 20 € pour les extérieurs.</small></h4>
                 <h4>Puis-je me faire rembourser ? <br /><small>Nous traitons ce genre de demande au cas par cas, avec comme solution donner votre place à votre remplaçant ou trouver un moyen de vous dédommager. Pensez à contacter le staff UA par e-mail.</small></h4>
                 <h4>Les visiteurs sont-ils admis ?<br /><small>Les visiteurs doivent payer un droit d'entrée de 2 € à l'accueil, il leur sera remis un badge qu'ils doivent porter de façon visible. Les visiteurs ayant quitté la salle doivent présenter leur badge à l'accueil s'ils veulent rentrer.</small></h4>
 				<h4>Je suis encore mineur, est-ce que je peux venir ?<br /><small>Les mineurs de plus de 15 ans sont autorisés à condition de présenter une autorisation parentale à l'accueil de l'événement, sans quoi ils seront refusés.</small></h4>

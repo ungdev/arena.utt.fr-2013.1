@@ -41,7 +41,7 @@
 				</div>
 				
 				<div class="tab-pane fade in" id="horaires">
-					<h3>Points importants de la LAN</h3>
+					<h3>Etapes importantes</h3>
 					<p>
 						Ouverture de l'UTT Arena: Vendredi 29 novembre 18 h.<br />
 						Début des animations : Vendredi 29 novembre 20 h.<br />
@@ -56,30 +56,57 @@
 					<div class="row">
 						<div class="col-md-4">
 							<h3>Prévente</h3>
-							<p>Etudiant de l'UTT <span class="badge">10 €</span> </br>
-							Extérieur <span class="badge">15 €</span>
-							</p>
+							<ul class="nav nav-pills nav-stacked">
+							  <li>
+								<a href="#">
+								  <span class="badge pull-right">10 €</span>
+								  Etudiant de l'UTT
+								</a>
+							  </li>
+							  <li>
+								<a href="#">
+								  <span class="badge pull-right">15 €</span>
+								  Extérieur
+								</a>
+							  </li>
+							</ul>
 						</div>
+						
 						<div class="col-md-4">
 							<h3>Plein tarif</h3>
-								<p>
-									Etudiant de l'UTT <span class="badge">13 €</span> </br>
-									Extérieur <span class="badge">18 €</span>
-								</p>
-								(Majoration de +3 € sur place)
+								<ul class="nav nav-pills nav-stacked">
+								  <li>
+									<a href="#">
+									  <span class="badge pull-right">15 €</span>
+									  Etudiant de l'UTT
+									</a>
+								  </li>
+								  <li>
+									<a href="#">
+									  <span class="badge pull-right">20 €</span>
+									  Extérieur
+									</a>
+								  </li>
+								</ul>
+								(Inclut une majoration de +5 € sur place)
 							</div>
 						<div class="col-md-4">
 							<h3>Visiteurs</h3>
-							<p>
-								Badge visiteur <span class="badge">2 €</span>
-							</p>
+							<ul class="nav nav-pills nav-stacked">
+							  <li>
+								<a href="#">
+								  <span class="badge pull-right">2 €</span>
+								  Badge visiteur
+								</a>
+							  </li>
+							</ul>
 						</div>
 					</div>
 					<br />
 					<div class="row">
 						<div class="col-md-8">
 							Les joueurs ont un emplacement pour installer leur PC et peuvent participer aux tournois spotlight et à toutes les animations de l'UTT Arena.
-							<br />Les inscriptions aux tournois spotlight sont closes 48 avant l'événement. 
+							<br />L'achat d'une place est possible à tout moment lors de l'événement, mais les inscriptions aux tournois spotlight sont closes 48 avant l'événement. 
 						</div>
 						<div class="col-md-4">
 							Les visiteurs ne peuvent pas participer aux animations ni apporter un PC dans la LAN. Certains stands seront accessibles aux visiteurs.
