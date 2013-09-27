@@ -3,7 +3,10 @@
 
 <head>
 	<?php require './vues/contenu_head.php' ?>
-	<title> Description de l'évènement </title>
+
+	<meta name="description" content="Description de l'UTT Arena en détails : tournois, animations,..." />
+
+	<title> Description de l'évènement - UTT Arena 2013 </title>
 </head>
 
 <body>

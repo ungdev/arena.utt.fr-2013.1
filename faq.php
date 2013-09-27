@@ -3,7 +3,10 @@
 
 <head>
 	<?php require './vues/contenu_head.php' ?>
-	<title> FAQ - Foire aux questions </title>
+
+	<meta name="description" content="Foire aux questions - Vous vous posez des questions ? On peut vous y répondre !" />
+
+	<title> FAQ - Foire aux questions - UTT Arena 2013 </title>
 </head>
 
 <body>

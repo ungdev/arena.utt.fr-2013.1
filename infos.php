@@ -3,7 +3,10 @@
 
 <head>
 	<?php require './vues/contenu_head.php' ?>
-	<title> Informations pratiques </title>
+
+	<meta name="description" content="Informations pratiques pour s'inscrire à l'UTT Arena, s'y rendre, y manger, y dormir,..." />
+
+	<title> Informations pratiques - UTT Arena 2013 </title>
 </head>
 
 <body>

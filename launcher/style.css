@@ -1,0 +1,46 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background: #020301 url("BODY.bg.png") top center no-repeat;
+	color: #333;
+	font-family: Ubuntu,Arial,"libra sans",sans-serif;
+	font-weight: 300;
+}
+
+.centered {
+	width: 1250px;
+	margin: 0 auto;
+	position: relative;
+}
+
+#header {
+	background: url('HEADER.bg.png') bottom repeat-x;
+	height: 208px;
+}
+
+#header .logoleft {
+	background: url('HEADER.logoleft.png') no-repeat;
+	width: 234px;
+	height: 208px;
+	margin: 0 auto;
+	float: left;
+}
+
+#header .logobar {
+	background: url('HEADER.logobar.png') top no-repeat;
+	width: 984px;
+	height: 88px;
+	margin-top: 47px;
+	float: left;
+}
+
+.alert {
+	text-align: center;
+	padding: 5px;
+	width: 450px;
+	background: #ddd;
+	border: solid 5px #003F58;
+	margin: 50px auto;
+	position: relative;
+}
