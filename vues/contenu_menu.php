@@ -24,14 +24,10 @@
             <ul class="nav navbar-nav">
 
                 <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Event 2013 <b class="caret"></b></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="description.php">Découvrez l'évènement</a></li>
-                        <li><a href="jeux.php">Les jeux</a></li>
-                        <li><a href="infos.php">Infos pratiques</a></li>
-                        <li><a href="staff.php">Staff</a></li>
-                    </ul>
-                </li>
+				<li><a href="description.php">Découvrez l'évènement</a></li>
+				<li><a href="jeux.php">Les jeux</a></li>
+				<li><a href="infos.php">Infos pratiques</a></li>
+				<li><a href="staff.php">Staff</a></li>
                 <li><a href="partenaires.php">Partenaires</a></li>
                 <li><a href="faq.php">FAQ</a></li>
             </ul>
