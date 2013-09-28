@@ -37,7 +37,8 @@
 				
 				<div class="tab-pane fade in" id="contact">
 					Téléphone : 03 25 71 85 50 </br>
-					Mail : ung@utt.fr
+					Mail : <a href="mailto:ung@utt.fr">ung@utt.fr</a><br />
+					Facebook : <a href="https://www.facebook.com/UA2K12">facebook.com/UA2K12</a>
 				</div>
 				
 				<div class="tab-pane fade in" id="horaires">
@@ -58,13 +59,13 @@
 							<h3>Prévente</h3>
 							<ul class="nav nav-pills nav-stacked">
 							  <li>
-								<a href="#">
+								<a href="javascript:void(0);">
 								  <span class="badge pull-right">10 €</span>
 								  Etudiant de l'UTT
 								</a>
 							  </li>
 							  <li>
-								<a href="#">
+								<a href="javascript:void(0);">
 								  <span class="badge pull-right">15 €</span>
 								  Extérieur
 								</a>
@@ -76,13 +77,13 @@
 							<h3>Plein tarif</h3>
 								<ul class="nav nav-pills nav-stacked">
 								  <li>
-									<a href="#">
+									<a href="javascript:void(0);">
 									  <span class="badge pull-right">15 €</span>
 									  Etudiant de l'UTT
 									</a>
 								  </li>
 								  <li>
-									<a href="#">
+									<a href="javascript:void(0);">
 									  <span class="badge pull-right">20 €</span>
 									  Extérieur
 									</a>
@@ -94,7 +95,7 @@
 							<h3>Visiteurs</h3>
 							<ul class="nav nav-pills nav-stacked">
 							  <li>
-								<a href="#">
+								<a href="javascript:void(0);">
 								  <span class="badge pull-right">2 €</span>
 								  Badge visiteur
 								</a>

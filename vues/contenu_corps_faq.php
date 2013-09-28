@@ -69,7 +69,7 @@
                 <span class="glyphicon glyphicon-envelope"></span> Nous contacter
             </h3>
             <div class="list-group-item-text collapse" id="viewcontacts">
-                <h4>Je n'ai pas la réponse à ma question, qui dois-je contacter ?<br /><small>Vous pouvez contacter le staff de l'UA via ung@utt.fr. N'hésitez pas à vous exprimer en cas de doutes ou de remarques.</small></h4>
+                <h4>Je n'ai pas la réponse à ma question, qui dois-je contacter ?<br /><small>Vous pouvez contacter le staff de l'UA via ung@utt.fr ou sur notre page Facebook : https://www.facebook.com/UA2K12 N'hésitez pas à vous exprimer en cas de doutes ou de remarques.</small></h4>
             </div>
         </a>
 
