@@ -39,7 +39,7 @@ $interval->s = $diff - $days - $hours - $minutes;
 	</div>
 
 	<div class="row">
-		<div class="col-lg-6">
+		<div class="col-md-6">
 			<p class="lead" style="text-align: center">
 				Rejoignez nous sur les réseaux sociaux !
 			</p>
@@ -59,27 +59,27 @@ $interval->s = $diff - $days - $hours - $minutes;
 			<br />
 		</div>
 
-		<div class="col-lg-6">
+		<div class="col-md-6">
 			<div class="row">
-				<div class="col-lg-3">
+				<div class="col-xs-6 col-sm-3">
 					<div class="days date-element">
 						<h2 id="days"><?php echo $interval->days; ?></h2>
 						<span class="infos">jour<span id="s_days">s</span></span>
 					</div>
 				</div>
-				<div class="col-lg-3">
+				<div class="col-xs-6 col-sm-3">
 					<div class="hours date-element">
 						<h2 id="hours"><?php echo $interval->h; ?></h2>
 						<span class="infos">heure<span id="s_hours">s</span></span>
 					</div>
 				</div>
-				<div class="col-lg-3">
+				<div class="col-xs-6 col-sm-3">
 					<div class="minutes date-element">
 						<h2 id="minutes"><?php echo $interval->i; ?></h2>
 						<span class="infos">minute<span id="s_minutes">s</span></span>
 					</div>
 				</div>
-				<div class="col-lg-3">
+				<div class="col-xs-6 col-sm-3">
 					<div class="seconds date-element">
 						<h2 id="seconds"><?php echo $interval->s; ?></h2>
 						<span class="infos">seconde<span id="s_seconds">s</span></span>
