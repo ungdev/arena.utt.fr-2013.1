@@ -22,6 +22,18 @@
 				</div>
 			</div>
 		</div>
+		
+		<div class="col-md-4">
+			<div class="thumbnail">
+				<img src="images/partners/uttblanc.png" class="img-responsive" alt="Logo UTT" title="Université de technologie de Troyes">
+				<div class="caption">
+				<h3>UTT</h3>
+				<p>Comme chaque année, l'Université de technologie de Troyes, grande école d'ingénieur, s'engage auprès des étudiants en mettant à disposition de l'UTT Arena plus de 1000 m² de locaux (halle sportive) et de nombreux équipements techniques nécessaires à l'organisation des LANs et autres tournois.
+				</p>
+				<p><a href="http://bde.utt.fr/" class="btn btn-primary">Site Officiel</a></p>
+				</div>
+			</div>
+		</div>
     </div>
 
 

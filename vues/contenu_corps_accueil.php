@@ -6,10 +6,34 @@
 } else {
 	$message = "";
 }
+
+include 'functions/config.php';
+
+//if ($now >= $launch) {
+//	header('Location: ../');
+//	exit;
+//}
+
+$diff = $launch - $now;
+
+$interval = new stdClass();
+
+$interval->days = floor($diff / (24 * 3600));
+$days = $interval->days * 24 * 3600;
+
+$interval->h = floor(($diff - $days) / 3600);
+$hours = $interval->h * 3600;
+
+$interval->i = floor(($diff - $days - $hours) / 60);
+$minutes = $interval->i * 60;
+
+$interval->s = $diff - $days - $hours - $minutes;
+
 ?>
 <head>
 	<script type="text/javascript" src="js/jquery.js"></script>
 	<script type="text/javascript" src="js/subscribe.js"></script>
+	<script type="text/javascript" src="js/launch.js"></script>
 </head>
 <div class="container">
 	<br/>
@@ -39,29 +63,25 @@
 		</div>
 
 		<div class="col-lg-6">
-
-			<?php
-				// On déclare le compteur, et on ajoute 12*60*60 pour rajouter 12h
-				// Si besoin de modifier la date ne pas oublier de le faire également dans countdown.js
-				$fincompteur = (strtotime('October 7, 2013') + (12*60*60));
-				$today = time();
-
-				// Si on est avant le lancement
-				if (($today - $fincompteur) <= 0)
-				{
-					{ ?>
-					<div id="countdown-blog" style=''>
-					<p>
-						Les inscriptions seront lancées dans :
-					</p>
-					</div>
-					<?php }
-				}
-				else
-				{
-					echo "Les inscriptions ont commencé.";
-				}
-			?>
+			
+			<div class="row-fluid">
+				<div class="span3 days date-element">
+					<h2 id="days"><?php echo $interval->days; ?></h2>
+					<span class="infos">jour<span id="s_days">s</span></span>
+				</div>
+				<div class="span3 hours date-element">
+					<h2 id="hours"><?php echo $interval->h; ?></h2>
+					<span class="infos">heure<span id="s_hours">s</span></span>
+				</div>
+				<div class="span3 minutes date-element">
+					<h2 id="minutes"><?php echo $interval->i; ?></h2>
+					<span class="infos">minute<span id="s_minutes">s</span></span>
+				</div>
+				<div class="span3 seconds date-element">
+					<h2 id="seconds"><?php echo $interval->s; ?></h2>
+					<span class="infos">seconde<span id="s_seconds">s</span></span>
+				</div>
+			</div>
 			
 			<br />
 
@@ -83,3 +103,9 @@
 		</div>
 	</div>
 </div>
+
+<script type="text/javascript">
+	var interval = <?php echo json_encode($interval); ?>;
+	refreshDisplay(interval);
+	setInterval(function() { refreshDisplay(interval); }, 1000);
+</script>

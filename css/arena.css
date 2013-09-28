@@ -116,6 +116,42 @@ h5 small, h6 small, .h1 small, .h2 small,
 	color: #ccc;
 }
 
+.row-fluid {
+margin-bottom: 20px;
+}
+.span3 {
+color: white;
+font-weight: 300;
+padding-top: 20px;
+padding-bottom: 30px;
+}
+.date-element {
+-webkit-transition: border linear 0.2s, box-shadow linear 0.2s;
+-moz-transition: border linear 0.2s, box-shadow linear 0.2s;
+-o-transition: border linear 0.2s, box-shadow linear 0.2s;
+transition: border linear 0.2s, box-shadow linear 0.2s;
+font-size: 35px;
+padding-bottom: 55px;
+}
+.date-element:hover {
+border-color: #888;
+outline: 0;
+outline: thin dotted \9;
+box-shadow: 0 0 8px #888;
+}
+.days {
+background: #E9931A;
+}
+.hours {
+background: #1691BE;
+}
+.minutes {
+background: #166BA2;
+}
+.seconds {
+background: #1B3647;
+}
+
 /* DESKTOP VERSION */
 @media screen and (min-width: 450px) {
     .row>.col-md-4>.thumbnail>img {
