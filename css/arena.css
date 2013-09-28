@@ -116,40 +116,35 @@ h5 small, h6 small, .h1 small, .h2 small,
 	color: #ccc;
 }
 
-.row-fluid {
-margin-bottom: 20px;
-}
-.span3 {
-color: white;
-font-weight: 300;
-padding-top: 20px;
-padding-bottom: 30px;
-}
 .date-element {
--webkit-transition: border linear 0.2s, box-shadow linear 0.2s;
--moz-transition: border linear 0.2s, box-shadow linear 0.2s;
--o-transition: border linear 0.2s, box-shadow linear 0.2s;
-transition: border linear 0.2s, box-shadow linear 0.2s;
-font-size: 35px;
-padding-bottom: 55px;
+	-webkit-transition: border linear 0.2s, box-shadow linear 0.2s;
+	-moz-transition: border linear 0.2s, box-shadow linear 0.2s;
+	-o-transition: border linear 0.2s, box-shadow linear 0.2s;
+	transition: border linear 0.2s, box-shadow linear 0.2s;
+	font-size: 35px;
+	background: #142128;
+	padding: 10px;
+	text-align: center;
+	border-radius: 6px;
+	margin-bottom: 15px;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	-o-border-radius: 6px;
+}
+.date-element .infos {
+	display: block;
+	font-size: 15px;
+	margin-bottom: 15px;
+}
+.date-element h2 {
+	margin-top: 15px;
+	margin-bottom: 10px;
 }
 .date-element:hover {
-border-color: #888;
-outline: 0;
-outline: thin dotted \9;
-box-shadow: 0 0 8px #888;
-}
-.days {
-background: #E9931A;
-}
-.hours {
-background: #1691BE;
-}
-.minutes {
-background: #166BA2;
-}
-.seconds {
-background: #1B3647;
+	border-color: #142128;
+	outline: 0;
+	outline: thin dotted \9;
+	box-shadow: 0 0 8px #142128;
 }
 
 /* DESKTOP VERSION */

@@ -30,11 +30,6 @@ $minutes = $interval->i * 60;
 $interval->s = $diff - $days - $hours - $minutes;
 
 ?>
-<head>
-	<script type="text/javascript" src="js/jquery.js"></script>
-	<script type="text/javascript" src="js/subscribe.js"></script>
-	<script type="text/javascript" src="js/launch.js"></script>
-</head>
 <div class="container">
 	<br/>
 	<div class="jumbotron">
@@ -50,39 +45,48 @@ $interval->s = $diff - $days - $hours - $minutes;
 			</p>
 
 			<p style="text-align: center">
-				<a href="https://www.facebook.com/UA2K12?fref=ts">
-					<img src="images/social/facebook.round.png" alt="Facebook" title="Suivez-nous sur Facebook !" />
-				</a>
-				<a href="https://twitter.com/UTTArena">
-					<img src="images/social/twitter.round.png" alt="Twitter" title="Suivez-nous sur Twitter !" />
-				</a>
-				<a href="http://www.youtube.com/user/UTTNetGroup">
-					<img src="images/social/youtube.round.png" alt="YouTube" title="Suivez-nous sur YouTube !" />
-				</a>
+				<a href="https://www.facebook.com/UA2K12?fref=ts"><!--
+				 --><img src="images/social/facebook.round.png" alt="Facebook" title="Suivez-nous sur Facebook !" /><!--
+			 --></a>
+				<a href="https://twitter.com/UTTArena"><!--
+				 --><img src="images/social/twitter.round.png" alt="Twitter" title="Suivez-nous sur Twitter !" /><!--
+			 --></a>
+				<a href="http://www.youtube.com/user/UTTNetGroup"><!--
+				 --><img src="images/social/youtube.round.png" alt="YouTube" title="Suivez-nous sur YouTube !" /><!--
+			 --></a>
 			</p>
+
+			<br />
 		</div>
 
 		<div class="col-lg-6">
-			
-			<div class="row-fluid">
-				<div class="span3 days date-element">
-					<h2 id="days"><?php echo $interval->days; ?></h2>
-					<span class="infos">jour<span id="s_days">s</span></span>
+			<div class="row">
+				<div class="col-lg-3">
+					<div class="days date-element">
+						<h2 id="days"><?php echo $interval->days; ?></h2>
+						<span class="infos">jour<span id="s_days">s</span></span>
+					</div>
 				</div>
-				<div class="span3 hours date-element">
-					<h2 id="hours"><?php echo $interval->h; ?></h2>
-					<span class="infos">heure<span id="s_hours">s</span></span>
+				<div class="col-lg-3">
+					<div class="hours date-element">
+						<h2 id="hours"><?php echo $interval->h; ?></h2>
+						<span class="infos">heure<span id="s_hours">s</span></span>
+					</div>
 				</div>
-				<div class="span3 minutes date-element">
-					<h2 id="minutes"><?php echo $interval->i; ?></h2>
-					<span class="infos">minute<span id="s_minutes">s</span></span>
+				<div class="col-lg-3">
+					<div class="minutes date-element">
+						<h2 id="minutes"><?php echo $interval->i; ?></h2>
+						<span class="infos">minute<span id="s_minutes">s</span></span>
+					</div>
 				</div>
-				<div class="span3 seconds date-element">
-					<h2 id="seconds"><?php echo $interval->s; ?></h2>
-					<span class="infos">seconde<span id="s_seconds">s</span></span>
+				<div class="col-lg-3">
+					<div class="seconds date-element">
+						<h2 id="seconds"><?php echo $interval->s; ?></h2>
+						<span class="infos">seconde<span id="s_seconds">s</span></span>
+					</div>
 				</div>
 			</div>
-			
+
 			<br />
 
 			<div class="form-group">
@@ -103,6 +107,10 @@ $interval->s = $diff - $days - $hours - $minutes;
 		</div>
 	</div>
 </div>
+
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/subscribe.js"></script>
+<script type="text/javascript" src="js/launch.js"></script>
 
 <script type="text/javascript">
 	var interval = <?php echo json_encode($interval); ?>;
