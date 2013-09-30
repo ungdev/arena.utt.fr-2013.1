@@ -26,7 +26,7 @@
 				<img src="images/games/hots.png" class="img-responsive" alt="Logo Starcraft" title="Starcraft">
 				<div class="caption">
 				<h3>STARCRAFT 2</h3>
-				<p>StarCraft II, suite très attendue du premier du nom, est le légendaire jeu de stratégie en temps réel créé par Blizzard Entertainment. StarCraft II est à la fois un jeu solo prenant et un jeu multijoueur rapide. Il s’appuie pour cela sur Battle.net, le service de jeu en ligne très complet de Blizzard Entertainment. Les affrontements en 1c1, 2c2 ou plus font apparaître le talent des joueurs dans des batailles à couper le soufle.
+				<p>StarCraft II, suite très attendue du premier du nom, est le légendaire jeu de stratégie en temps réel créé par Blizzard Entertainment. StarCraft II est à la fois un jeu solo prenant et un jeu multijoueur rapide. Il s’appuie pour cela sur Battle.net, le service de jeu en ligne très complet de Blizzard Entertainment. Les affrontements en 1c1, 2c2 ou plus font apparaître le talent des joueurs dans des batailles à couper le souffle.
 				</p>
 				<p><a href="http://eu.battle.net/sc2/fr/buy-now/" class="btn btn-default">Site</a></p>
 				</div>
@@ -154,7 +154,7 @@
 						<h3>LEFT 4 DEAD 2</h3>
 						<p>Situé dans un univers post-apocalyptique peuplé de zombies, Left 4 Dead 2 (L4D2) est la suite très attendue du titre élu meilleur jeu de coopération 2008.
 						Ce jeu de tir d'action et de coopération à la première personne vous entraîne, vous et vos amis, dans les cimetières et les marécages du Sud des États-Unis, de Savannah à la Nouvelle-Orléans, à travers 5 campagnes.
-						Vous etes un des survivants et avez un vaste choix d'armes classiques et améliorables. En plus des armes à feu, vous avez également accès à des armes blanches (tranchantes et contondantes) pour produire un maximum de dégâts en corps à corps : tronçonneuses, haches et la fameuse poêle à frire.
+						Vous êtes un des survivants et avez un vaste choix d'armes classiques et améliorables. En plus des armes à feu, vous avez également accès à des armes blanches (tranchantes et contondantes) pour produire un maximum de dégâts en corps à corps : tronçonneuses, haches et la fameuse poêle à frire.
 						</p>
 						<p><a href="http://store.steampowered.com/app/550/?snr=1_7_15__13" class="btn btn-default pull-right">Site</a></p>
 					</div>
@@ -199,7 +199,7 @@
 				<div class="col-md-8">
 					<div class="caption">
 						<h3>TEEWORLDS</h3>
-						<p>Teeworlds est un jeu de tir à la troisième personne en 2D. Incarnez un petit Tee et munissez vous d'un véritable arsenal pour affronter vos adversaires dans de nombreuses arènes.
+						<p>Teeworlds est un jeu de tir à la troisième personne en 2D. Incarnez un petit Tee et munissez-vous d'un véritable arsenal pour affronter vos adversaires dans de nombreuses arènes.
 						<h3><small>Type d'animation</small></h3>En Death Match, CTF ou dans les nombreux modes disponibles, la montée au sommet du classement s'annonce rude.</p>
 						<p><a href="https://www.teeworlds.com/" class="btn btn-primary pull-right">Site</a></p>
 					</div>

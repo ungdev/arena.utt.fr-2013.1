@@ -43,14 +43,60 @@
 				
 				<div class="tab-pane fade in" id="horaires">
 					<h3>Etapes importantes</h3>
-					<p>
-						Ouverture de l'UTT Arena: Vendredi 29 novembre 18 h.<br />
-						Début des animations : Vendredi 29 novembre 20 h.<br />
-						Clôture des inscriptions aux spotlight : Vendredi 22 h.<br/>
-						Début des spotlight : Samedi midi.<br />
-						Fin des spotlight : Samedi soir.<br />
-						Clôture de l'UTT Arena : Dimanche 1 décembre 16 h.
-					</p>
+					<div class="row">
+						<div class="col-md-4">
+							<h3>Vendredi 29 novembre</h3>
+							<ul class="nav nav-pills nav-stacked">
+							  <li>
+								<a href="javascript:void(0);">
+								  <span class="badge pull-right">18 h</span>
+								  Ouverture de l'UTT Arena
+								</a>
+							  </li>
+							  <li>
+								<a href="javascript:void(0);">
+								  <span class="badge pull-right">20 h</span>
+								  Début des animations
+								</a>
+							  </li>
+							  <li>
+								<a href="javascript:void(0);">
+								  <span class="badge pull-right">22 h</span>
+								  Clôture des inscriptions aux Spotlight
+								</a>
+							  </li>
+							</ul>
+						</div>
+						
+						<div class="col-md-4">
+							<h3>Samedi 30 novembre</h3>
+								<ul class="nav nav-pills nav-stacked">
+								  <li>
+									<a href="javascript:void(0);">
+									  <span class="badge pull-right">13 h</span>
+									  Début des Spotlight
+									</a>
+								  </li>
+								  <li>
+									<a href="javascript:void(0);">
+									  <span class="badge pull-right">00 h</span>
+									  Fin des Spotlight
+									</a>
+								  </li>
+								</ul>
+							</div>
+						<div class="col-md-4">
+							<h3>Dimanche 1er décembre</h3>
+							<ul class="nav nav-pills nav-stacked">
+							  <li>
+								<a href="javascript:void(0);">
+								  <span class="badge pull-right">16 h</span>
+								  Clôture de l'UTT Arena 
+								</a>
+							  </li>
+							</ul>
+						</div>
+					</div>
 				</div>
 				
 				<div class="tab-pane fade in" id="tarif">
@@ -106,8 +152,8 @@
 					<br />
 					<div class="row">
 						<div class="col-md-8">
-							Les joueurs ont un emplacement pour installer leur PC et peuvent participer aux tournois spotlight et à toutes les animations de l'UTT Arena.
-							<br />L'achat d'une place est possible à tout moment lors de l'événement, mais les inscriptions aux tournois spotlight sont closes 48 avant l'événement. 
+							Les joueurs ont un emplacement pour installer leur PC et peuvent participer aux tournois Spotlight et à toutes les animations de l'UTT Arena.
+							<br />L'achat d'une place est possible à tout moment lors de l'événement, mais les inscriptions aux tournois Spotlight sont closes 48 avant l'événement. 
 						</div>
 						<div class="col-md-4">
 							Les visiteurs ne peuvent pas participer aux animations ni apporter un PC dans la LAN. Certains stands seront accessibles aux visiteurs.

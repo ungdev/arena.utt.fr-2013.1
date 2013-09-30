@@ -34,7 +34,7 @@ $interval->s = $diff - $days - $hours - $minutes;
 	<br/>
 	<div class="jumbotron">
 		<h1>Nous sommes de retour !</h1>
-		<p>Cet hiver, l'UTT Arena fait son comeback ! Nouvelle formule, nouvelles activités, plus de fun, et comme toujours des lots à gagner...</p>
+		<p>Cet hiver, du 29 novembre au 1er décembre 2013, l'UTT Arena fait son comeback ! Nouvelle formule, nouvelles activités, plus de fun, et comme toujours des lots à gagner...</p>
 		<p><a class="btn btn-primary btn-lg" href="description.php">Découvrez l'événement</a></p>
 	</div>
 
@@ -60,6 +60,7 @@ $interval->s = $diff - $days - $hours - $minutes;
 		</div>
 
 		<div class="col-md-6">
+			<p>Ouverture des inscriptions dans :</p>
 			<div class="row">
 				<div class="col-xs-6 col-sm-3">
 					<div class="days date-element">

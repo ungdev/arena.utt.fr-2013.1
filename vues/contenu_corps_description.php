@@ -23,7 +23,7 @@
             <div class="panel-header" style="padding-top: 10px;">
                 <ul class="nav nav-tabs">
                     <li class="active"><a href="#libre" data-toggle="tab">Animations</a></li>
-                    <li class=""><a href="#spotlight" data-toggle="tab">Spotlight</a></li>
+                    <li class=""><a href="#Spotlight" data-toggle="tab">Spotlight</a></li>
                     <li class=""><a href="#animations" data-toggle="tab">Partenaires</a></li>
                     <li class=""><a href="#plateau" data-toggle="tab">Jeux sur table</a></li>
                     <li class=""><a href="#invites" data-toggle="tab">Invités</a></li>
@@ -35,16 +35,18 @@
                 <div id="myTabContent" class="tab-content">
                     <div class="tab-pane fade active in" id="libre">
                         <h3>Les animations et les tournois libres</h3>
-                        <p>Grâce à notre site intranet, vous serez informés en live. L'équipe vous proposera des petits tournois sur les jeux de notre liste toute la journée : défis en tous genres sur notre serveur Minecraft, tournois sur console, challenge de speedrun sur Portal ou King of the Hill et bien d'autres, vous n'aurez pas une minute de répis.
+						<p>Cette année, vous n'êtes pas obligés de participer à un gros tournoi (Spotlight). Soyez libre de faire ce qu'il vous plaît en participant à des animations de toutes sortes organisées selon les demandes des joueurs et le swag des organisateurs.</p>
+                        <p>Grâce à notre site intranet (accessible sur place), vous serez informés en live de tout ce qui se passe dans les prochaines heures. L'équipe vous proposera des petits tournois sur les jeux de notre liste toute la journée : défis en tous genres sur notre serveur Minecraft, tournois sur console, challenge de speedrun sur Portal ou King of the Hill et bien d'autres, vous n'aurez pas une minute de répit.
 						Vous pourrez ainsi remporter des lots et des goodies si vous participez aux diverses animations organisées !</p>
+						<p>Inscrivez-vous en deux clics à un tournoi et connectez-vous à l'heure indiquée pour l'animation au serveur de l'UA avec les autres joueurs intéressés.</p>
 						<p>Si vous voulez faire des matchs avec vos voisins de table ou un inconnu à l'autre bout de la salle, ou trouver les fans de AoE2, l'intranet vous permettra de trouver vos adversaires et d'organiser vos rencontres. Nous faisons tout pour que vous passiez une LAN de folie !</p>
-						<p>Vous aurez une équipe globale attribuée à votre arrivée à la LAN : les rouges ou les bleus. Nous appelerons des gladiateurs des deux équipes régulièrement pour vous affronter sur des jeux avec des épreuves qui pourront vous surprendre.</p>
+						<p>Vous aurez une équipe globale attribuée à votre arrivée à la LAN : les rouges ou les bleus. Nous appellerons des gladiateurs des deux équipes régulièrement pour vous affronter sur des jeux avec des épreuves qui pourront vous surprendre.</p>
                     </div>
 
-                    <div class="tab-pane fade" id="spotlight">
+                    <div class="tab-pane fade" id="Spotlight">
                         <h3>Les tournois Spotlight</h3>
-                        <p>Vous êtes fan de League of Legends, de Starcraft II ou de Shootmania ? Nous organisons du samedi midi au samedi soir des tournois "Spotlight" diffusés et commmentés en direct sur ces trois jeux. Venez combattre en solo ou avec votre équipe et remportez des lots (le prize pool sera confirmé dans les semaines qui viennent) ! Vos nerfs seront mis à l'épreuve toute la journée si vous arrivez jusqu'en finale. </p>
-						<p>Contrairement aux autres animations, les spotlight nécéssitent de s'inscrire à l'avance et seront clos en ligne 48 h avant la LAN. Les inscriptions sur place aux spotlight terminent le vendredi soir à 22 h.</p>
+                        <p>Vous êtes fan de League of Legends, de Starcraft II ou de Shootmania ? Nous organisons du samedi midi au samedi soir des tournois "Spotlight" diffusés et commentés en direct sur ces trois jeux. Venez combattre en solo ou avec votre équipe et remportez des lots (le prize pool sera confirmé dans les semaines qui viennent) ! Vos nerfs seront mis à l'épreuve toute la journée si vous arrivez jusqu'en finale. </p>
+						<p>Contrairement aux autres animations, les Spotlight nécessitent de s'inscrire à l'avance et seront clos en ligne 48 h avant la LAN. Les inscriptions sur place aux Spotlight terminent le vendredi soir à 22 h.</p>
 						<p>Si vous préférez jouer à votre convenance aux jeux qui vous plaisent, ou que vous avez été éliminé d'un tournoi, les animations organisées du vendredi au dimanche vous tiendrons occupé jusqu'au bout de la nuit.</p>
                     </div>
 
@@ -62,7 +64,7 @@
 
                     <div class="tab-pane fade" id="invites">
                         <h3>Invités et VIP</h3>
-                        <p>Sur la scène, vous allez retrouver plein d'animations, et surtout des matchs en streaming. Pour commenter ces rencontres, nous accueillons des invités que vous connaissez peut être... Mais chut, pour le moment c'est une surprise !
+                        <p>Sur la scène, vous allez retrouver plein d'animations, et surtout des matchs en streaming. Pour commenter ces rencontres, nous accueillons des invités que vous connaissez peut-être... Mais chut, pour le moment c'est une surprise !
                         </p>
                     </div>
 
