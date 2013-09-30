@@ -14,7 +14,7 @@
 	<div class="panel panel-default">
 		<div class="panel-header" style="padding-top: 10px;">
 			<ul class="nav nav-tabs">
-				<li class="active"><a href="#acces" data-toggle="tab"><span class="glyphicon glyphicon-plane"></span> Accès</a></li>
+				<li class="active"><a href="#acces" data-toggle="tab"><span class="glyphicon glyphicon-road"></span> Accès</a></li>
 				<li class=""><a href="#horaires" data-toggle="tab"><span class="glyphicon glyphicon-calendar"></span> Horaires</a></li>
 				<li class=""><a href="#tarif" data-toggle="tab"><span class="glyphicon glyphicon-shopping-cart"></span> Tarif</a></li>
 				<li class=""><a href="#contact" data-toggle="tab"><span class="glyphicon glyphicon-comment"></span> Contact</a></li>
@@ -31,8 +31,8 @@
 							<li><em>Depuis Reims</em> : autoroute A26 puis autoroute A5, sortie numéro 21 Saint Thibault, direction Troyes sur la N71, puis rocade de contournement.</li>
 							<li><em>Depuis Dijon</em> : autoroute A5, sortie numéro 21 Saint Thibault, direction Troyes sur la N71, puis rocade de contournement.</li>
 						</ul>
-					<h3>Par le train (depuis Paris)</h3>
-					Gare de l'Est vers Troyes (1h20 à 1h40). Nous pouvons venir vous chercher à la gare, il suffit de nous appeler une demi-heure avant votre arrivée.</li>
+					<h3>Par le train</h3>
+					Depuis Paris : Gare de l'Est vers Troyes (1h20 à 1h40). <br />Nous pouvons venir vous chercher à la gare, il faut nous prévenir à l'avance par mail puis nous appeler une demi-heure avant votre arrivée.</li>
 				</div>
 				
 				<div class="tab-pane fade in" id="contact">
