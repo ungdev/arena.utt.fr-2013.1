@@ -3,10 +3,11 @@
 
 <head>
 	<?php require './vues/contenu_head.php' ?>
+	
+	<meta property="og:image" content="images/logoUA13.png" />
+	<meta name="description" content="Description de l'UTT Arena en détail : quels tournois auront lieu, quelles animations en dehors des tournois et un aperçu de nos précédents événements." />
 
-	<meta name="description" content="Description de l'UTT Arena en détails : tournois, animations,..." />
-
-	<title> Description de l'évènement - UTT Arena 2013 </title>
+	<title> Description de l'évènement - UTT Arena </title>
 </head>
 
 <body>

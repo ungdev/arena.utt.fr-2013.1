@@ -4,9 +4,10 @@
 <head>
 	<?php require './vues/contenu_head.php' ?>
 
+	<meta property="og:image" content="images/logoUA13.png" />
 	<meta name="description" content="Liste des organisateurs de l'UTT Arena, pour mettre un visage sur un nom !" />
 
-	<title> Staff - UTT Arena 2013 </title>
+	<title> Staff - UTT Arena </title>
 </head>
 
 <body>

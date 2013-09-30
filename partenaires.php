@@ -4,9 +4,10 @@
 <head>
 	<?php require './vues/contenu_head.php' ?>
 
+	<meta property="og:image" content="images/logoUA13.png" />
 	<meta name="description" content="Liste des partenaires de l'UTT Arena sans qui l'UA ne pourrait avoir lieu !" />
 
-	<title> Partenaires - UTT Arena 2013 </title>
+	<title> Partenaires - UTT Arena </title>
 </head>
 
 <body>

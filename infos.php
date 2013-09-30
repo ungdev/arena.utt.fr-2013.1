@@ -4,9 +4,10 @@
 <head>
 	<?php require './vues/contenu_head.php' ?>
 
-	<meta name="description" content="Informations pratiques pour s'inscrire à l'UTT Arena, s'y rendre, y manger, y dormir,..." />
+	<meta property="og:image" content="images/logoUA13.png" />
+	<meta name="description" content="Toutes les informations pratiques pour s'inscrire à l'UTT Arena, et les conseils pour s'y rendre, y manger, y dormir ou nous contacter." />
 
-	<title> Informations pratiques - UTT Arena 2013 </title>
+	<title> Informations pratiques - UTT Arena </title>
 </head>
 
 <body>
