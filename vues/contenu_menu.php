@@ -24,7 +24,7 @@
             <ul class="nav navbar-nav">
 
                 <li class="dropdown">
-				<li><a href="description.php">Découvrez l'évènement</a></li>
+				<li><a href="description.php">L'event</a></li>
 				<li><a href="jeux.php">Les jeux</a></li>
 				<li><a href="infos.php">Infos pratiques</a></li>
 				<li><a href="staff.php">Staff</a></li>

@@ -85,6 +85,11 @@ body, html {
 
 }
 
+.navbar-collapse {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
 .list-group-item {
 	border-color: #1F303A;
 }
@@ -273,7 +278,7 @@ h5 small, h6 small, .h1 small, .h2 small,
         margin-top: 0px;
     }
 
-    @media screen and (max-width: 830px) {
+    @media screen and (max-width: 966px) {
         #logoleft { display: none; }
     }
 }
